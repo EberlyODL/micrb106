@@ -3,8 +3,4 @@
 // to pull in and reference other web components / ES module compliant libraries.
 // utilize bare imports like import "@things/stuff/stuff.js"; and ensure you reference the js file directly
 
-// set style overrides
-let root = document.documentElement;
-root.style.setProperty('--haxcms-base-styles-list-max-width', 'none');
-
 import './components/custom-gif.js'
