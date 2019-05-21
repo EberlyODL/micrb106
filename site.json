@@ -1254,10 +1254,10 @@
             "order": 3,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Reproduction Rates",
-            "description": "",
+            "description": "The power of exponential growth\u00a0There is an old Chinese proverb that explains the power of exponential growth. There was once a rich and powerful man who was riding a large horse near the lake shore",
             "metadata": {
                 "created": 1558463153768,
-                "updated": 1558463187,
+                "updated": 1558465753,
                 "uid": "1",
                 "files": [
                     {
@@ -1268,7 +1268,24 @@
                         "name": "reproduction-rates1.csv",
                         "size": 605
                     }
-                ]
+                ],
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 10,
+                    "schema": [
+                        {
+                            "resource": "#69e467e3-6e77-162d-9ba8",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "h3": 1,
+                        "p": 10,
+                        "lrn-table": 1
+                    },
+                    "elements": 12
+                }
             }
         },
         {
