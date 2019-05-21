@@ -1,4 +1,4 @@
-import{LitElement as t,css as e,html as s}from"../../build/es6/node_modules/lit-element/lit-element.js";customElements.define("custom-gif",class extends t{static get properties(){return{name:{type:String}}}constructor(){super(),this.name="World"}static get styles(){return e`
+import{LitElement as t,css as e,html as s}from"../../build/es6/node_modules/lit-element/lit-element.js";customElements.define("custom-gif",class extends t{static get properties(){}constructor(){super()}static get styles(){return e`
       :host {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -26,4 +26,4 @@ import{LitElement as t,css as e,html as s}from"../../build/es6/node_modules/lit-
       <div id="info">
         <slot name="info"></slot>
       </div>
-    `}});
+    `}}),document.documentElement.style.setProperty("--haxcms-base-styles-list-max-width","none");

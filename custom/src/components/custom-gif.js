@@ -2,12 +2,10 @@ import { LitElement, html, css } from 'lit-element/lit-element.js';
 
 class CustomGif extends LitElement {
   static get properties() {
-    return { name: { type: String } };
   }
 
   constructor() {
     super();
-    this.name = 'World';
   }
 
   static get styles() {
