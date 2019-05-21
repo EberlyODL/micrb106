@@ -1,4 +1,4 @@
-import { LitElement, html, css } from 'lit-element';
+import { LitElement, html, css } from 'lit-element/lit-element.js';
 
 class CustomGif extends LitElement {
   static get properties() {

@@ -1258,7 +1258,17 @@
             "metadata": {
                 "created": 1558463153768,
                 "updated": 1558463187,
-                "uid": "1"
+                "uid": "1",
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/micrb106v2\/files\/reproduction-rates1.csv",
+                        "fullUrl": "\/sites\/micrb106v2\/files\/reproduction-rates1.csv",
+                        "url": "files\/reproduction-rates1.csv",
+                        "type": "text\/plain",
+                        "name": "reproduction-rates1.csv",
+                        "size": 605
+                    }
+                ]
             }
         },
         {
