@@ -1,0 +1,12 @@
+{
+  "regex": [
+    {
+      "pattern": "src=\"\/micrb106\/",
+      "replacement": "src=\"http:\/\/courses.ed.science.psu.edu\/micrb106\/"
+    },
+    {
+      "pattern": "href=\"\/micrb106\/",
+      "replacement": "href=\"http:\/\/courses.ed.science.psu.edu\/micrb106\/"
+    }
+  ]
+}

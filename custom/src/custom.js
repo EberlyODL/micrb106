@@ -2,3 +2,5 @@
 // This could be webcomponents added directly here or using import statements
 // to pull in and reference other web components / ES module compliant libraries.
 // utilize bare imports like import "@things/stuff/stuff.js"; and ensure you reference the js file directly
+
+import './components/custom-gif.js'
