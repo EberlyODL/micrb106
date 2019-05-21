@@ -6,17 +6,2327 @@
     <description></description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 12:13:54 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 12:14:15 -0600</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New page</title>
-      <link>/item-a6a0313e-93e8-4bbd-9aca-45a31d93da48</link>
+      <title>Outline Micrb106 Spring 2016</title>
+      <link>/outline-micrb106-spring-2016</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>/item-a6a0313e-93e8-4bbd-9aca-45a31d93da48</guid>
-      <pubDate>Sun, 21 May 2434 15:58:46 -0700</pubDate>
+      <guid>/outline-micrb106-spring-2016</guid>
+      <pubDate>Mon, 28 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lessons</title>
+      <link>/lessons</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/lessons</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Medical Microbiology</title>
+      <link>/medical-microbiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/medical-microbiology</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Parade of Diseases</title>
+      <link>/parade-of-diseases</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/parade-of-diseases</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Staphylococcal Diseases</title>
+      <link>/staphylococcal-diseases</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/staphylococcal-diseases</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Pneumococcus</title>
+      <link>/pneumococcus</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pneumococcus</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bacillus anthracis</title>
+      <link>/bacillus-anthracis</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bacillus-anthracis</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Streptococcal Diseases</title>
+      <link>/streptococcal-diseases</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/streptococcal-diseases</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Streptococci</title>
+      <link>/streptococci</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/streptococci</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Staphylococci</title>
+      <link>/staphylococci</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/staphylococci</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Enteric Bacilli</title>
+      <link>/enteric-bacilli</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/enteric-bacilli</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Chemistry and Cell Biology</title>
+      <link>/chemistry-and-cell-biology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chemistry-and-cell-biology</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Basic Chemistry</title>
+      <link>/basic-chemistry</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/basic-chemistry</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Chemical Bonding</title>
+      <link>/chemical-bonding</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chemical-bonding</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Atoms and Ions</title>
+      <link>/atoms-and-ions</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/atoms-and-ions</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Properties of Water</title>
+      <link>/properties-of-water</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/properties-of-water</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>pH: Acids and Bases</title>
+      <link>/ph-acids-and-bases</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/ph-acids-and-bases</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Conjugated Enzymes</title>
+      <link>/conjugated-enzymes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/conjugated-enzymes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Organic Compounds</title>
+      <link>/organic-compounds</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/organic-compounds</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Carbohydrates</title>
+      <link>/carbohydrates</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/carbohydrates</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lipids</title>
+      <link>/lipids</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/lipids</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Proteins</title>
+      <link>/proteins</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/proteins</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Enzymes</title>
+      <link>/enzymes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/enzymes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Nucleic Acids</title>
+      <link>/nucleic-acids</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/nucleic-acids</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>ATP</title>
+      <link>/atp</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/atp</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Basic Cell Biology</title>
+      <link>/basic-cell-biology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/basic-cell-biology</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Transport of Water</title>
+      <link>/transport-of-water</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/transport-of-water</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Osmotic Pressure</title>
+      <link>/osmotic-pressure</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/osmotic-pressure</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Types of cells</title>
+      <link>/types-of-cells</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/types-of-cells</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Cellular Organelles</title>
+      <link>/cellular-organelles</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/cellular-organelles</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Chromosomes</title>
+      <link>/chromosomes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chromosomes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Genes</title>
+      <link>/genes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/genes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Chromosome Number</title>
+      <link>/chromosome-number</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chromosome-number</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Plasma Membrane</title>
+      <link>/plasma-membrane</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/plasma-membrane</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Diffusion</title>
+      <link>/diffusion</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/diffusion</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Membrane Transport Systems</title>
+      <link>/membrane-transport-systems</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/membrane-transport-systems</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bulk Membrane Transport</title>
+      <link>/bulk-membrane-transport</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bulk-membrane-transport</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Genetics</title>
+      <link>/genetics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/genetics</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Molecular Genetics</title>
+      <link>/molecular-genetics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/molecular-genetics</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Transcription / Translation in Prokaryotes</title>
+      <link>/transcription-/-translation-in-prokaryotes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/transcription-/-translation-in-prokaryotes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Structure of DNA</title>
+      <link>/structure-of-dna</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/structure-of-dna</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Genetic Material</title>
+      <link>/genetic-material</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/genetic-material</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Central Dogma</title>
+      <link>/central-dogma</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/central-dogma</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gene Splicing</title>
+      <link>/gene-splicing</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/gene-splicing</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>DNA Replication</title>
+      <link>/dna-replication</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/dna-replication</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Transcription</title>
+      <link>/transcription</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/transcription</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Translation: Code of Life</title>
+      <link>/translation-code-of-life</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/translation-code-of-life</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Translation: Codons</title>
+      <link>/translation-codons</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/translation-codons</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Translation Process</title>
+      <link>/translation-process</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/translation-process</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Replication: Prokaryotes</title>
+      <link>/replication-prokaryotes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/replication-prokaryotes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bacterial Genetics</title>
+      <link>/bacterial-genetics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bacterial-genetics</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Transformation</title>
+      <link>/transformation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/transformation</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Generalized Transduction</title>
+      <link>/generalized-transduction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/generalized-transduction</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Conjugation: F Plasmids</title>
+      <link>/conjugation-f-plasmids</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/conjugation-f-plasmids</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Conjugation: Hfr Transfer</title>
+      <link>/conjugation-hfr-transfer</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/conjugation-hfr-transfer</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Specialized Transduction</title>
+      <link>/specialized-transduction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/specialized-transduction</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Transposons</title>
+      <link>/transposons</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/transposons</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Mutations</title>
+      <link>/mutations</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/mutations</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Repair Mechanisms</title>
+      <link>/repair-mechanisms</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/repair-mechanisms</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Causes of Mutations</title>
+      <link>/causes-of-mutations</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/causes-of-mutations</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Ames Test</title>
+      <link>/ames-test</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/ames-test</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Point Mutations</title>
+      <link>/point-mutations</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/point-mutations</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Base Analogs</title>
+      <link>/base-analogs</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/base-analogs</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Frameshift Mutations</title>
+      <link>/frameshift-mutations</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/frameshift-mutations</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Introduction to Microbes</title>
+      <link>/introduction-to-microbes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/introduction-to-microbes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Early Scientists</title>
+      <link>/early-scientists</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/early-scientists</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Spontaneous Generation: Microbes</title>
+      <link>/spontaneous-generation-microbes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/spontaneous-generation-microbes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>History of Microbiology</title>
+      <link>/history-of-microbiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/history-of-microbiology</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Pasteur and Wine production</title>
+      <link>/pasteur-and-wine-production</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pasteur-and-wine-production</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Types of Microorganisms</title>
+      <link>/types-of-microorganisms</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/types-of-microorganisms</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microbes and the Planet</title>
+      <link>/microbes-and-the-planet</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microbes-and-the-planet</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Early Civilization</title>
+      <link>/early-civilization</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/early-civilization</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Disease & the Ancient World</title>
+      <link>/disease-the-ancient-world</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/disease-the-ancient-world</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Disease & Religion</title>
+      <link>/disease-religion</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/disease-religion</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microbes and Humans</title>
+      <link>/microbes-and-humans</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microbes-and-humans</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Rise of Scientific Thought</title>
+      <link>/rise-of-scientific-thought</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/rise-of-scientific-thought</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Spontaneous Generation</title>
+      <link>/spontaneous-generation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/spontaneous-generation</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Germ Theory of Disease</title>
+      <link>/germ-theory-of-disease</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/germ-theory-of-disease</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Modern Technologies</title>
+      <link>/modern-technologies</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/modern-technologies</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Growth and Metabolism</title>
+      <link>/growth-and-metabolism</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/growth-and-metabolism</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bacterial Growth and Nutrition</title>
+      <link>/bacterial-growth-and-nutrition</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bacterial-growth-and-nutrition</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bacterial Growth Patterns</title>
+      <link>/bacterial-growth-patterns</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bacterial-growth-patterns</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bacterial Growth Curve</title>
+      <link>/bacterial-growth-curve</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bacterial-growth-curve</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Counting Bacteria</title>
+      <link>/counting-bacteria</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/counting-bacteria</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Reproduction Rates</title>
+      <link>/reproduction-rates</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/reproduction-rates</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Energy and Carbon Sources</title>
+      <link>/energy-and-carbon-sources</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/energy-and-carbon-sources</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Temperature and Growth</title>
+      <link>/temperature-and-growth</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/temperature-and-growth</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Oxygen and growth</title>
+      <link>/oxygen-and-growth</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/oxygen-and-growth</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Other Growth Parameters</title>
+      <link>/other-growth-parameters</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/other-growth-parameters</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Metabolism</title>
+      <link>/metabolism</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/metabolism</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Metabolism Overview</title>
+      <link>/metabolism-overview</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/metabolism-overview</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Energy Pathways</title>
+      <link>/energy-pathways</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/energy-pathways</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Respiration vs Fermentation</title>
+      <link>/respiration-vs-fermentation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/respiration-vs-fermentation</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Glycolysis</title>
+      <link>/glycolysis</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/glycolysis</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Anabolism</title>
+      <link>/anabolism</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/anabolism</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Krebs Cycle</title>
+      <link>/krebs-cycle</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/krebs-cycle</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Electron Transport Chain</title>
+      <link>/electron-transport-chain</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/electron-transport-chain</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Biotechnology</title>
+      <link>/biotechnology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/biotechnology</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Genetically Modified Organisms</title>
+      <link>/genetically-modified-organisms</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/genetically-modified-organisms</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Why the Interest?</title>
+      <link>/why-the-interest-</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/why-the-interest-</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Making a GMO</title>
+      <link>/making-a-gmo</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/making-a-gmo</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>How Bt Works</title>
+      <link>/how-bt-works</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/how-bt-works</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Problems with Bt</title>
+      <link>/problems-with-bt</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/problems-with-bt</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Frankenfoods</title>
+      <link>/frankenfoods</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/frankenfoods</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>In the Beginning: Early GMO's</title>
+      <link>/in-the-beginning-early-gmo-s</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/in-the-beginning-early-gmo-s</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Trouble with GMO's</title>
+      <link>/the-trouble-with-gmo-s</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/the-trouble-with-gmo-s</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gene Doping</title>
+      <link>/gene-doping</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/gene-doping</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Biotechnology Tools</title>
+      <link>/biotechnology-tools</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/biotechnology-tools</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>History of Gene Manipulation</title>
+      <link>/history-of-gene-manipulation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/history-of-gene-manipulation</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Polymerase Chain Reaction</title>
+      <link>/polymerase-chain-reaction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/polymerase-chain-reaction</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Electrophoresis</title>
+      <link>/electrophoresis</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/electrophoresis</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Restriction Enzymes</title>
+      <link>/restriction-enzymes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/restriction-enzymes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>DNA Fingerprinting</title>
+      <link>/dna-fingerprinting</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/dna-fingerprinting</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Genetic Engineering</title>
+      <link>/genetic-engineering</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/genetic-engineering</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Engineering Bacteria</title>
+      <link>/engineering-bacteria</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/engineering-bacteria</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Plasmid /Vector</title>
+      <link>/plasmid-/vector</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/plasmid-/vector</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Plant Engineering</title>
+      <link>/plant-engineering</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/plant-engineering</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Human Engineering</title>
+      <link>/human-engineering</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/human-engineering</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Prokaryotes and Eukaryotes</title>
+      <link>/prokaryotes-and-eukaryotes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/prokaryotes-and-eukaryotes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>External Structures</title>
+      <link>/external-structures</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/external-structures</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Cell Wall Structure</title>
+      <link>/cell-wall-structure</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/cell-wall-structure</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Internal Structures</title>
+      <link>/internal-structures</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/internal-structures</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Resolution</title>
+      <link>/resolution</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/resolution</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Endospores</title>
+      <link>/endospores</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/endospores</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microscope Basics</title>
+      <link>/microscope-basics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microscope-basics</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gram Stain</title>
+      <link>/gram-stain</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/gram-stain</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Staining Basics</title>
+      <link>/staining-basics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/staining-basics</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gram Positive/Negative</title>
+      <link>/gram-positive/negative</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/gram-positive/negative</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Types of Microscopy</title>
+      <link>/types-of-microscopy</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/types-of-microscopy</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Advanced Staining</title>
+      <link>/advanced-staining</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/advanced-staining</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microbial Cell Structures</title>
+      <link>/microbial-cell-structures</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microbial-cell-structures</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Other Types of Cells</title>
+      <link>/other-types-of-cells</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/other-types-of-cells</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Control of Microbes</title>
+      <link>/control-of-microbes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/control-of-microbes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Radiation</title>
+      <link>/radiation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/radiation</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Filtration</title>
+      <link>/filtration</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/filtration</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Osmotic Pressure</title>
+      <link>/osmotic-pressure</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/osmotic-pressure</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Resistance Mechanisms</title>
+      <link>/resistance-mechanisms</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/resistance-mechanisms</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Antibiotic Mechanisms II</title>
+      <link>/antibiotic-mechanisms-ii</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/antibiotic-mechanisms-ii</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Types of Chemical Agents</title>
+      <link>/types-of-chemical-agents</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/types-of-chemical-agents</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Characteristics of Antibiotics</title>
+      <link>/characteristics-of-antibiotics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/characteristics-of-antibiotics</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Antibiotic Mechanisms</title>
+      <link>/antibiotic-mechanisms</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/antibiotic-mechanisms</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Antibiotic Resistance</title>
+      <link>/antibiotic-resistance</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/antibiotic-resistance</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microbial resistance</title>
+      <link>/microbial-resistance</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microbial-resistance</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Physical Methods: Heat</title>
+      <link>/physical-methods-heat</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/physical-methods-heat</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Chemical Agents</title>
+      <link>/chemical-agents</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chemical-agents</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Control overview</title>
+      <link>/control-overview</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/control-overview</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Discovery of Antibiotics</title>
+      <link>/discovery-of-antibiotics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/discovery-of-antibiotics</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Phenol Coefficient</title>
+      <link>/phenol-coefficient</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/phenol-coefficient</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Medical Microbiology II</title>
+      <link>/medical-microbiology-ii</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/medical-microbiology-ii</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Neisseriae</title>
+      <link>/neisseriae</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/neisseriae</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Spirochetes</title>
+      <link>/spirochetes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/spirochetes</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bordetella</title>
+      <link>/bordetella</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bordetella</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Yersinia</title>
+      <link>/yersinia</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/yersinia</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Vibrio</title>
+      <link>/vibrio</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/vibrio</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Legionella</title>
+      <link>/legionella</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/legionella</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Immunology</title>
+      <link>/immunology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/immunology</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Immune System</title>
+      <link>/immune-system</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/immune-system</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Key Principles</title>
+      <link>/key-principles</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/key-principles</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Nonspecific Barriers</title>
+      <link>/nonspecific-barriers</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/nonspecific-barriers</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Nonspecific Defenses</title>
+      <link>/nonspecific-defenses</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/nonspecific-defenses</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Specific Responses</title>
+      <link>/specific-responses</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/specific-responses</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Cell Mediated</title>
+      <link>/cell-mediated</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/cell-mediated</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Antibody Mediated</title>
+      <link>/antibody-mediated</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/antibody-mediated</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Immunoglobulins</title>
+      <link>/immunoglobulins</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/immunoglobulins</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Antibody Function</title>
+      <link>/antibody-function</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/antibody-function</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Categories of Specific Immunity</title>
+      <link>/categories-of-specific-immunity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/categories-of-specific-immunity</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Allergins</title>
+      <link>/allergins</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/allergins</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Capillaries</title>
+      <link>/capillaries</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/capillaries</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Fluids</title>
+      <link>/fluids</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/fluids</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lymphatic System</title>
+      <link>/lymphatic-system</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/lymphatic-system</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lymphatic Organs</title>
+      <link>/lymphatic-organs</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/lymphatic-organs</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Immune System</title>
+      <link>/immune-system</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/immune-system</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Influenza </title>
+      <link>/influenza</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/influenza</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Avian Flu</title>
+      <link>/avian-flu</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/avian-flu</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Biology of Influenza</title>
+      <link>/biology-of-influenza</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/biology-of-influenza</guid>
+      <pubDate>Tue, 29 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Influenza: the Disease</title>
+      <link>/influenza-the-disease</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/influenza-the-disease</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Epidemiology of Influenza</title>
+      <link>/epidemiology-of-influenza</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/epidemiology-of-influenza</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Applied Immunology</title>
+      <link>/applied-immunology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/applied-immunology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Vaccines historically</title>
+      <link>/vaccines-historically</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/vaccines-historically</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Whole Cell Vaccines</title>
+      <link>/whole-cell-vaccines</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/whole-cell-vaccines</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Other Vaccine Types</title>
+      <link>/other-vaccine-types</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/other-vaccine-types</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Vaccine Controversy</title>
+      <link>/vaccine-controversy</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/vaccine-controversy</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Using Antibodies</title>
+      <link>/using-antibodies</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/using-antibodies</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>ELISA Direct Method</title>
+      <link>/elisa-direct-method</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/elisa-direct-method</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>ELISA Indirect</title>
+      <link>/elisa-indirect</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/elisa-indirect</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Medical Virology</title>
+      <link>/medical-virology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/medical-virology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Future Lessons</title>
+      <link>/future-lessons</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/future-lessons</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Survey of Microbial World</title>
+      <link>/survey-of-microbial-world</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/survey-of-microbial-world</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bioterrorism</title>
+      <link>/bioterrorism</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bioterrorism</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Influenza</title>
+      <link>/influenza</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/influenza</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Infections and Epidemiology</title>
+      <link>/infections-and-epidemiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/infections-and-epidemiology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Establishment and Spread</title>
+      <link>/establishment-and-spread</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/establishment-and-spread</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Damage</title>
+      <link>/damage</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/damage</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Exotoxins and Endotoxins</title>
+      <link>/exotoxins-and-endotoxins</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/exotoxins-and-endotoxins</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Portals of Exit</title>
+      <link>/portals-of-exit</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/portals-of-exit</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Epidemiology</title>
+      <link>/epidemiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/epidemiology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Reserviors</title>
+      <link>/reserviors</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/reserviors</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Epidemiology Future Topic</title>
+      <link>/epidemiology-future-topic</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/epidemiology-future-topic</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Epidemiological Rates</title>
+      <link>/epidemiological-rates</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/epidemiological-rates</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Pattern of Infection</title>
+      <link>/pattern-of-infection</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pattern-of-infection</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Descriptive Epidemiology</title>
+      <link>/descriptive-epidemiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/descriptive-epidemiology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Human Host</title>
+      <link>/human-host</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/human-host</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Encounter: Portal of Entry</title>
+      <link>/encounter-portal-of-entry</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/encounter-portal-of-entry</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Attachment and Entry</title>
+      <link>/attachment-and-entry</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/attachment-and-entry</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Virology</title>
+      <link>/virology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/virology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Biology of Viruses</title>
+      <link>/biology-of-viruses</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/biology-of-viruses</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>What is a virus?</title>
+      <link>/what-is-a-virus-</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/what-is-a-virus-</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Viral Structure</title>
+      <link>/viral-structure</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/viral-structure</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Viral Genetic Information</title>
+      <link>/viral-genetic-information</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/viral-genetic-information</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Replication: Lytic cycle</title>
+      <link>/replication-lytic-cycle</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/replication-lytic-cycle</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bacteriophage and Lysogeny</title>
+      <link>/bacteriophage-and-lysogeny</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bacteriophage-and-lysogeny</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Growing Viruses</title>
+      <link>/growing-viruses</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/growing-viruses</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Viral Diseases</title>
+      <link>/viral-diseases</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/viral-diseases</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Diseases 2</title>
+      <link>/diseases-2</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/diseases-2</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Diseases 3</title>
+      <link>/diseases-3</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/diseases-3</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Diseases 4</title>
+      <link>/diseases-4</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/diseases-4</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Diseases 1</title>
+      <link>/diseases-1</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/diseases-1</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Environmental and Applied</title>
+      <link>/environmental-and-applied</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/environmental-and-applied</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Food Microbiology</title>
+      <link>/food-microbiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/food-microbiology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Applied Microbiology</title>
+      <link>/applied-microbiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/applied-microbiology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Environmental Microbiology--Bioremediation</title>
+      <link>/environmental-microbiology-bioremediation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/environmental-microbiology-bioremediation</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>More Food Microbiology</title>
+      <link>/more-food-microbiology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/more-food-microbiology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microbes and the Water Supply</title>
+      <link>/microbes-and-the-water-supply</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microbes-and-the-water-supply</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microbes in the Environment</title>
+      <link>/microbes-in-the-environment</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microbes-in-the-environment</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Microbes: Nitrogen Fixation</title>
+      <link>/microbes-nitrogen-fixation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/microbes-nitrogen-fixation</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Aquatic Microbial Ecology</title>
+      <link>/aquatic-microbial-ecology</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/aquatic-microbial-ecology</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>/resources</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/resources</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Mycobacteria</title>
+      <link>/mycobacteria</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/mycobacteria</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Mycobacterium: Tuberculosis</title>
+      <link>/mycobacterium-tuberculosis</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/mycobacterium-tuberculosis</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Mycobacterium: Leprosy</title>
+      <link>/mycobacterium-leprosy</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/mycobacterium-leprosy</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>Clostridium</title>
+      <link>/clostridium</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/clostridium</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
+    </item>
+    <item>
+      <title>ANGEL</title>
+      <link>/angel</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/angel</guid>
+      <pubDate>Wed, 30 Nov 2642 15:58:46 -0700</pubDate>
     </item>
   </channel>
 </rss>

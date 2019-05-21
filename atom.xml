@@ -3,18 +3,2790 @@
   <title>micrb106v2</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
-  <updated>2019-05-21T12:13:54-06:00</updated>
+  <updated>2019-05-21T12:14:15-06:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
   <entry>
-    <title>New page</title>
-    <id>/item-a6a0313e-93e8-4bbd-9aca-45a31d93da48</id>
-    <updated>2019-05-21T12:13:54-06:00</updated>
-    <published>2019-05-21T12:13:54-06:00</published>
+    <title>Outline Micrb106 Spring 2016</title>
+    <id>/outline-micrb106-spring-2016</id>
+    <updated>2019-05-21T12:21:58-06:00</updated>
+    <published>51355-09-18T18:32:12-07:00</published>
     <summary></summary>
-    <link href="/item-a6a0313e-93e8-4bbd-9aca-45a31d93da48"/>
+    <link href="/outline-micrb106-spring-2016"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lessons</title>
+    <id>/lessons</id>
+    <updated>2019-05-21T12:21:58-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/lessons"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Medical Microbiology</title>
+    <id>/medical-microbiology</id>
+    <updated>2019-05-21T12:21:59-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/medical-microbiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Parade of Diseases</title>
+    <id>/parade-of-diseases</id>
+    <updated>2019-05-21T12:21:59-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/parade-of-diseases"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Staphylococcal Diseases</title>
+    <id>/staphylococcal-diseases</id>
+    <updated>2019-05-21T12:22:00-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/staphylococcal-diseases"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Pneumococcus</title>
+    <id>/pneumococcus</id>
+    <updated>2019-05-21T12:22:00-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/pneumococcus"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bacillus anthracis</title>
+    <id>/bacillus-anthracis</id>
+    <updated>2019-05-21T12:22:00-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/bacillus-anthracis"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Streptococcal Diseases</title>
+    <id>/streptococcal-diseases</id>
+    <updated>2019-05-21T12:22:01-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/streptococcal-diseases"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Streptococci</title>
+    <id>/streptococci</id>
+    <updated>2019-05-21T12:22:01-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/streptococci"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Staphylococci</title>
+    <id>/staphylococci</id>
+    <updated>2019-05-21T12:22:02-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/staphylococci"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Enteric Bacilli</title>
+    <id>/enteric-bacilli</id>
+    <updated>2019-05-21T12:22:02-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/enteric-bacilli"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Chemistry and Cell Biology</title>
+    <id>/chemistry-and-cell-biology</id>
+    <updated>2019-05-21T12:22:03-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/chemistry-and-cell-biology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Basic Chemistry</title>
+    <id>/basic-chemistry</id>
+    <updated>2019-05-21T12:22:03-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/basic-chemistry"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Chemical Bonding</title>
+    <id>/chemical-bonding</id>
+    <updated>2019-05-21T12:22:04-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/chemical-bonding"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Atoms and Ions</title>
+    <id>/atoms-and-ions</id>
+    <updated>2019-05-21T12:22:04-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/atoms-and-ions"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Properties of Water</title>
+    <id>/properties-of-water</id>
+    <updated>2019-05-21T12:22:05-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/properties-of-water"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>pH: Acids and Bases</title>
+    <id>/ph-acids-and-bases</id>
+    <updated>2019-05-21T12:22:05-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/ph-acids-and-bases"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Conjugated Enzymes</title>
+    <id>/conjugated-enzymes</id>
+    <updated>2019-05-21T12:22:06-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/conjugated-enzymes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Organic Compounds</title>
+    <id>/organic-compounds</id>
+    <updated>2019-05-21T12:22:06-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/organic-compounds"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Carbohydrates</title>
+    <id>/carbohydrates</id>
+    <updated>2019-05-21T12:22:07-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/carbohydrates"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lipids</title>
+    <id>/lipids</id>
+    <updated>2019-05-21T12:22:07-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/lipids"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Proteins</title>
+    <id>/proteins</id>
+    <updated>2019-05-21T12:22:07-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/proteins"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Enzymes</title>
+    <id>/enzymes</id>
+    <updated>2019-05-21T12:22:08-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/enzymes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Nucleic Acids</title>
+    <id>/nucleic-acids</id>
+    <updated>2019-05-21T12:22:08-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/nucleic-acids"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ATP</title>
+    <id>/atp</id>
+    <updated>2019-05-21T12:22:09-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/atp"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Basic Cell Biology</title>
+    <id>/basic-cell-biology</id>
+    <updated>2019-05-21T12:22:09-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/basic-cell-biology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Transport of Water</title>
+    <id>/transport-of-water</id>
+    <updated>2019-05-21T12:22:09-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/transport-of-water"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Osmotic Pressure</title>
+    <id>/osmotic-pressure</id>
+    <updated>2019-05-21T12:22:10-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/osmotic-pressure"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Types of cells</title>
+    <id>/types-of-cells</id>
+    <updated>2019-05-21T12:22:10-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/types-of-cells"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Cellular Organelles</title>
+    <id>/cellular-organelles</id>
+    <updated>2019-05-21T12:22:10-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/cellular-organelles"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Chromosomes</title>
+    <id>/chromosomes</id>
+    <updated>2019-05-21T12:22:11-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/chromosomes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Genes</title>
+    <id>/genes</id>
+    <updated>2019-05-21T12:22:11-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/genes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Chromosome Number</title>
+    <id>/chromosome-number</id>
+    <updated>2019-05-21T12:22:12-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/chromosome-number"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Plasma Membrane</title>
+    <id>/plasma-membrane</id>
+    <updated>2019-05-21T12:22:12-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/plasma-membrane"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Diffusion</title>
+    <id>/diffusion</id>
+    <updated>2019-05-21T12:22:13-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/diffusion"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Membrane Transport Systems</title>
+    <id>/membrane-transport-systems</id>
+    <updated>2019-05-21T12:22:13-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/membrane-transport-systems"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bulk Membrane Transport</title>
+    <id>/bulk-membrane-transport</id>
+    <updated>2019-05-21T12:22:14-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/bulk-membrane-transport"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Genetics</title>
+    <id>/genetics</id>
+    <updated>2019-05-21T12:22:14-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/genetics"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Molecular Genetics</title>
+    <id>/molecular-genetics</id>
+    <updated>2019-05-21T12:22:15-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/molecular-genetics"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Transcription / Translation in Prokaryotes</title>
+    <id>/transcription-/-translation-in-prokaryotes</id>
+    <updated>2019-05-21T12:22:15-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/transcription-/-translation-in-prokaryotes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Structure of DNA</title>
+    <id>/structure-of-dna</id>
+    <updated>2019-05-21T12:22:15-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/structure-of-dna"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Genetic Material</title>
+    <id>/genetic-material</id>
+    <updated>2019-05-21T12:22:16-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/genetic-material"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Central Dogma</title>
+    <id>/central-dogma</id>
+    <updated>2019-05-21T12:22:16-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/central-dogma"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Gene Splicing</title>
+    <id>/gene-splicing</id>
+    <updated>2019-05-21T12:22:16-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/gene-splicing"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>DNA Replication</title>
+    <id>/dna-replication</id>
+    <updated>2019-05-21T12:22:16-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/dna-replication"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Transcription</title>
+    <id>/transcription</id>
+    <updated>2019-05-21T12:22:16-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/transcription"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Translation: Code of Life</title>
+    <id>/translation-code-of-life</id>
+    <updated>2019-05-21T12:22:17-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/translation-code-of-life"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Translation: Codons</title>
+    <id>/translation-codons</id>
+    <updated>2019-05-21T12:22:17-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/translation-codons"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Translation Process</title>
+    <id>/translation-process</id>
+    <updated>2019-05-21T12:22:17-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/translation-process"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Replication: Prokaryotes</title>
+    <id>/replication-prokaryotes</id>
+    <updated>2019-05-21T12:22:17-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/replication-prokaryotes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bacterial Genetics</title>
+    <id>/bacterial-genetics</id>
+    <updated>2019-05-21T12:22:18-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/bacterial-genetics"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Transformation</title>
+    <id>/transformation</id>
+    <updated>2019-05-21T12:22:18-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/transformation"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Generalized Transduction</title>
+    <id>/generalized-transduction</id>
+    <updated>2019-05-21T12:22:18-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/generalized-transduction"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Conjugation: F Plasmids</title>
+    <id>/conjugation-f-plasmids</id>
+    <updated>2019-05-21T12:22:19-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/conjugation-f-plasmids"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Conjugation: Hfr Transfer</title>
+    <id>/conjugation-hfr-transfer</id>
+    <updated>2019-05-21T12:22:19-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/conjugation-hfr-transfer"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Specialized Transduction</title>
+    <id>/specialized-transduction</id>
+    <updated>2019-05-21T12:22:19-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/specialized-transduction"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Transposons</title>
+    <id>/transposons</id>
+    <updated>2019-05-21T12:22:19-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/transposons"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Mutations</title>
+    <id>/mutations</id>
+    <updated>2019-05-21T12:22:20-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/mutations"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Repair Mechanisms</title>
+    <id>/repair-mechanisms</id>
+    <updated>2019-05-21T12:22:20-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/repair-mechanisms"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Causes of Mutations</title>
+    <id>/causes-of-mutations</id>
+    <updated>2019-05-21T12:22:20-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/causes-of-mutations"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Ames Test</title>
+    <id>/ames-test</id>
+    <updated>2019-05-21T12:22:20-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/ames-test"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Point Mutations</title>
+    <id>/point-mutations</id>
+    <updated>2019-05-21T12:22:21-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/point-mutations"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Base Analogs</title>
+    <id>/base-analogs</id>
+    <updated>2019-05-21T12:22:21-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/base-analogs"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Frameshift Mutations</title>
+    <id>/frameshift-mutations</id>
+    <updated>2019-05-21T12:22:21-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/frameshift-mutations"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Introduction to Microbes</title>
+    <id>/introduction-to-microbes</id>
+    <updated>2019-05-21T12:22:21-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/introduction-to-microbes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Early Scientists</title>
+    <id>/early-scientists</id>
+    <updated>2019-05-21T12:22:22-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/early-scientists"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Spontaneous Generation: Microbes</title>
+    <id>/spontaneous-generation-microbes</id>
+    <updated>2019-05-21T12:22:22-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/spontaneous-generation-microbes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>History of Microbiology</title>
+    <id>/history-of-microbiology</id>
+    <updated>2019-05-21T12:22:22-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/history-of-microbiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Pasteur and Wine production</title>
+    <id>/pasteur-and-wine-production</id>
+    <updated>2019-05-21T12:22:22-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/pasteur-and-wine-production"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Types of Microorganisms</title>
+    <id>/types-of-microorganisms</id>
+    <updated>2019-05-21T12:22:23-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/types-of-microorganisms"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microbes and the Planet</title>
+    <id>/microbes-and-the-planet</id>
+    <updated>2019-05-21T12:22:23-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/microbes-and-the-planet"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Early Civilization</title>
+    <id>/early-civilization</id>
+    <updated>2019-05-21T12:22:23-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/early-civilization"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Disease & the Ancient World</title>
+    <id>/disease-the-ancient-world</id>
+    <updated>2019-05-21T12:22:23-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/disease-the-ancient-world"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Disease & Religion</title>
+    <id>/disease-religion</id>
+    <updated>2019-05-21T12:22:24-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/disease-religion"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microbes and Humans</title>
+    <id>/microbes-and-humans</id>
+    <updated>2019-05-21T12:22:24-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/microbes-and-humans"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Rise of Scientific Thought</title>
+    <id>/rise-of-scientific-thought</id>
+    <updated>2019-05-21T12:22:24-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/rise-of-scientific-thought"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Spontaneous Generation</title>
+    <id>/spontaneous-generation</id>
+    <updated>2019-05-21T12:22:24-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/spontaneous-generation"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Germ Theory of Disease</title>
+    <id>/germ-theory-of-disease</id>
+    <updated>2019-05-21T12:22:25-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/germ-theory-of-disease"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Modern Technologies</title>
+    <id>/modern-technologies</id>
+    <updated>2019-05-21T12:22:25-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/modern-technologies"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Growth and Metabolism</title>
+    <id>/growth-and-metabolism</id>
+    <updated>2019-05-21T12:22:25-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/growth-and-metabolism"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bacterial Growth and Nutrition</title>
+    <id>/bacterial-growth-and-nutrition</id>
+    <updated>2019-05-21T12:22:25-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/bacterial-growth-and-nutrition"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bacterial Growth Patterns</title>
+    <id>/bacterial-growth-patterns</id>
+    <updated>2019-05-21T12:22:26-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/bacterial-growth-patterns"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bacterial Growth Curve</title>
+    <id>/bacterial-growth-curve</id>
+    <updated>2019-05-21T12:22:26-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/bacterial-growth-curve"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Counting Bacteria</title>
+    <id>/counting-bacteria</id>
+    <updated>2019-05-21T12:22:26-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/counting-bacteria"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Reproduction Rates</title>
+    <id>/reproduction-rates</id>
+    <updated>2019-05-21T12:22:27-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/reproduction-rates"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Energy and Carbon Sources</title>
+    <id>/energy-and-carbon-sources</id>
+    <updated>2019-05-21T12:22:27-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/energy-and-carbon-sources"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Temperature and Growth</title>
+    <id>/temperature-and-growth</id>
+    <updated>2019-05-21T12:22:27-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/temperature-and-growth"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Oxygen and growth</title>
+    <id>/oxygen-and-growth</id>
+    <updated>2019-05-21T12:22:27-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/oxygen-and-growth"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Other Growth Parameters</title>
+    <id>/other-growth-parameters</id>
+    <updated>2019-05-21T12:22:27-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/other-growth-parameters"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Metabolism</title>
+    <id>/metabolism</id>
+    <updated>2019-05-21T12:22:27-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/metabolism"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Metabolism Overview</title>
+    <id>/metabolism-overview</id>
+    <updated>2019-05-21T12:22:28-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/metabolism-overview"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Energy Pathways</title>
+    <id>/energy-pathways</id>
+    <updated>2019-05-21T12:22:28-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/energy-pathways"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Respiration vs Fermentation</title>
+    <id>/respiration-vs-fermentation</id>
+    <updated>2019-05-21T12:22:28-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/respiration-vs-fermentation"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Glycolysis</title>
+    <id>/glycolysis</id>
+    <updated>2019-05-21T12:22:28-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/glycolysis"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Anabolism</title>
+    <id>/anabolism</id>
+    <updated>2019-05-21T12:22:29-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/anabolism"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Krebs Cycle</title>
+    <id>/krebs-cycle</id>
+    <updated>2019-05-21T12:22:29-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/krebs-cycle"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Electron Transport Chain</title>
+    <id>/electron-transport-chain</id>
+    <updated>2019-05-21T12:22:29-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/electron-transport-chain"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Biotechnology</title>
+    <id>/biotechnology</id>
+    <updated>2019-05-21T12:22:29-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/biotechnology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Genetically Modified Organisms</title>
+    <id>/genetically-modified-organisms</id>
+    <updated>2019-05-21T12:22:29-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/genetically-modified-organisms"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Why the Interest?</title>
+    <id>/why-the-interest-</id>
+    <updated>2019-05-21T12:22:30-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/why-the-interest-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Making a GMO</title>
+    <id>/making-a-gmo</id>
+    <updated>2019-05-21T12:22:30-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/making-a-gmo"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>How Bt Works</title>
+    <id>/how-bt-works</id>
+    <updated>2019-05-21T12:22:30-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/how-bt-works"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Problems with Bt</title>
+    <id>/problems-with-bt</id>
+    <updated>2019-05-21T12:22:30-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/problems-with-bt"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Frankenfoods</title>
+    <id>/frankenfoods</id>
+    <updated>2019-05-21T12:22:31-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/frankenfoods"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>In the Beginning: Early GMO's</title>
+    <id>/in-the-beginning-early-gmo-s</id>
+    <updated>2019-05-21T12:22:31-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/in-the-beginning-early-gmo-s"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>The Trouble with GMO's</title>
+    <id>/the-trouble-with-gmo-s</id>
+    <updated>2019-05-21T12:22:31-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/the-trouble-with-gmo-s"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Gene Doping</title>
+    <id>/gene-doping</id>
+    <updated>2019-05-21T12:22:31-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/gene-doping"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Biotechnology Tools</title>
+    <id>/biotechnology-tools</id>
+    <updated>2019-05-21T12:22:31-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/biotechnology-tools"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>History of Gene Manipulation</title>
+    <id>/history-of-gene-manipulation</id>
+    <updated>2019-05-21T12:22:32-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/history-of-gene-manipulation"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Polymerase Chain Reaction</title>
+    <id>/polymerase-chain-reaction</id>
+    <updated>2019-05-21T12:22:32-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/polymerase-chain-reaction"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Electrophoresis</title>
+    <id>/electrophoresis</id>
+    <updated>2019-05-21T12:22:32-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/electrophoresis"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Restriction Enzymes</title>
+    <id>/restriction-enzymes</id>
+    <updated>2019-05-21T12:22:32-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/restriction-enzymes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>DNA Fingerprinting</title>
+    <id>/dna-fingerprinting</id>
+    <updated>2019-05-21T12:22:32-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/dna-fingerprinting"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Genetic Engineering</title>
+    <id>/genetic-engineering</id>
+    <updated>2019-05-21T12:22:33-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/genetic-engineering"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Engineering Bacteria</title>
+    <id>/engineering-bacteria</id>
+    <updated>2019-05-21T12:22:33-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/engineering-bacteria"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Plasmid /Vector</title>
+    <id>/plasmid-/vector</id>
+    <updated>2019-05-21T12:22:33-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/plasmid-/vector"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Plant Engineering</title>
+    <id>/plant-engineering</id>
+    <updated>2019-05-21T12:22:33-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/plant-engineering"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Human Engineering</title>
+    <id>/human-engineering</id>
+    <updated>2019-05-21T12:22:33-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/human-engineering"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Prokaryotes and Eukaryotes</title>
+    <id>/prokaryotes-and-eukaryotes</id>
+    <updated>2019-05-21T12:22:34-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/prokaryotes-and-eukaryotes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>External Structures</title>
+    <id>/external-structures</id>
+    <updated>2019-05-21T12:22:34-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/external-structures"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Cell Wall Structure</title>
+    <id>/cell-wall-structure</id>
+    <updated>2019-05-21T12:22:34-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/cell-wall-structure"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Internal Structures</title>
+    <id>/internal-structures</id>
+    <updated>2019-05-21T12:22:34-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/internal-structures"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resolution</title>
+    <id>/resolution</id>
+    <updated>2019-05-21T12:22:34-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/resolution"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Endospores</title>
+    <id>/endospores</id>
+    <updated>2019-05-21T12:22:35-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/endospores"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microscope Basics</title>
+    <id>/microscope-basics</id>
+    <updated>2019-05-21T12:22:35-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/microscope-basics"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Gram Stain</title>
+    <id>/gram-stain</id>
+    <updated>2019-05-21T12:22:35-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/gram-stain"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Staining Basics</title>
+    <id>/staining-basics</id>
+    <updated>2019-05-21T12:22:35-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/staining-basics"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Gram Positive/Negative</title>
+    <id>/gram-positive/negative</id>
+    <updated>2019-05-21T12:22:35-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/gram-positive/negative"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Types of Microscopy</title>
+    <id>/types-of-microscopy</id>
+    <updated>2019-05-21T12:22:36-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/types-of-microscopy"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Advanced Staining</title>
+    <id>/advanced-staining</id>
+    <updated>2019-05-21T12:22:36-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/advanced-staining"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microbial Cell Structures</title>
+    <id>/microbial-cell-structures</id>
+    <updated>2019-05-21T12:22:36-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/microbial-cell-structures"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Other Types of Cells</title>
+    <id>/other-types-of-cells</id>
+    <updated>2019-05-21T12:22:36-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/other-types-of-cells"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Control of Microbes</title>
+    <id>/control-of-microbes</id>
+    <updated>2019-05-21T12:22:36-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/control-of-microbes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Radiation</title>
+    <id>/radiation</id>
+    <updated>2019-05-21T12:22:37-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/radiation"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Filtration</title>
+    <id>/filtration</id>
+    <updated>2019-05-21T12:22:37-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/filtration"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Osmotic Pressure</title>
+    <id>/osmotic-pressure</id>
+    <updated>2019-05-21T12:22:37-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/osmotic-pressure"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resistance Mechanisms</title>
+    <id>/resistance-mechanisms</id>
+    <updated>2019-05-21T12:22:37-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/resistance-mechanisms"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Antibiotic Mechanisms II</title>
+    <id>/antibiotic-mechanisms-ii</id>
+    <updated>2019-05-21T12:22:38-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/antibiotic-mechanisms-ii"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Types of Chemical Agents</title>
+    <id>/types-of-chemical-agents</id>
+    <updated>2019-05-21T12:22:38-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/types-of-chemical-agents"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Characteristics of Antibiotics</title>
+    <id>/characteristics-of-antibiotics</id>
+    <updated>2019-05-21T12:22:38-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/characteristics-of-antibiotics"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Antibiotic Mechanisms</title>
+    <id>/antibiotic-mechanisms</id>
+    <updated>2019-05-21T12:22:38-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/antibiotic-mechanisms"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Antibiotic Resistance</title>
+    <id>/antibiotic-resistance</id>
+    <updated>2019-05-21T12:22:38-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/antibiotic-resistance"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microbial resistance</title>
+    <id>/microbial-resistance</id>
+    <updated>2019-05-21T12:22:39-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/microbial-resistance"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Physical Methods: Heat</title>
+    <id>/physical-methods-heat</id>
+    <updated>2019-05-21T12:22:39-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/physical-methods-heat"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Chemical Agents</title>
+    <id>/chemical-agents</id>
+    <updated>2019-05-21T12:22:39-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/chemical-agents"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Control overview</title>
+    <id>/control-overview</id>
+    <updated>2019-05-21T12:22:39-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/control-overview"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Discovery of Antibiotics</title>
+    <id>/discovery-of-antibiotics</id>
+    <updated>2019-05-21T12:22:39-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/discovery-of-antibiotics"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Phenol Coefficient</title>
+    <id>/phenol-coefficient</id>
+    <updated>2019-05-21T12:22:40-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/phenol-coefficient"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Medical Microbiology II</title>
+    <id>/medical-microbiology-ii</id>
+    <updated>2019-05-21T12:22:40-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/medical-microbiology-ii"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Neisseriae</title>
+    <id>/neisseriae</id>
+    <updated>2019-05-21T12:22:40-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/neisseriae"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Spirochetes</title>
+    <id>/spirochetes</id>
+    <updated>2019-05-21T12:22:40-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/spirochetes"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bordetella</title>
+    <id>/bordetella</id>
+    <updated>2019-05-21T12:22:40-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/bordetella"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Yersinia</title>
+    <id>/yersinia</id>
+    <updated>2019-05-21T12:22:40-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/yersinia"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Vibrio</title>
+    <id>/vibrio</id>
+    <updated>2019-05-21T12:22:41-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/vibrio"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Legionella</title>
+    <id>/legionella</id>
+    <updated>2019-05-21T12:22:41-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/legionella"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Immunology</title>
+    <id>/immunology</id>
+    <updated>2019-05-21T12:22:41-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/immunology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Immune System</title>
+    <id>/immune-system</id>
+    <updated>2019-05-21T12:22:41-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/immune-system"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Key Principles</title>
+    <id>/key-principles</id>
+    <updated>2019-05-21T12:22:41-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/key-principles"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Nonspecific Barriers</title>
+    <id>/nonspecific-barriers</id>
+    <updated>2019-05-21T12:22:41-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/nonspecific-barriers"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Nonspecific Defenses</title>
+    <id>/nonspecific-defenses</id>
+    <updated>2019-05-21T12:22:42-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/nonspecific-defenses"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Specific Responses</title>
+    <id>/specific-responses</id>
+    <updated>2019-05-21T12:22:42-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/specific-responses"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Cell Mediated</title>
+    <id>/cell-mediated</id>
+    <updated>2019-05-21T12:22:42-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/cell-mediated"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Antibody Mediated</title>
+    <id>/antibody-mediated</id>
+    <updated>2019-05-21T12:22:42-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/antibody-mediated"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Immunoglobulins</title>
+    <id>/immunoglobulins</id>
+    <updated>2019-05-21T12:22:42-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/immunoglobulins"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Antibody Function</title>
+    <id>/antibody-function</id>
+    <updated>2019-05-21T12:22:43-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/antibody-function"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Categories of Specific Immunity</title>
+    <id>/categories-of-specific-immunity</id>
+    <updated>2019-05-21T12:22:43-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/categories-of-specific-immunity"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Allergins</title>
+    <id>/allergins</id>
+    <updated>2019-05-21T12:22:43-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/allergins"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Capillaries</title>
+    <id>/capillaries</id>
+    <updated>2019-05-21T12:22:43-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/capillaries"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Fluids</title>
+    <id>/fluids</id>
+    <updated>2019-05-21T12:22:43-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/fluids"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lymphatic System</title>
+    <id>/lymphatic-system</id>
+    <updated>2019-05-21T12:22:44-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/lymphatic-system"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lymphatic Organs</title>
+    <id>/lymphatic-organs</id>
+    <updated>2019-05-21T12:22:44-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/lymphatic-organs"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Immune System</title>
+    <id>/immune-system</id>
+    <updated>2019-05-21T12:22:44-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/immune-system"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Influenza </title>
+    <id>/influenza</id>
+    <updated>2019-05-21T12:22:44-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/influenza"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Avian Flu</title>
+    <id>/avian-flu</id>
+    <updated>2019-05-21T12:22:44-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/avian-flu"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Biology of Influenza</title>
+    <id>/biology-of-influenza</id>
+    <updated>2019-05-21T12:22:44-06:00</updated>
+    <published>51355-09-18T18:32:13-07:00</published>
+    <summary></summary>
+    <link href="/biology-of-influenza"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Influenza: the Disease</title>
+    <id>/influenza-the-disease</id>
+    <updated>2019-05-21T12:22:45-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/influenza-the-disease"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Epidemiology of Influenza</title>
+    <id>/epidemiology-of-influenza</id>
+    <updated>2019-05-21T12:22:45-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/epidemiology-of-influenza"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Applied Immunology</title>
+    <id>/applied-immunology</id>
+    <updated>2019-05-21T12:22:45-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/applied-immunology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Vaccines historically</title>
+    <id>/vaccines-historically</id>
+    <updated>2019-05-21T12:22:45-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/vaccines-historically"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Whole Cell Vaccines</title>
+    <id>/whole-cell-vaccines</id>
+    <updated>2019-05-21T12:22:45-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/whole-cell-vaccines"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Other Vaccine Types</title>
+    <id>/other-vaccine-types</id>
+    <updated>2019-05-21T12:22:45-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/other-vaccine-types"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Vaccine Controversy</title>
+    <id>/vaccine-controversy</id>
+    <updated>2019-05-21T12:22:46-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/vaccine-controversy"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Using Antibodies</title>
+    <id>/using-antibodies</id>
+    <updated>2019-05-21T12:22:46-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/using-antibodies"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ELISA Direct Method</title>
+    <id>/elisa-direct-method</id>
+    <updated>2019-05-21T12:22:46-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/elisa-direct-method"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ELISA Indirect</title>
+    <id>/elisa-indirect</id>
+    <updated>2019-05-21T12:22:46-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/elisa-indirect"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Medical Virology</title>
+    <id>/medical-virology</id>
+    <updated>2019-05-21T12:22:46-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/medical-virology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Future Lessons</title>
+    <id>/future-lessons</id>
+    <updated>2019-05-21T12:22:46-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/future-lessons"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Survey of Microbial World</title>
+    <id>/survey-of-microbial-world</id>
+    <updated>2019-05-21T12:22:47-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/survey-of-microbial-world"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bioterrorism</title>
+    <id>/bioterrorism</id>
+    <updated>2019-05-21T12:22:47-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/bioterrorism"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Influenza</title>
+    <id>/influenza</id>
+    <updated>2019-05-21T12:22:47-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/influenza"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Infections and Epidemiology</title>
+    <id>/infections-and-epidemiology</id>
+    <updated>2019-05-21T12:22:47-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/infections-and-epidemiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Establishment and Spread</title>
+    <id>/establishment-and-spread</id>
+    <updated>2019-05-21T12:22:47-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/establishment-and-spread"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Damage</title>
+    <id>/damage</id>
+    <updated>2019-05-21T12:22:48-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/damage"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Exotoxins and Endotoxins</title>
+    <id>/exotoxins-and-endotoxins</id>
+    <updated>2019-05-21T12:22:48-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/exotoxins-and-endotoxins"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Portals of Exit</title>
+    <id>/portals-of-exit</id>
+    <updated>2019-05-21T12:22:48-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/portals-of-exit"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Epidemiology</title>
+    <id>/epidemiology</id>
+    <updated>2019-05-21T12:22:48-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/epidemiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Reserviors</title>
+    <id>/reserviors</id>
+    <updated>2019-05-21T12:22:48-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/reserviors"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Epidemiology Future Topic</title>
+    <id>/epidemiology-future-topic</id>
+    <updated>2019-05-21T12:22:48-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/epidemiology-future-topic"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Epidemiological Rates</title>
+    <id>/epidemiological-rates</id>
+    <updated>2019-05-21T12:22:49-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/epidemiological-rates"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Pattern of Infection</title>
+    <id>/pattern-of-infection</id>
+    <updated>2019-05-21T12:22:49-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/pattern-of-infection"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Descriptive Epidemiology</title>
+    <id>/descriptive-epidemiology</id>
+    <updated>2019-05-21T12:22:49-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/descriptive-epidemiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Human Host</title>
+    <id>/human-host</id>
+    <updated>2019-05-21T12:22:49-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/human-host"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Encounter: Portal of Entry</title>
+    <id>/encounter-portal-of-entry</id>
+    <updated>2019-05-21T12:22:49-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/encounter-portal-of-entry"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Attachment and Entry</title>
+    <id>/attachment-and-entry</id>
+    <updated>2019-05-21T12:22:49-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/attachment-and-entry"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Virology</title>
+    <id>/virology</id>
+    <updated>2019-05-21T12:22:49-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/virology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Biology of Viruses</title>
+    <id>/biology-of-viruses</id>
+    <updated>2019-05-21T12:22:50-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/biology-of-viruses"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>What is a virus?</title>
+    <id>/what-is-a-virus-</id>
+    <updated>2019-05-21T12:22:50-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/what-is-a-virus-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Viral Structure</title>
+    <id>/viral-structure</id>
+    <updated>2019-05-21T12:22:50-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/viral-structure"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Viral Genetic Information</title>
+    <id>/viral-genetic-information</id>
+    <updated>2019-05-21T12:22:50-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/viral-genetic-information"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Replication: Lytic cycle</title>
+    <id>/replication-lytic-cycle</id>
+    <updated>2019-05-21T12:22:50-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/replication-lytic-cycle"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bacteriophage and Lysogeny</title>
+    <id>/bacteriophage-and-lysogeny</id>
+    <updated>2019-05-21T12:22:50-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/bacteriophage-and-lysogeny"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Growing Viruses</title>
+    <id>/growing-viruses</id>
+    <updated>2019-05-21T12:22:50-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/growing-viruses"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Viral Diseases</title>
+    <id>/viral-diseases</id>
+    <updated>2019-05-21T12:22:51-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/viral-diseases"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Diseases 2</title>
+    <id>/diseases-2</id>
+    <updated>2019-05-21T12:22:51-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/diseases-2"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Diseases 3</title>
+    <id>/diseases-3</id>
+    <updated>2019-05-21T12:22:51-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/diseases-3"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Diseases 4</title>
+    <id>/diseases-4</id>
+    <updated>2019-05-21T12:22:51-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/diseases-4"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Diseases 1</title>
+    <id>/diseases-1</id>
+    <updated>2019-05-21T12:22:51-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/diseases-1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Environmental and Applied</title>
+    <id>/environmental-and-applied</id>
+    <updated>2019-05-21T12:22:51-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/environmental-and-applied"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Food Microbiology</title>
+    <id>/food-microbiology</id>
+    <updated>2019-05-21T12:22:51-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/food-microbiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Applied Microbiology</title>
+    <id>/applied-microbiology</id>
+    <updated>2019-05-21T12:22:52-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/applied-microbiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Environmental Microbiology--Bioremediation</title>
+    <id>/environmental-microbiology-bioremediation</id>
+    <updated>2019-05-21T12:22:52-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/environmental-microbiology-bioremediation"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>More Food Microbiology</title>
+    <id>/more-food-microbiology</id>
+    <updated>2019-05-21T12:22:52-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/more-food-microbiology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microbes and the Water Supply</title>
+    <id>/microbes-and-the-water-supply</id>
+    <updated>2019-05-21T12:22:52-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/microbes-and-the-water-supply"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microbes in the Environment</title>
+    <id>/microbes-in-the-environment</id>
+    <updated>2019-05-21T12:22:52-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/microbes-in-the-environment"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Microbes: Nitrogen Fixation</title>
+    <id>/microbes-nitrogen-fixation</id>
+    <updated>2019-05-21T12:22:52-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/microbes-nitrogen-fixation"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Aquatic Microbial Ecology</title>
+    <id>/aquatic-microbial-ecology</id>
+    <updated>2019-05-21T12:22:53-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/aquatic-microbial-ecology"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resources</title>
+    <id>/resources</id>
+    <updated>2019-05-21T12:22:53-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/resources"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Mycobacteria</title>
+    <id>/mycobacteria</id>
+    <updated>2019-05-21T12:22:53-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/mycobacteria"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Mycobacterium: Tuberculosis</title>
+    <id>/mycobacterium-tuberculosis</id>
+    <updated>2019-05-21T12:22:53-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/mycobacterium-tuberculosis"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Mycobacterium: Leprosy</title>
+    <id>/mycobacterium-leprosy</id>
+    <updated>2019-05-21T12:22:53-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/mycobacterium-leprosy"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Clostridium</title>
+    <id>/clostridium</id>
+    <updated>2019-05-21T12:22:53-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/clostridium"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ANGEL</title>
+    <id>/angel</id>
+    <updated>2019-05-21T12:22:53-06:00</updated>
+    <published>51355-09-18T18:32:14-07:00</published>
+    <summary></summary>
+    <link href="/angel"/>
     
     <content type="html">
       <![CDATA[  ]]>
