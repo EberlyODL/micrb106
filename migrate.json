@@ -7,6 +7,14 @@
     {
       "pattern": "href=\"\/micrb106\/",
       "replacement": "href=\"http:\/\/courses.ed.science.psu.edu\/micrb106\/"
+    },
+    {
+      "pattern": "href=\"http:",
+      "replacement": "href=\"https:"
+    },
+    {
+      "pattern": "src=\"http:",
+      "replacement": "src=\"https:"
     }
   ]
 }
