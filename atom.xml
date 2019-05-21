@@ -9,24 +9,12 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Outline Micrb106 Spring 2016</title>
-    <id>/outline-micrb106-spring-2016</id>
-    <updated>2019-05-21T12:26:10-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
-    <summary></summary>
-    <link href="/outline-micrb106-spring-2016"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lessons</title>
-    <id>/outline-micrb106-spring-2016/lessons</id>
-    <updated>2019-05-21T12:26:10-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons"/>
+    <link href="/lessons"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -34,11 +22,11 @@
   </entry>
   <entry>
     <title>Medical Microbiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology</id>
-    <updated>2019-05-21T12:26:11-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology"/>
+    <link href="/lessons/medical-microbiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -46,11 +34,11 @@
   </entry>
   <entry>
     <title>Parade of Diseases</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/parade-of-diseases</id>
-    <updated>2019-05-21T12:26:11-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/parade-of-diseases</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/parade-of-diseases"/>
+    <link href="/lessons/medical-microbiology/parade-of-diseases"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -58,11 +46,11 @@
   </entry>
   <entry>
     <title>Staphylococcal Diseases</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/staphylococcal-diseases</id>
-    <updated>2019-05-21T12:26:11-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/staphylococcal-diseases</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/staphylococcal-diseases"/>
+    <link href="/lessons/medical-microbiology/staphylococcal-diseases"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -70,11 +58,11 @@
   </entry>
   <entry>
     <title>Pneumococcus</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/pneumococcus</id>
-    <updated>2019-05-21T12:26:12-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/pneumococcus</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/pneumococcus"/>
+    <link href="/lessons/medical-microbiology/pneumococcus"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -82,11 +70,11 @@
   </entry>
   <entry>
     <title>Bacillus anthracis</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/bacillus-anthracis</id>
-    <updated>2019-05-21T12:26:12-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/bacillus-anthracis</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/bacillus-anthracis"/>
+    <link href="/lessons/medical-microbiology/bacillus-anthracis"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -94,11 +82,11 @@
   </entry>
   <entry>
     <title>Streptococcal Diseases</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/streptococcal-diseases</id>
-    <updated>2019-05-21T12:26:12-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/streptococcal-diseases</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/streptococcal-diseases"/>
+    <link href="/lessons/medical-microbiology/streptococcal-diseases"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -106,11 +94,11 @@
   </entry>
   <entry>
     <title>Streptococci</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/streptococci</id>
-    <updated>2019-05-21T12:26:12-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/streptococci</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/streptococci"/>
+    <link href="/lessons/medical-microbiology/streptococci"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -118,11 +106,11 @@
   </entry>
   <entry>
     <title>Staphylococci</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/staphylococci</id>
-    <updated>2019-05-21T12:26:12-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/staphylococci</id>
+    <updated>51355-10-30T19:58:51-07:00</updated>
+    <published>51355-10-30T19:58:51-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/staphylococci"/>
+    <link href="/lessons/medical-microbiology/staphylococci"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -130,11 +118,11 @@
   </entry>
   <entry>
     <title>Enteric Bacilli</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology/enteric-bacilli</id>
-    <updated>2019-05-21T12:26:12-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/medical-microbiology/enteric-bacilli</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology/enteric-bacilli"/>
+    <link href="/lessons/medical-microbiology/enteric-bacilli"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -142,11 +130,11 @@
   </entry>
   <entry>
     <title>Chemistry and Cell Biology</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology</id>
-    <updated>2019-05-21T12:26:13-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology"/>
+    <link href="/lessons/chemistry-and-cell-biology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -154,11 +142,11 @@
   </entry>
   <entry>
     <title>Basic Chemistry</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry</id>
-    <updated>2019-05-21T12:26:13-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -166,11 +154,11 @@
   </entry>
   <entry>
     <title>Chemical Bonding</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/chemical-bonding</id>
-    <updated>2019-05-21T12:26:13-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/chemical-bonding</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/chemical-bonding"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/chemical-bonding"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -178,11 +166,11 @@
   </entry>
   <entry>
     <title>Atoms and Ions</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/atoms-and-ions</id>
-    <updated>2019-05-21T12:26:13-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/atoms-and-ions</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/atoms-and-ions"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/atoms-and-ions"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -190,11 +178,11 @@
   </entry>
   <entry>
     <title>Properties of Water</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/properties-of-water</id>
-    <updated>2019-05-21T12:26:14-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/properties-of-water</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/properties-of-water"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/properties-of-water"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -202,11 +190,11 @@
   </entry>
   <entry>
     <title>pH: Acids and Bases</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/ph-acids-and-bases</id>
-    <updated>2019-05-21T12:26:14-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/ph-acids-and-bases</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/ph-acids-and-bases"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/ph-acids-and-bases"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -214,11 +202,11 @@
   </entry>
   <entry>
     <title>Conjugated Enzymes</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/conjugated-enzymes</id>
-    <updated>2019-05-21T12:26:14-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/conjugated-enzymes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/conjugated-enzymes"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/conjugated-enzymes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -226,11 +214,11 @@
   </entry>
   <entry>
     <title>Organic Compounds</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/organic-compounds</id>
-    <updated>2019-05-21T12:26:14-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/organic-compounds</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/organic-compounds"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/organic-compounds"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -238,11 +226,11 @@
   </entry>
   <entry>
     <title>Carbohydrates</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/carbohydrates</id>
-    <updated>2019-05-21T12:26:14-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/carbohydrates</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/carbohydrates"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/carbohydrates"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -250,11 +238,11 @@
   </entry>
   <entry>
     <title>Lipids</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/lipids</id>
-    <updated>2019-05-21T12:26:15-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/lipids</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/lipids"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/lipids"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -262,11 +250,11 @@
   </entry>
   <entry>
     <title>Proteins</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/proteins</id>
-    <updated>2019-05-21T12:26:15-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/proteins</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/proteins"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/proteins"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -274,11 +262,11 @@
   </entry>
   <entry>
     <title>Enzymes</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/enzymes</id>
-    <updated>2019-05-21T12:26:15-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/enzymes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/enzymes"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/enzymes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -286,11 +274,11 @@
   </entry>
   <entry>
     <title>Nucleic Acids</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/nucleic-acids</id>
-    <updated>2019-05-21T12:26:15-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/nucleic-acids</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/nucleic-acids"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/nucleic-acids"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -298,11 +286,11 @@
   </entry>
   <entry>
     <title>ATP</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/atp</id>
-    <updated>2019-05-21T12:26:15-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-chemistry/atp</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-chemistry/atp"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/atp"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -310,11 +298,11 @@
   </entry>
   <entry>
     <title>Basic Cell Biology</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology</id>
-    <updated>2019-05-21T12:26:16-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -322,11 +310,11 @@
   </entry>
   <entry>
     <title>Transport of Water</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/transport-of-water</id>
-    <updated>2019-05-21T12:26:16-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/transport-of-water</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/transport-of-water"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/transport-of-water"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -334,23 +322,23 @@
   </entry>
   <entry>
     <title>Osmotic Pressure</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/osmotic-pressure</id>
-    <updated>2019-05-21T12:26:16-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
-    <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/osmotic-pressure"/>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/osmotic-pressure</id>
+    <updated>2019-05-21T13:19:52-06:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
+    <summary>Cells can find themselves in 3 different situations regarding osmotic pressure.They can be in:	A solution where there is an equal concentration of solute inside and outside the cell.	A s</summary>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/osmotic-pressure"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Cells can find themselves in 3 different situations regarding osmotic pressure.They can be in:	A solution where there is an equal concentration of solute inside and outside the cell.	A s ]]>
     </content>
   </entry>
   <entry>
     <title>Types of cells</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/types-of-cells</id>
-    <updated>2019-05-21T12:26:16-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/types-of-cells</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/types-of-cells"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/types-of-cells"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -358,11 +346,11 @@
   </entry>
   <entry>
     <title>Cellular Organelles</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/cellular-organelles</id>
-    <updated>2019-05-21T12:26:16-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/cellular-organelles</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/cellular-organelles"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/cellular-organelles"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -370,11 +358,11 @@
   </entry>
   <entry>
     <title>Chromosomes</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosomes</id>
-    <updated>2019-05-21T12:26:17-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosomes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosomes"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosomes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -382,11 +370,11 @@
   </entry>
   <entry>
     <title>Genes</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/genes</id>
-    <updated>2019-05-21T12:26:17-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/genes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/genes"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/genes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -394,11 +382,11 @@
   </entry>
   <entry>
     <title>Chromosome Number</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosome-number</id>
-    <updated>2019-05-21T12:26:17-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosome-number</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosome-number"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosome-number"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -406,11 +394,11 @@
   </entry>
   <entry>
     <title>Plasma Membrane</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/plasma-membrane</id>
-    <updated>2019-05-21T12:26:17-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/plasma-membrane</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/plasma-membrane"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/plasma-membrane"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -418,11 +406,11 @@
   </entry>
   <entry>
     <title>Diffusion</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/diffusion</id>
-    <updated>2019-05-21T12:26:17-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/diffusion</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/diffusion"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/diffusion"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -430,11 +418,11 @@
   </entry>
   <entry>
     <title>Membrane Transport Systems</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/membrane-transport-systems</id>
-    <updated>2019-05-21T12:26:18-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/membrane-transport-systems</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/membrane-transport-systems"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/membrane-transport-systems"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -442,11 +430,11 @@
   </entry>
   <entry>
     <title>Bulk Membrane Transport</title>
-    <id>/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/bulk-membrane-transport</id>
-    <updated>2019-05-21T12:26:18-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/bulk-membrane-transport</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/chemistry-and-cell-biology/basic-cell-biology/bulk-membrane-transport"/>
+    <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/bulk-membrane-transport"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -454,11 +442,11 @@
   </entry>
   <entry>
     <title>Genetics</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics</id>
-    <updated>2019-05-21T12:26:18-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics"/>
+    <link href="/lessons/genetics"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -466,11 +454,11 @@
   </entry>
   <entry>
     <title>Molecular Genetics</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics</id>
-    <updated>2019-05-21T12:26:18-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics"/>
+    <link href="/lessons/genetics/molecular-genetics"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -478,11 +466,11 @@
   </entry>
   <entry>
     <title>Transcription / Translation in Prokaryotes</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/transcription-translation-in-prokaryotes</id>
-    <updated>2019-05-21T12:26:18-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/transcription-translation-in-prokaryotes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/transcription-translation-in-prokaryotes"/>
+    <link href="/lessons/genetics/molecular-genetics/transcription-translation-in-prokaryotes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -490,11 +478,11 @@
   </entry>
   <entry>
     <title>Structure of DNA</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/structure-of-dna</id>
-    <updated>2019-05-21T12:26:18-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/structure-of-dna</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/structure-of-dna"/>
+    <link href="/lessons/genetics/molecular-genetics/structure-of-dna"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -502,11 +490,11 @@
   </entry>
   <entry>
     <title>Genetic Material</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/genetic-material</id>
-    <updated>2019-05-21T12:26:19-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/genetic-material</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/genetic-material"/>
+    <link href="/lessons/genetics/molecular-genetics/genetic-material"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -514,11 +502,11 @@
   </entry>
   <entry>
     <title>Central Dogma</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/central-dogma</id>
-    <updated>2019-05-21T12:26:19-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/central-dogma</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/central-dogma"/>
+    <link href="/lessons/genetics/molecular-genetics/central-dogma"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -526,11 +514,11 @@
   </entry>
   <entry>
     <title>Gene Splicing</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/gene-splicing</id>
-    <updated>2019-05-21T12:26:19-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/gene-splicing</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/gene-splicing"/>
+    <link href="/lessons/genetics/molecular-genetics/gene-splicing"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -538,11 +526,11 @@
   </entry>
   <entry>
     <title>DNA Replication</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/dna-replication</id>
-    <updated>2019-05-21T12:26:19-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/dna-replication</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/dna-replication"/>
+    <link href="/lessons/genetics/molecular-genetics/dna-replication"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -550,11 +538,11 @@
   </entry>
   <entry>
     <title>Transcription</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/transcription</id>
-    <updated>2019-05-21T12:26:19-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/transcription</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/transcription"/>
+    <link href="/lessons/genetics/molecular-genetics/transcription"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -562,11 +550,11 @@
   </entry>
   <entry>
     <title>Translation: Code of Life</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/translation-code-of-life</id>
-    <updated>2019-05-21T12:26:20-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/translation-code-of-life</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/translation-code-of-life"/>
+    <link href="/lessons/genetics/molecular-genetics/translation-code-of-life"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -574,11 +562,11 @@
   </entry>
   <entry>
     <title>Translation: Codons</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/translation-codons</id>
-    <updated>2019-05-21T12:26:20-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/translation-codons</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/translation-codons"/>
+    <link href="/lessons/genetics/molecular-genetics/translation-codons"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -586,11 +574,11 @@
   </entry>
   <entry>
     <title>Translation Process</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/translation-process</id>
-    <updated>2019-05-21T12:26:20-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/translation-process</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/translation-process"/>
+    <link href="/lessons/genetics/molecular-genetics/translation-process"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -598,11 +586,11 @@
   </entry>
   <entry>
     <title>Replication: Prokaryotes</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/replication-prokaryotes</id>
-    <updated>2019-05-21T12:26:20-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/molecular-genetics/replication-prokaryotes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/molecular-genetics/replication-prokaryotes"/>
+    <link href="/lessons/genetics/molecular-genetics/replication-prokaryotes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -610,11 +598,11 @@
   </entry>
   <entry>
     <title>Bacterial Genetics</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics</id>
-    <updated>2019-05-21T12:26:20-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/bacterial-genetics</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics"/>
+    <link href="/lessons/genetics/bacterial-genetics"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -622,11 +610,11 @@
   </entry>
   <entry>
     <title>Transformation</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/transformation</id>
-    <updated>2019-05-21T12:26:21-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/bacterial-genetics/transformation</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/transformation"/>
+    <link href="/lessons/genetics/bacterial-genetics/transformation"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -634,11 +622,11 @@
   </entry>
   <entry>
     <title>Generalized Transduction</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/generalized-transduction</id>
-    <updated>2019-05-21T12:26:21-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/bacterial-genetics/generalized-transduction</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/generalized-transduction"/>
+    <link href="/lessons/genetics/bacterial-genetics/generalized-transduction"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -646,11 +634,11 @@
   </entry>
   <entry>
     <title>Conjugation: F Plasmids</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/conjugation-f-plasmids</id>
-    <updated>2019-05-21T12:26:21-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/bacterial-genetics/conjugation-f-plasmids</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/conjugation-f-plasmids"/>
+    <link href="/lessons/genetics/bacterial-genetics/conjugation-f-plasmids"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -658,11 +646,11 @@
   </entry>
   <entry>
     <title>Conjugation: Hfr Transfer</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/conjugation-hfr-transfer</id>
-    <updated>2019-05-21T12:26:21-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/bacterial-genetics/conjugation-hfr-transfer</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/conjugation-hfr-transfer"/>
+    <link href="/lessons/genetics/bacterial-genetics/conjugation-hfr-transfer"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -670,11 +658,11 @@
   </entry>
   <entry>
     <title>Specialized Transduction</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/specialized-transduction</id>
-    <updated>2019-05-21T12:26:22-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/bacterial-genetics/specialized-transduction</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/specialized-transduction"/>
+    <link href="/lessons/genetics/bacterial-genetics/specialized-transduction"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -682,11 +670,11 @@
   </entry>
   <entry>
     <title>Transposons</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/transposons</id>
-    <updated>2019-05-21T12:26:22-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/bacterial-genetics/transposons</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/bacterial-genetics/transposons"/>
+    <link href="/lessons/genetics/bacterial-genetics/transposons"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -694,11 +682,11 @@
   </entry>
   <entry>
     <title>Mutations</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/mutations</id>
-    <updated>2019-05-21T12:26:22-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/mutations</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/mutations"/>
+    <link href="/lessons/genetics/mutations"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -706,11 +694,11 @@
   </entry>
   <entry>
     <title>Repair Mechanisms</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/mutations/repair-mechanisms</id>
-    <updated>2019-05-21T12:26:22-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/mutations/repair-mechanisms</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/mutations/repair-mechanisms"/>
+    <link href="/lessons/genetics/mutations/repair-mechanisms"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -718,11 +706,11 @@
   </entry>
   <entry>
     <title>Causes of Mutations</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/mutations/causes-of-mutations</id>
-    <updated>2019-05-21T12:26:22-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/mutations/causes-of-mutations</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/mutations/causes-of-mutations"/>
+    <link href="/lessons/genetics/mutations/causes-of-mutations"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -730,11 +718,11 @@
   </entry>
   <entry>
     <title>Ames Test</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/mutations/ames-test</id>
-    <updated>2019-05-21T12:26:23-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/mutations/ames-test</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/mutations/ames-test"/>
+    <link href="/lessons/genetics/mutations/ames-test"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -742,11 +730,11 @@
   </entry>
   <entry>
     <title>Point Mutations</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/mutations/point-mutations</id>
-    <updated>2019-05-21T12:26:23-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/mutations/point-mutations</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/mutations/point-mutations"/>
+    <link href="/lessons/genetics/mutations/point-mutations"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -754,11 +742,11 @@
   </entry>
   <entry>
     <title>Base Analogs</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/mutations/base-analogs</id>
-    <updated>2019-05-21T12:26:23-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/mutations/base-analogs</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/mutations/base-analogs"/>
+    <link href="/lessons/genetics/mutations/base-analogs"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -766,11 +754,11 @@
   </entry>
   <entry>
     <title>Frameshift Mutations</title>
-    <id>/outline-micrb106-spring-2016/lessons/genetics/mutations/frameshift-mutations</id>
-    <updated>2019-05-21T12:26:23-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/genetics/mutations/frameshift-mutations</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/genetics/mutations/frameshift-mutations"/>
+    <link href="/lessons/genetics/mutations/frameshift-mutations"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -778,11 +766,11 @@
   </entry>
   <entry>
     <title>Introduction to Microbes</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes</id>
-    <updated>2019-05-21T12:26:23-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes"/>
+    <link href="/lessons/introduction-to-microbes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -790,11 +778,11 @@
   </entry>
   <entry>
     <title>Early Scientists</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/early-scientists</id>
-    <updated>2019-05-21T12:26:23-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/early-scientists</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/early-scientists"/>
+    <link href="/lessons/introduction-to-microbes/early-scientists"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -802,11 +790,11 @@
   </entry>
   <entry>
     <title>Spontaneous Generation: Microbes</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/spontaneous-generation-microbes</id>
-    <updated>2019-05-21T12:26:24-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/spontaneous-generation-microbes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/spontaneous-generation-microbes"/>
+    <link href="/lessons/introduction-to-microbes/spontaneous-generation-microbes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -814,11 +802,11 @@
   </entry>
   <entry>
     <title>History of Microbiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/history-of-microbiology</id>
-    <updated>2019-05-21T12:26:24-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/history-of-microbiology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/history-of-microbiology"/>
+    <link href="/lessons/introduction-to-microbes/history-of-microbiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -826,11 +814,11 @@
   </entry>
   <entry>
     <title>Pasteur and Wine production</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/pasteur-and-wine-production</id>
-    <updated>2019-05-21T12:26:24-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/pasteur-and-wine-production</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/pasteur-and-wine-production"/>
+    <link href="/lessons/introduction-to-microbes/pasteur-and-wine-production"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -838,11 +826,11 @@
   </entry>
   <entry>
     <title>Types of Microorganisms</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/types-of-microorganisms</id>
-    <updated>2019-05-21T12:26:24-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/types-of-microorganisms</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/types-of-microorganisms"/>
+    <link href="/lessons/introduction-to-microbes/types-of-microorganisms"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -850,11 +838,11 @@
   </entry>
   <entry>
     <title>Microbes and the Planet</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/microbes-and-the-planet</id>
-    <updated>2019-05-21T12:26:24-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/microbes-and-the-planet</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/microbes-and-the-planet"/>
+    <link href="/lessons/introduction-to-microbes/microbes-and-the-planet"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -862,11 +850,11 @@
   </entry>
   <entry>
     <title>Early Civilization</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/early-civilization</id>
-    <updated>2019-05-21T12:26:24-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/early-civilization</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/early-civilization"/>
+    <link href="/lessons/introduction-to-microbes/early-civilization"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -874,11 +862,11 @@
   </entry>
   <entry>
     <title>Disease & the Ancient World</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/disease-the-ancient-world</id>
-    <updated>2019-05-21T12:26:25-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/disease-the-ancient-world</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/disease-the-ancient-world"/>
+    <link href="/lessons/introduction-to-microbes/disease-the-ancient-world"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -886,11 +874,11 @@
   </entry>
   <entry>
     <title>Disease & Religion</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/disease-religion</id>
-    <updated>2019-05-21T12:26:25-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/disease-religion</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/disease-religion"/>
+    <link href="/lessons/introduction-to-microbes/disease-religion"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -898,11 +886,11 @@
   </entry>
   <entry>
     <title>Microbes and Humans</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/microbes-and-humans</id>
-    <updated>2019-05-21T12:26:25-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/microbes-and-humans</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/microbes-and-humans"/>
+    <link href="/lessons/introduction-to-microbes/microbes-and-humans"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -910,11 +898,11 @@
   </entry>
   <entry>
     <title>Rise of Scientific Thought</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/rise-of-scientific-thought</id>
-    <updated>2019-05-21T12:26:25-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/rise-of-scientific-thought</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/rise-of-scientific-thought"/>
+    <link href="/lessons/introduction-to-microbes/rise-of-scientific-thought"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -922,11 +910,11 @@
   </entry>
   <entry>
     <title>Spontaneous Generation</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/spontaneous-generation</id>
-    <updated>2019-05-21T12:26:25-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/spontaneous-generation</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/spontaneous-generation"/>
+    <link href="/lessons/introduction-to-microbes/spontaneous-generation"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -934,11 +922,11 @@
   </entry>
   <entry>
     <title>Germ Theory of Disease</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/germ-theory-of-disease</id>
-    <updated>2019-05-21T12:26:25-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/germ-theory-of-disease</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/germ-theory-of-disease"/>
+    <link href="/lessons/introduction-to-microbes/germ-theory-of-disease"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -946,11 +934,11 @@
   </entry>
   <entry>
     <title>Modern Technologies</title>
-    <id>/outline-micrb106-spring-2016/lessons/introduction-to-microbes/modern-technologies</id>
-    <updated>2019-05-21T12:26:26-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/introduction-to-microbes/modern-technologies</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/introduction-to-microbes/modern-technologies"/>
+    <link href="/lessons/introduction-to-microbes/modern-technologies"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -958,11 +946,11 @@
   </entry>
   <entry>
     <title>Growth and Metabolism</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism</id>
-    <updated>2019-05-21T12:26:26-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism"/>
+    <link href="/lessons/growth-and-metabolism"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -970,11 +958,11 @@
   </entry>
   <entry>
     <title>Bacterial Growth and Nutrition</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition</id>
-    <updated>2019-05-21T12:26:26-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -982,11 +970,11 @@
   </entry>
   <entry>
     <title>Bacterial Growth Patterns</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-patterns</id>
-    <updated>2019-05-21T12:26:26-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-patterns</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-patterns"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-patterns"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -994,11 +982,11 @@
   </entry>
   <entry>
     <title>Bacterial Growth Curve</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-curve</id>
-    <updated>2019-05-21T12:26:26-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-curve</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-curve"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-curve"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1006,11 +994,11 @@
   </entry>
   <entry>
     <title>Counting Bacteria</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/counting-bacteria</id>
-    <updated>2019-05-21T12:26:27-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/counting-bacteria</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/counting-bacteria"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/counting-bacteria"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1018,23 +1006,23 @@
   </entry>
   <entry>
     <title>Reproduction Rates</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/reproduction-rates</id>
-    <updated>2019-05-21T13:09:13-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
-    <summary>The power of exponential growth There is an old Chinese proverb that explains the power of exponential growth. There was once a rich and powerful man who was riding a large horse near the lake shore</summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/reproduction-rates"/>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/reproduction-rates</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
+    <summary></summary>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/reproduction-rates"/>
     
     <content type="html">
-      <![CDATA[ The power of exponential growth There is an old Chinese proverb that explains the power of exponential growth. There was once a rich and powerful man who was riding a large horse near the lake shore ]]>
+      <![CDATA[  ]]>
     </content>
   </entry>
   <entry>
     <title>Energy and Carbon Sources</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/energy-and-carbon-sources</id>
-    <updated>2019-05-21T12:26:27-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/energy-and-carbon-sources</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/energy-and-carbon-sources"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/energy-and-carbon-sources"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1042,11 +1030,11 @@
   </entry>
   <entry>
     <title>Temperature and Growth</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/temperature-and-growth</id>
-    <updated>2019-05-21T12:26:27-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/temperature-and-growth</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/temperature-and-growth"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/temperature-and-growth"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1054,11 +1042,11 @@
   </entry>
   <entry>
     <title>Oxygen and growth</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/oxygen-and-growth</id>
-    <updated>2019-05-21T12:26:27-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/oxygen-and-growth</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/oxygen-and-growth"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/oxygen-and-growth"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1066,11 +1054,11 @@
   </entry>
   <entry>
     <title>Other Growth Parameters</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/other-growth-parameters</id>
-    <updated>2019-05-21T12:26:27-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/other-growth-parameters</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/other-growth-parameters"/>
+    <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/other-growth-parameters"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1078,11 +1066,11 @@
   </entry>
   <entry>
     <title>Metabolism</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism</id>
-    <updated>2019-05-21T12:26:28-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism"/>
+    <link href="/lessons/growth-and-metabolism/metabolism"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1090,11 +1078,11 @@
   </entry>
   <entry>
     <title>Metabolism Overview</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/metabolism-overview</id>
-    <updated>2019-05-21T12:26:28-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism/metabolism-overview</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/metabolism-overview"/>
+    <link href="/lessons/growth-and-metabolism/metabolism/metabolism-overview"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1102,11 +1090,11 @@
   </entry>
   <entry>
     <title>Energy Pathways</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/energy-pathways</id>
-    <updated>2019-05-21T12:26:28-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism/energy-pathways</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/energy-pathways"/>
+    <link href="/lessons/growth-and-metabolism/metabolism/energy-pathways"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1114,11 +1102,11 @@
   </entry>
   <entry>
     <title>Respiration vs Fermentation</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/respiration-vs-fermentation</id>
-    <updated>2019-05-21T12:26:28-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism/respiration-vs-fermentation</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/respiration-vs-fermentation"/>
+    <link href="/lessons/growth-and-metabolism/metabolism/respiration-vs-fermentation"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1126,11 +1114,11 @@
   </entry>
   <entry>
     <title>Glycolysis</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/glycolysis</id>
-    <updated>2019-05-21T12:26:28-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism/glycolysis</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/glycolysis"/>
+    <link href="/lessons/growth-and-metabolism/metabolism/glycolysis"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1138,11 +1126,11 @@
   </entry>
   <entry>
     <title>Anabolism</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/anabolism</id>
-    <updated>2019-05-21T12:26:28-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism/anabolism</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/anabolism"/>
+    <link href="/lessons/growth-and-metabolism/metabolism/anabolism"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1150,11 +1138,11 @@
   </entry>
   <entry>
     <title>Krebs Cycle</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/krebs-cycle</id>
-    <updated>2019-05-21T12:26:29-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism/krebs-cycle</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/krebs-cycle"/>
+    <link href="/lessons/growth-and-metabolism/metabolism/krebs-cycle"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1162,11 +1150,11 @@
   </entry>
   <entry>
     <title>Electron Transport Chain</title>
-    <id>/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/electron-transport-chain</id>
-    <updated>2019-05-21T12:26:29-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/growth-and-metabolism/metabolism/electron-transport-chain</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/growth-and-metabolism/metabolism/electron-transport-chain"/>
+    <link href="/lessons/growth-and-metabolism/metabolism/electron-transport-chain"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1174,11 +1162,11 @@
   </entry>
   <entry>
     <title>Biotechnology</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology</id>
-    <updated>2019-05-21T12:26:29-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology"/>
+    <link href="/lessons/biotechnology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1186,11 +1174,11 @@
   </entry>
   <entry>
     <title>Genetically Modified Organisms</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms</id>
-    <updated>2019-05-21T12:26:29-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1198,11 +1186,11 @@
   </entry>
   <entry>
     <title>Why the Interest?</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/why-the-interest</id>
-    <updated>2019-05-21T12:26:29-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/why-the-interest</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/why-the-interest"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/why-the-interest"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1210,11 +1198,11 @@
   </entry>
   <entry>
     <title>Making a GMO</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/making-a-gmo</id>
-    <updated>2019-05-21T12:26:29-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/making-a-gmo</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/making-a-gmo"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/making-a-gmo"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1222,11 +1210,11 @@
   </entry>
   <entry>
     <title>How Bt Works</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/how-bt-works</id>
-    <updated>2019-05-21T12:26:30-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/how-bt-works</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/how-bt-works"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/how-bt-works"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1234,11 +1222,11 @@
   </entry>
   <entry>
     <title>Problems with Bt</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/problems-with-bt</id>
-    <updated>2019-05-21T12:26:30-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/problems-with-bt</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/problems-with-bt"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/problems-with-bt"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1246,11 +1234,11 @@
   </entry>
   <entry>
     <title>Frankenfoods</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/frankenfoods</id>
-    <updated>2019-05-21T12:26:30-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/frankenfoods</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/frankenfoods"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/frankenfoods"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1258,11 +1246,11 @@
   </entry>
   <entry>
     <title>In the Beginning: Early GMO's</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/in-the-beginning-early-gmos</id>
-    <updated>2019-05-21T12:26:30-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/in-the-beginning-early-gmos</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/in-the-beginning-early-gmos"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/in-the-beginning-early-gmos"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1270,11 +1258,11 @@
   </entry>
   <entry>
     <title>The Trouble with GMO's</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/the-trouble-with-gmos</id>
-    <updated>2019-05-21T12:26:30-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/the-trouble-with-gmos</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/the-trouble-with-gmos"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/the-trouble-with-gmos"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1282,11 +1270,11 @@
   </entry>
   <entry>
     <title>Gene Doping</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/gene-doping</id>
-    <updated>2019-05-21T12:26:31-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetically-modified-organisms/gene-doping</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetically-modified-organisms/gene-doping"/>
+    <link href="/lessons/biotechnology/genetically-modified-organisms/gene-doping"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1294,11 +1282,11 @@
   </entry>
   <entry>
     <title>Biotechnology Tools</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools</id>
-    <updated>2019-05-21T12:26:31-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/biotechnology-tools</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools"/>
+    <link href="/lessons/biotechnology/biotechnology-tools"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1306,11 +1294,11 @@
   </entry>
   <entry>
     <title>History of Gene Manipulation</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/history-of-gene-manipulation</id>
-    <updated>2019-05-21T12:26:31-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/biotechnology-tools/history-of-gene-manipulation</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/history-of-gene-manipulation"/>
+    <link href="/lessons/biotechnology/biotechnology-tools/history-of-gene-manipulation"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1318,11 +1306,11 @@
   </entry>
   <entry>
     <title>Polymerase Chain Reaction</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/polymerase-chain-reaction</id>
-    <updated>2019-05-21T12:26:31-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/biotechnology-tools/polymerase-chain-reaction</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/polymerase-chain-reaction"/>
+    <link href="/lessons/biotechnology/biotechnology-tools/polymerase-chain-reaction"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1330,11 +1318,11 @@
   </entry>
   <entry>
     <title>Electrophoresis</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/electrophoresis</id>
-    <updated>2019-05-21T12:26:32-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/biotechnology-tools/electrophoresis</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/electrophoresis"/>
+    <link href="/lessons/biotechnology/biotechnology-tools/electrophoresis"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1342,11 +1330,11 @@
   </entry>
   <entry>
     <title>Restriction Enzymes</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/restriction-enzymes</id>
-    <updated>2019-05-21T12:26:32-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/biotechnology-tools/restriction-enzymes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/restriction-enzymes"/>
+    <link href="/lessons/biotechnology/biotechnology-tools/restriction-enzymes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1354,11 +1342,11 @@
   </entry>
   <entry>
     <title>DNA Fingerprinting</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/dna-fingerprinting</id>
-    <updated>2019-05-21T12:26:32-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/biotechnology-tools/dna-fingerprinting</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/biotechnology-tools/dna-fingerprinting"/>
+    <link href="/lessons/biotechnology/biotechnology-tools/dna-fingerprinting"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1366,11 +1354,11 @@
   </entry>
   <entry>
     <title>Genetic Engineering</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering</id>
-    <updated>2019-05-21T12:26:32-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetic-engineering</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering"/>
+    <link href="/lessons/biotechnology/genetic-engineering"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1378,11 +1366,11 @@
   </entry>
   <entry>
     <title>Engineering Bacteria</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/engineering-bacteria</id>
-    <updated>2019-05-21T12:26:32-06:00</updated>
-    <published>51355-09-24T16:36:08-07:00</published>
+    <id>/lessons/biotechnology/genetic-engineering/engineering-bacteria</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/engineering-bacteria"/>
+    <link href="/lessons/biotechnology/genetic-engineering/engineering-bacteria"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1390,11 +1378,11 @@
   </entry>
   <entry>
     <title>Plasmid /Vector</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/plasmid-vector</id>
-    <updated>2019-05-21T12:26:33-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/biotechnology/genetic-engineering/plasmid-vector</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/plasmid-vector"/>
+    <link href="/lessons/biotechnology/genetic-engineering/plasmid-vector"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1402,11 +1390,11 @@
   </entry>
   <entry>
     <title>Plant Engineering</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/plant-engineering</id>
-    <updated>2019-05-21T12:26:33-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/biotechnology/genetic-engineering/plant-engineering</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/plant-engineering"/>
+    <link href="/lessons/biotechnology/genetic-engineering/plant-engineering"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1414,11 +1402,11 @@
   </entry>
   <entry>
     <title>Human Engineering</title>
-    <id>/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/human-engineering</id>
-    <updated>2019-05-21T12:26:33-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/biotechnology/genetic-engineering/human-engineering</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/biotechnology/genetic-engineering/human-engineering"/>
+    <link href="/lessons/biotechnology/genetic-engineering/human-engineering"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1426,11 +1414,11 @@
   </entry>
   <entry>
     <title>Prokaryotes and Eukaryotes</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes</id>
-    <updated>2019-05-21T12:26:33-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1438,11 +1426,11 @@
   </entry>
   <entry>
     <title>External Structures</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/external-structures</id>
-    <updated>2019-05-21T12:26:33-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/external-structures</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/external-structures"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/external-structures"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1450,11 +1438,11 @@
   </entry>
   <entry>
     <title>Cell Wall Structure</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/cell-wall-structure</id>
-    <updated>2019-05-21T12:26:34-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/cell-wall-structure</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/cell-wall-structure"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/cell-wall-structure"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1462,11 +1450,11 @@
   </entry>
   <entry>
     <title>Internal Structures</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/internal-structures</id>
-    <updated>2019-05-21T12:26:34-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/internal-structures</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/internal-structures"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/internal-structures"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1474,11 +1462,11 @@
   </entry>
   <entry>
     <title>Resolution</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/resolution</id>
-    <updated>2019-05-21T12:26:34-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/resolution</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/resolution"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/resolution"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1486,11 +1474,11 @@
   </entry>
   <entry>
     <title>Endospores</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/endospores</id>
-    <updated>2019-05-21T12:26:34-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/endospores</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/endospores"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/endospores"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1498,11 +1486,11 @@
   </entry>
   <entry>
     <title>Microscope Basics</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/microscope-basics</id>
-    <updated>2019-05-21T12:26:34-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/microscope-basics</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/microscope-basics"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/microscope-basics"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1510,11 +1498,11 @@
   </entry>
   <entry>
     <title>Gram Stain</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/gram-stain</id>
-    <updated>2019-05-21T12:26:35-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/gram-stain</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/gram-stain"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/gram-stain"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1522,11 +1510,11 @@
   </entry>
   <entry>
     <title>Staining Basics</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/staining-basics</id>
-    <updated>2019-05-21T12:26:35-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/staining-basics</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/staining-basics"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/staining-basics"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1534,11 +1522,11 @@
   </entry>
   <entry>
     <title>Gram Positive/Negative</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/gram-positive-negative</id>
-    <updated>2019-05-21T12:26:35-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/gram-positive-negative</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/gram-positive-negative"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/gram-positive-negative"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1546,11 +1534,11 @@
   </entry>
   <entry>
     <title>Types of Microscopy</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/types-of-microscopy</id>
-    <updated>2019-05-21T12:26:35-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/types-of-microscopy</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/types-of-microscopy"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/types-of-microscopy"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1558,11 +1546,11 @@
   </entry>
   <entry>
     <title>Advanced Staining</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/advanced-staining</id>
-    <updated>2019-05-21T12:26:35-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/advanced-staining</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/advanced-staining"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/advanced-staining"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1570,11 +1558,11 @@
   </entry>
   <entry>
     <title>Microbial Cell Structures</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/microbial-cell-structures</id>
-    <updated>2019-05-21T12:26:35-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/microbial-cell-structures</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/microbial-cell-structures"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/microbial-cell-structures"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1582,11 +1570,11 @@
   </entry>
   <entry>
     <title>Other Types of Cells</title>
-    <id>/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/other-types-of-cells</id>
-    <updated>2019-05-21T12:26:36-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/prokaryotes-and-eukaryotes/other-types-of-cells</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/prokaryotes-and-eukaryotes/other-types-of-cells"/>
+    <link href="/lessons/prokaryotes-and-eukaryotes/other-types-of-cells"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1594,11 +1582,11 @@
   </entry>
   <entry>
     <title>Control of Microbes</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes</id>
-    <updated>2019-05-21T12:26:36-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes"/>
+    <link href="/lessons/control-of-microbes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1606,11 +1594,11 @@
   </entry>
   <entry>
     <title>Radiation</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/radiation</id>
-    <updated>2019-05-21T12:26:36-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/radiation</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/radiation"/>
+    <link href="/lessons/control-of-microbes/radiation"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1618,11 +1606,11 @@
   </entry>
   <entry>
     <title>Filtration</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/filtration</id>
-    <updated>2019-05-21T12:26:36-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/filtration</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/filtration"/>
+    <link href="/lessons/control-of-microbes/filtration"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1630,11 +1618,11 @@
   </entry>
   <entry>
     <title>Osmotic Pressure</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/osmotic-pressure</id>
-    <updated>2019-05-21T12:26:36-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/osmotic-pressure</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/osmotic-pressure"/>
+    <link href="/lessons/control-of-microbes/osmotic-pressure"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1642,11 +1630,11 @@
   </entry>
   <entry>
     <title>Resistance Mechanisms</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/resistance-mechanisms</id>
-    <updated>2019-05-21T12:26:36-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/resistance-mechanisms</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/resistance-mechanisms"/>
+    <link href="/lessons/control-of-microbes/resistance-mechanisms"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1654,11 +1642,11 @@
   </entry>
   <entry>
     <title>Antibiotic Mechanisms II</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/antibiotic-mechanisms-ii</id>
-    <updated>2019-05-21T12:26:36-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/antibiotic-mechanisms-ii</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/antibiotic-mechanisms-ii"/>
+    <link href="/lessons/control-of-microbes/antibiotic-mechanisms-ii"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1666,11 +1654,11 @@
   </entry>
   <entry>
     <title>Types of Chemical Agents</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/types-of-chemical-agents</id>
-    <updated>2019-05-21T12:26:37-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/types-of-chemical-agents</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/types-of-chemical-agents"/>
+    <link href="/lessons/control-of-microbes/types-of-chemical-agents"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1678,11 +1666,11 @@
   </entry>
   <entry>
     <title>Characteristics of Antibiotics</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/characteristics-of-antibiotics</id>
-    <updated>2019-05-21T12:26:37-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/characteristics-of-antibiotics</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/characteristics-of-antibiotics"/>
+    <link href="/lessons/control-of-microbes/characteristics-of-antibiotics"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1690,11 +1678,11 @@
   </entry>
   <entry>
     <title>Antibiotic Mechanisms</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/antibiotic-mechanisms</id>
-    <updated>2019-05-21T12:26:37-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/antibiotic-mechanisms</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/antibiotic-mechanisms"/>
+    <link href="/lessons/control-of-microbes/antibiotic-mechanisms"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1702,11 +1690,11 @@
   </entry>
   <entry>
     <title>Antibiotic Resistance</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/antibiotic-resistance</id>
-    <updated>2019-05-21T12:26:37-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/antibiotic-resistance</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/antibiotic-resistance"/>
+    <link href="/lessons/control-of-microbes/antibiotic-resistance"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1714,11 +1702,11 @@
   </entry>
   <entry>
     <title>Microbial resistance</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/microbial-resistance</id>
-    <updated>2019-05-21T12:26:37-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/microbial-resistance</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/microbial-resistance"/>
+    <link href="/lessons/control-of-microbes/microbial-resistance"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1726,11 +1714,11 @@
   </entry>
   <entry>
     <title>Physical Methods: Heat</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/physical-methods-heat</id>
-    <updated>2019-05-21T12:26:37-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/physical-methods-heat</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/physical-methods-heat"/>
+    <link href="/lessons/control-of-microbes/physical-methods-heat"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1738,11 +1726,11 @@
   </entry>
   <entry>
     <title>Chemical Agents</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/chemical-agents</id>
-    <updated>2019-05-21T12:26:38-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/chemical-agents</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/chemical-agents"/>
+    <link href="/lessons/control-of-microbes/chemical-agents"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1750,11 +1738,11 @@
   </entry>
   <entry>
     <title>Control overview</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/control-overview</id>
-    <updated>2019-05-21T12:26:38-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/control-overview</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/control-overview"/>
+    <link href="/lessons/control-of-microbes/control-overview"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1762,11 +1750,11 @@
   </entry>
   <entry>
     <title>Discovery of Antibiotics</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/discovery-of-antibiotics</id>
-    <updated>2019-05-21T12:26:38-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/discovery-of-antibiotics</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/discovery-of-antibiotics"/>
+    <link href="/lessons/control-of-microbes/discovery-of-antibiotics"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1774,11 +1762,11 @@
   </entry>
   <entry>
     <title>Phenol Coefficient</title>
-    <id>/outline-micrb106-spring-2016/lessons/control-of-microbes/phenol-coefficient</id>
-    <updated>2019-05-21T12:26:38-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/control-of-microbes/phenol-coefficient</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/control-of-microbes/phenol-coefficient"/>
+    <link href="/lessons/control-of-microbes/phenol-coefficient"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1786,11 +1774,11 @@
   </entry>
   <entry>
     <title>Medical Microbiology II</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology-ii</id>
-    <updated>2019-05-21T12:26:38-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-microbiology-ii</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology-ii"/>
+    <link href="/lessons/medical-microbiology-ii"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1798,11 +1786,11 @@
   </entry>
   <entry>
     <title>Neisseriae</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/neisseriae</id>
-    <updated>2019-05-21T12:26:38-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-microbiology-ii/neisseriae</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/neisseriae"/>
+    <link href="/lessons/medical-microbiology-ii/neisseriae"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1810,11 +1798,11 @@
   </entry>
   <entry>
     <title>Spirochetes</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/spirochetes</id>
-    <updated>2019-05-21T12:26:39-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-microbiology-ii/spirochetes</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/spirochetes"/>
+    <link href="/lessons/medical-microbiology-ii/spirochetes"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1822,11 +1810,11 @@
   </entry>
   <entry>
     <title>Bordetella</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/bordetella</id>
-    <updated>2019-05-21T12:26:39-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-microbiology-ii/bordetella</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/bordetella"/>
+    <link href="/lessons/medical-microbiology-ii/bordetella"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1834,11 +1822,11 @@
   </entry>
   <entry>
     <title>Yersinia</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/yersinia</id>
-    <updated>2019-05-21T12:26:39-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-microbiology-ii/yersinia</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/yersinia"/>
+    <link href="/lessons/medical-microbiology-ii/yersinia"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1846,11 +1834,11 @@
   </entry>
   <entry>
     <title>Vibrio</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/vibrio</id>
-    <updated>2019-05-21T12:26:39-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-microbiology-ii/vibrio</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/vibrio"/>
+    <link href="/lessons/medical-microbiology-ii/vibrio"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1858,11 +1846,11 @@
   </entry>
   <entry>
     <title>Legionella</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/legionella</id>
-    <updated>2019-05-21T12:26:39-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-microbiology-ii/legionella</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-microbiology-ii/legionella"/>
+    <link href="/lessons/medical-microbiology-ii/legionella"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1870,11 +1858,11 @@
   </entry>
   <entry>
     <title>Immunology</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology</id>
-    <updated>2019-05-21T12:26:40-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology"/>
+    <link href="/lessons/immunology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1882,11 +1870,11 @@
   </entry>
   <entry>
     <title>Immune System</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system</id>
-    <updated>2019-05-21T12:26:40-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system"/>
+    <link href="/lessons/immunology/immune-system"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1894,11 +1882,11 @@
   </entry>
   <entry>
     <title>Key Principles</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/key-principles</id>
-    <updated>2019-05-21T12:26:40-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/key-principles</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/key-principles"/>
+    <link href="/lessons/immunology/immune-system/key-principles"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1906,11 +1894,11 @@
   </entry>
   <entry>
     <title>Nonspecific Barriers</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/nonspecific-barriers</id>
-    <updated>2019-05-21T12:26:40-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/nonspecific-barriers</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/nonspecific-barriers"/>
+    <link href="/lessons/immunology/immune-system/nonspecific-barriers"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1918,11 +1906,11 @@
   </entry>
   <entry>
     <title>Nonspecific Defenses</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/nonspecific-defenses</id>
-    <updated>2019-05-21T12:26:41-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/nonspecific-defenses</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/nonspecific-defenses"/>
+    <link href="/lessons/immunology/immune-system/nonspecific-defenses"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1930,11 +1918,11 @@
   </entry>
   <entry>
     <title>Specific Responses</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/specific-responses</id>
-    <updated>2019-05-21T12:26:41-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/specific-responses</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/specific-responses"/>
+    <link href="/lessons/immunology/immune-system/specific-responses"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1942,11 +1930,11 @@
   </entry>
   <entry>
     <title>Cell Mediated</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/cell-mediated</id>
-    <updated>2019-05-21T12:26:41-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/cell-mediated</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/cell-mediated"/>
+    <link href="/lessons/immunology/immune-system/cell-mediated"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1954,11 +1942,11 @@
   </entry>
   <entry>
     <title>Antibody Mediated</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/antibody-mediated</id>
-    <updated>2019-05-21T12:26:41-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/antibody-mediated</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/antibody-mediated"/>
+    <link href="/lessons/immunology/immune-system/antibody-mediated"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1966,11 +1954,11 @@
   </entry>
   <entry>
     <title>Immunoglobulins</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/immunoglobulins</id>
-    <updated>2019-05-21T12:26:41-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/immunoglobulins</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/immunoglobulins"/>
+    <link href="/lessons/immunology/immune-system/immunoglobulins"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1978,11 +1966,11 @@
   </entry>
   <entry>
     <title>Antibody Function</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/antibody-function</id>
-    <updated>2019-05-21T12:26:41-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/antibody-function</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/antibody-function"/>
+    <link href="/lessons/immunology/immune-system/antibody-function"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -1990,11 +1978,11 @@
   </entry>
   <entry>
     <title>Categories of Specific Immunity</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/categories-of-specific-immunity</id>
-    <updated>2019-05-21T12:26:42-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/categories-of-specific-immunity</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/categories-of-specific-immunity"/>
+    <link href="/lessons/immunology/immune-system/categories-of-specific-immunity"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2002,11 +1990,11 @@
   </entry>
   <entry>
     <title>Allergins</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/allergins</id>
-    <updated>2019-05-21T12:26:42-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/allergins</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/allergins"/>
+    <link href="/lessons/immunology/immune-system/allergins"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2014,11 +2002,11 @@
   </entry>
   <entry>
     <title>Capillaries</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/capillaries</id>
-    <updated>2019-05-21T12:26:42-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/capillaries</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/capillaries"/>
+    <link href="/lessons/immunology/immune-system/capillaries"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2026,11 +2014,11 @@
   </entry>
   <entry>
     <title>Fluids</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/fluids</id>
-    <updated>2019-05-21T12:26:42-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/fluids</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/fluids"/>
+    <link href="/lessons/immunology/immune-system/fluids"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2038,11 +2026,11 @@
   </entry>
   <entry>
     <title>Lymphatic System</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/lymphatic-system</id>
-    <updated>2019-05-21T12:26:42-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/lymphatic-system</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/lymphatic-system"/>
+    <link href="/lessons/immunology/immune-system/lymphatic-system"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2050,11 +2038,11 @@
   </entry>
   <entry>
     <title>Lymphatic Organs</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/lymphatic-organs</id>
-    <updated>2019-05-21T12:26:42-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/lymphatic-organs</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/lymphatic-organs"/>
+    <link href="/lessons/immunology/immune-system/lymphatic-organs"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2062,11 +2050,11 @@
   </entry>
   <entry>
     <title>Immune System</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/immune-system/immune-system</id>
-    <updated>2019-05-21T12:26:43-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/immune-system/immune-system</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/immune-system/immune-system"/>
+    <link href="/lessons/immunology/immune-system/immune-system"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2074,11 +2062,11 @@
   </entry>
   <entry>
     <title>Influenza </title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/influenza</id>
-    <updated>2019-05-21T12:26:43-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/influenza</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/influenza"/>
+    <link href="/lessons/immunology/influenza"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2086,11 +2074,11 @@
   </entry>
   <entry>
     <title>Avian Flu</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/influenza/avian-flu</id>
-    <updated>2019-05-21T12:26:43-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/influenza/avian-flu</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/influenza/avian-flu"/>
+    <link href="/lessons/immunology/influenza/avian-flu"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2098,11 +2086,11 @@
   </entry>
   <entry>
     <title>Biology of Influenza</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/influenza/biology-of-influenza</id>
-    <updated>2019-05-21T12:26:43-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/influenza/biology-of-influenza</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/influenza/biology-of-influenza"/>
+    <link href="/lessons/immunology/influenza/biology-of-influenza"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2110,11 +2098,11 @@
   </entry>
   <entry>
     <title>Influenza: the Disease</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/influenza/influenza-the-disease</id>
-    <updated>2019-05-21T12:26:43-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/influenza/influenza-the-disease</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/influenza/influenza-the-disease"/>
+    <link href="/lessons/immunology/influenza/influenza-the-disease"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2122,11 +2110,11 @@
   </entry>
   <entry>
     <title>Epidemiology of Influenza</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/influenza/epidemiology-of-influenza</id>
-    <updated>2019-05-21T12:26:43-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/influenza/epidemiology-of-influenza</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/influenza/epidemiology-of-influenza"/>
+    <link href="/lessons/immunology/influenza/epidemiology-of-influenza"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2134,11 +2122,11 @@
   </entry>
   <entry>
     <title>Applied Immunology</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology</id>
-    <updated>2019-05-21T12:26:44-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology"/>
+    <link href="/lessons/immunology/applied-immunology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2146,11 +2134,11 @@
   </entry>
   <entry>
     <title>Vaccines historically</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/vaccines-historically</id>
-    <updated>2019-05-21T12:26:44-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology/vaccines-historically</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/vaccines-historically"/>
+    <link href="/lessons/immunology/applied-immunology/vaccines-historically"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2158,11 +2146,11 @@
   </entry>
   <entry>
     <title>Whole Cell Vaccines</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/whole-cell-vaccines</id>
-    <updated>2019-05-21T12:26:44-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology/whole-cell-vaccines</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/whole-cell-vaccines"/>
+    <link href="/lessons/immunology/applied-immunology/whole-cell-vaccines"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2170,11 +2158,11 @@
   </entry>
   <entry>
     <title>Other Vaccine Types</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/other-vaccine-types</id>
-    <updated>2019-05-21T12:26:44-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology/other-vaccine-types</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/other-vaccine-types"/>
+    <link href="/lessons/immunology/applied-immunology/other-vaccine-types"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2182,11 +2170,11 @@
   </entry>
   <entry>
     <title>Vaccine Controversy</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/vaccine-controversy</id>
-    <updated>2019-05-21T12:26:44-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology/vaccine-controversy</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/vaccine-controversy"/>
+    <link href="/lessons/immunology/applied-immunology/vaccine-controversy"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2194,11 +2182,11 @@
   </entry>
   <entry>
     <title>Using Antibodies</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/using-antibodies</id>
-    <updated>2019-05-21T12:26:45-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology/using-antibodies</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/using-antibodies"/>
+    <link href="/lessons/immunology/applied-immunology/using-antibodies"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2206,11 +2194,11 @@
   </entry>
   <entry>
     <title>ELISA Direct Method</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/elisa-direct-method</id>
-    <updated>2019-05-21T12:26:45-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology/elisa-direct-method</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/elisa-direct-method"/>
+    <link href="/lessons/immunology/applied-immunology/elisa-direct-method"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2218,11 +2206,11 @@
   </entry>
   <entry>
     <title>ELISA Indirect</title>
-    <id>/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/elisa-indirect</id>
-    <updated>2019-05-21T12:26:45-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/immunology/applied-immunology/elisa-indirect</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/immunology/applied-immunology/elisa-indirect"/>
+    <link href="/lessons/immunology/applied-immunology/elisa-indirect"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2230,11 +2218,11 @@
   </entry>
   <entry>
     <title>Medical Virology</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-virology</id>
-    <updated>2019-05-21T12:26:45-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-virology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-virology"/>
+    <link href="/lessons/medical-virology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2242,11 +2230,11 @@
   </entry>
   <entry>
     <title>Future Lessons</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-virology/future-lessons</id>
-    <updated>2019-05-21T12:26:45-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-virology/future-lessons</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-virology/future-lessons"/>
+    <link href="/lessons/medical-virology/future-lessons"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2254,11 +2242,11 @@
   </entry>
   <entry>
     <title>Survey of Microbial World</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-virology/future-lessons/survey-of-microbial-world</id>
-    <updated>2019-05-21T12:26:45-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-virology/future-lessons/survey-of-microbial-world</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-virology/future-lessons/survey-of-microbial-world"/>
+    <link href="/lessons/medical-virology/future-lessons/survey-of-microbial-world"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2266,11 +2254,11 @@
   </entry>
   <entry>
     <title>Bioterrorism</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-virology/future-lessons/bioterrorism</id>
-    <updated>2019-05-21T12:26:45-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-virology/future-lessons/bioterrorism</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-virology/future-lessons/bioterrorism"/>
+    <link href="/lessons/medical-virology/future-lessons/bioterrorism"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2278,11 +2266,11 @@
   </entry>
   <entry>
     <title>Influenza</title>
-    <id>/outline-micrb106-spring-2016/lessons/medical-virology/influenza</id>
-    <updated>2019-05-21T12:26:46-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/medical-virology/influenza</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/medical-virology/influenza"/>
+    <link href="/lessons/medical-virology/influenza"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2290,11 +2278,11 @@
   </entry>
   <entry>
     <title>Infections and Epidemiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology</id>
-    <updated>2019-05-21T12:26:46-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology"/>
+    <link href="/lessons/infections-and-epidemiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2302,11 +2290,11 @@
   </entry>
   <entry>
     <title>Establishment and Spread</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/establishment-and-spread</id>
-    <updated>2019-05-21T12:26:46-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/establishment-and-spread</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/establishment-and-spread"/>
+    <link href="/lessons/infections-and-epidemiology/establishment-and-spread"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2314,11 +2302,11 @@
   </entry>
   <entry>
     <title>Damage</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/damage</id>
-    <updated>2019-05-21T12:26:46-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/damage</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/damage"/>
+    <link href="/lessons/infections-and-epidemiology/damage"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2326,11 +2314,11 @@
   </entry>
   <entry>
     <title>Exotoxins and Endotoxins</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/exotoxins-and-endotoxins</id>
-    <updated>2019-05-21T12:26:46-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/exotoxins-and-endotoxins</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/exotoxins-and-endotoxins"/>
+    <link href="/lessons/infections-and-epidemiology/exotoxins-and-endotoxins"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2338,11 +2326,11 @@
   </entry>
   <entry>
     <title>Portals of Exit</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/portals-of-exit</id>
-    <updated>2019-05-21T12:26:46-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/portals-of-exit</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/portals-of-exit"/>
+    <link href="/lessons/infections-and-epidemiology/portals-of-exit"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2350,11 +2338,11 @@
   </entry>
   <entry>
     <title>Epidemiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/epidemiology</id>
-    <updated>2019-05-21T12:26:46-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/epidemiology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/epidemiology"/>
+    <link href="/lessons/infections-and-epidemiology/epidemiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2362,11 +2350,11 @@
   </entry>
   <entry>
     <title>Reserviors</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/reserviors</id>
-    <updated>2019-05-21T12:26:47-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/reserviors</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/reserviors"/>
+    <link href="/lessons/infections-and-epidemiology/reserviors"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2374,11 +2362,11 @@
   </entry>
   <entry>
     <title>Epidemiology Future Topic</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/epidemiology-future-topic</id>
-    <updated>2019-05-21T12:26:47-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/epidemiology-future-topic</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/epidemiology-future-topic"/>
+    <link href="/lessons/infections-and-epidemiology/epidemiology-future-topic"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2386,11 +2374,11 @@
   </entry>
   <entry>
     <title>Epidemiological Rates</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/epidemiological-rates</id>
-    <updated>2019-05-21T12:26:47-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/epidemiological-rates</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/epidemiological-rates"/>
+    <link href="/lessons/infections-and-epidemiology/epidemiological-rates"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2398,11 +2386,11 @@
   </entry>
   <entry>
     <title>Pattern of Infection</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/pattern-of-infection</id>
-    <updated>2019-05-21T12:26:47-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/pattern-of-infection</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/pattern-of-infection"/>
+    <link href="/lessons/infections-and-epidemiology/pattern-of-infection"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2410,11 +2398,11 @@
   </entry>
   <entry>
     <title>Descriptive Epidemiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/descriptive-epidemiology</id>
-    <updated>2019-05-21T12:26:47-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/descriptive-epidemiology</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/descriptive-epidemiology"/>
+    <link href="/lessons/infections-and-epidemiology/descriptive-epidemiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2422,11 +2410,11 @@
   </entry>
   <entry>
     <title>Human Host</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/human-host</id>
-    <updated>2019-05-21T12:26:48-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/human-host</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/human-host"/>
+    <link href="/lessons/infections-and-epidemiology/human-host"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2434,11 +2422,11 @@
   </entry>
   <entry>
     <title>Encounter: Portal of Entry</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/encounter-portal-of-entry</id>
-    <updated>2019-05-21T12:26:48-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/encounter-portal-of-entry</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/encounter-portal-of-entry"/>
+    <link href="/lessons/infections-and-epidemiology/encounter-portal-of-entry"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2446,11 +2434,11 @@
   </entry>
   <entry>
     <title>Attachment and Entry</title>
-    <id>/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/attachment-and-entry</id>
-    <updated>2019-05-21T12:26:48-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/infections-and-epidemiology/attachment-and-entry</id>
+    <updated>51355-10-30T19:58:52-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/infections-and-epidemiology/attachment-and-entry"/>
+    <link href="/lessons/infections-and-epidemiology/attachment-and-entry"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2458,11 +2446,11 @@
   </entry>
   <entry>
     <title>Virology</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology</id>
-    <updated>2019-05-21T12:26:48-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:52-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology"/>
+    <link href="/lessons/virology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2470,11 +2458,11 @@
   </entry>
   <entry>
     <title>Biology of Viruses</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses</id>
-    <updated>2019-05-21T12:26:48-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/biology-of-viruses</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses"/>
+    <link href="/lessons/virology/biology-of-viruses"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2482,11 +2470,11 @@
   </entry>
   <entry>
     <title>What is a virus?</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/what-is-a-virus</id>
-    <updated>2019-05-21T12:26:48-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/biology-of-viruses/what-is-a-virus</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/what-is-a-virus"/>
+    <link href="/lessons/virology/biology-of-viruses/what-is-a-virus"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2494,11 +2482,11 @@
   </entry>
   <entry>
     <title>Viral Structure</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/viral-structure</id>
-    <updated>2019-05-21T12:26:49-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/biology-of-viruses/viral-structure</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/viral-structure"/>
+    <link href="/lessons/virology/biology-of-viruses/viral-structure"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2506,11 +2494,11 @@
   </entry>
   <entry>
     <title>Viral Genetic Information</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/viral-genetic-information</id>
-    <updated>2019-05-21T12:26:49-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/biology-of-viruses/viral-genetic-information</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/viral-genetic-information"/>
+    <link href="/lessons/virology/biology-of-viruses/viral-genetic-information"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2518,11 +2506,11 @@
   </entry>
   <entry>
     <title>Replication: Lytic cycle</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/replication-lytic-cycle</id>
-    <updated>2019-05-21T12:26:49-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/biology-of-viruses/replication-lytic-cycle</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/replication-lytic-cycle"/>
+    <link href="/lessons/virology/biology-of-viruses/replication-lytic-cycle"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2530,11 +2518,11 @@
   </entry>
   <entry>
     <title>Bacteriophage and Lysogeny</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/bacteriophage-and-lysogeny</id>
-    <updated>2019-05-21T12:26:49-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/biology-of-viruses/bacteriophage-and-lysogeny</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/bacteriophage-and-lysogeny"/>
+    <link href="/lessons/virology/biology-of-viruses/bacteriophage-and-lysogeny"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2542,11 +2530,11 @@
   </entry>
   <entry>
     <title>Growing Viruses</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/growing-viruses</id>
-    <updated>2019-05-21T12:26:49-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/biology-of-viruses/growing-viruses</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/biology-of-viruses/growing-viruses"/>
+    <link href="/lessons/virology/biology-of-viruses/growing-viruses"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2554,11 +2542,11 @@
   </entry>
   <entry>
     <title>Viral Diseases</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/viral-diseases</id>
-    <updated>2019-05-21T12:26:49-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/viral-diseases</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/viral-diseases"/>
+    <link href="/lessons/virology/viral-diseases"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2566,11 +2554,11 @@
   </entry>
   <entry>
     <title>Diseases 2</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-2</id>
-    <updated>2019-05-21T12:26:50-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/viral-diseases/diseases-2</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-2"/>
+    <link href="/lessons/virology/viral-diseases/diseases-2"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2578,11 +2566,11 @@
   </entry>
   <entry>
     <title>Diseases 3</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-3</id>
-    <updated>2019-05-21T12:26:50-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/viral-diseases/diseases-3</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-3"/>
+    <link href="/lessons/virology/viral-diseases/diseases-3"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2590,11 +2578,11 @@
   </entry>
   <entry>
     <title>Diseases 4</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-4</id>
-    <updated>2019-05-21T12:26:50-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/viral-diseases/diseases-4</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-4"/>
+    <link href="/lessons/virology/viral-diseases/diseases-4"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2602,11 +2590,11 @@
   </entry>
   <entry>
     <title>Diseases 1</title>
-    <id>/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-1</id>
-    <updated>2019-05-21T12:26:50-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/virology/viral-diseases/diseases-1</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/virology/viral-diseases/diseases-1"/>
+    <link href="/lessons/virology/viral-diseases/diseases-1"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2614,11 +2602,11 @@
   </entry>
   <entry>
     <title>Environmental and Applied</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied</id>
-    <updated>2019-05-21T12:26:50-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied"/>
+    <link href="/lessons/environmental-and-applied"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2626,11 +2614,11 @@
   </entry>
   <entry>
     <title>Food Microbiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/food-microbiology</id>
-    <updated>2019-05-21T12:26:51-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/food-microbiology</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/food-microbiology"/>
+    <link href="/lessons/environmental-and-applied/food-microbiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2638,11 +2626,11 @@
   </entry>
   <entry>
     <title>Applied Microbiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/applied-microbiology</id>
-    <updated>2019-05-21T12:26:51-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/applied-microbiology</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/applied-microbiology"/>
+    <link href="/lessons/environmental-and-applied/applied-microbiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2650,11 +2638,11 @@
   </entry>
   <entry>
     <title>Environmental Microbiology--Bioremediation</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/environmental-microbiology-bioremediation</id>
-    <updated>2019-05-21T12:26:51-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/environmental-microbiology-bioremediation</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/environmental-microbiology-bioremediation"/>
+    <link href="/lessons/environmental-and-applied/environmental-microbiology-bioremediation"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2662,11 +2650,11 @@
   </entry>
   <entry>
     <title>More Food Microbiology</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/more-food-microbiology</id>
-    <updated>2019-05-21T12:26:51-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/more-food-microbiology</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/more-food-microbiology"/>
+    <link href="/lessons/environmental-and-applied/more-food-microbiology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2674,11 +2662,11 @@
   </entry>
   <entry>
     <title>Microbes and the Water Supply</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/microbes-and-the-water-supply</id>
-    <updated>2019-05-21T12:26:51-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/microbes-and-the-water-supply</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/microbes-and-the-water-supply"/>
+    <link href="/lessons/environmental-and-applied/microbes-and-the-water-supply"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2686,11 +2674,11 @@
   </entry>
   <entry>
     <title>Microbes in the Environment</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/microbes-in-the-environment</id>
-    <updated>2019-05-21T12:26:51-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/microbes-in-the-environment</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/microbes-in-the-environment"/>
+    <link href="/lessons/environmental-and-applied/microbes-in-the-environment"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2698,11 +2686,11 @@
   </entry>
   <entry>
     <title>Microbes: Nitrogen Fixation</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/microbes-nitrogen-fixation</id>
-    <updated>2019-05-21T12:26:52-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/microbes-nitrogen-fixation</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/microbes-nitrogen-fixation"/>
+    <link href="/lessons/environmental-and-applied/microbes-nitrogen-fixation"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2710,11 +2698,11 @@
   </entry>
   <entry>
     <title>Aquatic Microbial Ecology</title>
-    <id>/outline-micrb106-spring-2016/lessons/environmental-and-applied/aquatic-microbial-ecology</id>
-    <updated>2019-05-21T12:26:52-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/lessons/environmental-and-applied/aquatic-microbial-ecology</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/lessons/environmental-and-applied/aquatic-microbial-ecology"/>
+    <link href="/lessons/environmental-and-applied/aquatic-microbial-ecology"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2722,11 +2710,11 @@
   </entry>
   <entry>
     <title>Resources</title>
-    <id>/outline-micrb106-spring-2016/resources</id>
-    <updated>2019-05-21T12:26:52-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/resources</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/resources"/>
+    <link href="/resources"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2734,11 +2722,11 @@
   </entry>
   <entry>
     <title>Mycobacteria</title>
-    <id>/outline-micrb106-spring-2016/resources/mycobacteria</id>
-    <updated>2019-05-21T12:26:52-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/resources/mycobacteria</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/resources/mycobacteria"/>
+    <link href="/resources/mycobacteria"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2746,11 +2734,11 @@
   </entry>
   <entry>
     <title>Mycobacterium: Tuberculosis</title>
-    <id>/outline-micrb106-spring-2016/resources/mycobacteria/mycobacterium-tuberculosis</id>
-    <updated>2019-05-21T12:26:52-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/resources/mycobacteria/mycobacterium-tuberculosis</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/resources/mycobacteria/mycobacterium-tuberculosis"/>
+    <link href="/resources/mycobacteria/mycobacterium-tuberculosis"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2758,11 +2746,11 @@
   </entry>
   <entry>
     <title>Mycobacterium: Leprosy</title>
-    <id>/outline-micrb106-spring-2016/resources/mycobacteria/mycobacterium-leprosy</id>
-    <updated>2019-05-21T12:26:53-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/resources/mycobacteria/mycobacterium-leprosy</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/resources/mycobacteria/mycobacterium-leprosy"/>
+    <link href="/resources/mycobacteria/mycobacterium-leprosy"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2770,11 +2758,11 @@
   </entry>
   <entry>
     <title>Clostridium</title>
-    <id>/outline-micrb106-spring-2016/resources/clostridium</id>
-    <updated>2019-05-21T12:26:53-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/resources/clostridium</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/resources/clostridium"/>
+    <link href="/resources/clostridium"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -2782,11 +2770,11 @@
   </entry>
   <entry>
     <title>ANGEL</title>
-    <id>/outline-micrb106-spring-2016/resources/angel</id>
-    <updated>2019-05-21T12:26:53-06:00</updated>
-    <published>51355-09-24T16:36:09-07:00</published>
+    <id>/resources/angel</id>
+    <updated>51355-10-30T19:58:53-07:00</updated>
+    <published>51355-10-30T19:58:53-07:00</published>
     <summary></summary>
-    <link href="/outline-micrb106-spring-2016/resources/angel"/>
+    <link href="/resources/angel"/>
     
     <content type="html">
       <![CDATA[  ]]>

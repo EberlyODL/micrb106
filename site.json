@@ -62,3287 +62,3247 @@
     },
     "items": [
         {
-            "id": "bfb335e4-7347-46d0-aeb5-eaedee86282b",
-            "indent": 0,
-            "location": "pages\/outline-micrb106-spring-2016\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "Outline Micrb106 Spring 2016",
-            "description": "",
-            "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463170,
-                "uid": "1"
-            }
-        },
-        {
             "id": "c53b5ba6-04fa-11e3-8862-0050569d0017",
-            "indent": 1,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/index.html",
-            "order": 0,
-            "parent": "bfb335e4-7347-46d0-aeb5-eaedee86282b",
+            "indent": 0,
+            "location": "pages\/lessons\/index.html",
+            "order": -231,
+            "parent": null,
             "title": "Lessons",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463170,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c5443be0-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/index.html",
+            "order": 159,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Medical Microbiology",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463171,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c56d519c-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/parade-of-diseases\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/parade-of-diseases\/index.html",
+            "order": 161,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Parade of Diseases",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463171,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c5960434-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/staphylococcal-diseases\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/staphylococcal-diseases\/index.html",
+            "order": 171,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Staphylococcal Diseases",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463171,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c706116a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/pneumococcus\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/pneumococcus\/index.html",
+            "order": 167,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Pneumococcus",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463172,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c7185780-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/bacillus-anthracis\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/bacillus-anthracis\/index.html",
+            "order": 173,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Bacillus anthracis",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463172,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c72cb9a0-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/streptococcal-diseases\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/streptococcal-diseases\/index.html",
+            "order": 165,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Streptococcal Diseases",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463172,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c74f3386-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/streptococci\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/streptococci\/index.html",
+            "order": 163,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Streptococci",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463172,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c75eafbe-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/staphylococci\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/staphylococci\/index.html",
+            "order": 169,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Staphylococci",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463172,
+                "created": 1558466276331,
+                "updated": 1558466276331,
                 "uid": "1"
             }
         },
         {
             "id": "c8628c46-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology\/enteric-bacilli\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology\/enteric-bacilli\/index.html",
+            "order": 175,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Enteric Bacilli",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463172,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5466852-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/index.html",
+            "order": -199,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Chemistry and Cell Biology",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463173,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c71d5ff0-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/index.html",
+            "order": -197,
             "parent": "c5466852-04fa-11e3-8862-0050569d0017",
             "title": "Basic Chemistry",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463173,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8800622-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/chemical-bonding\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/chemical-bonding\/index.html",
+            "order": -193,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Chemical Bonding",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463173,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c89150c6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/atoms-and-ions\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/atoms-and-ions\/index.html",
+            "order": -195,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Atoms and Ions",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463173,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8a2cbb2-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/properties-of-water\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/properties-of-water\/index.html",
+            "order": -191,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Properties of Water",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463174,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8bd9884-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/ph-acids-and-bases\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/ph-acids-and-bases\/index.html",
+            "order": -189,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "pH: Acids and Bases",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463174,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8cdbde0-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/conjugated-enzymes\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/conjugated-enzymes\/index.html",
+            "order": -177,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Conjugated Enzymes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463174,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8d0479a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/organic-compounds\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/organic-compounds\/index.html",
+            "order": -187,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Organic Compounds",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463174,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8e48912-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/carbohydrates\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/carbohydrates\/index.html",
+            "order": -185,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Carbohydrates",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463174,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca27c91a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/lipids\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/lipids\/index.html",
+            "order": -183,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Lipids",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463175,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca3b26e0-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/proteins\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/proteins\/index.html",
+            "order": -181,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Proteins",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463175,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca4b0542-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/enzymes\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/enzymes\/index.html",
+            "order": -179,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Enzymes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463175,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca5787b8-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/nucleic-acids\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/nucleic-acids\/index.html",
+            "order": -175,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "Nucleic Acids",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463175,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca712826-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/atp\/index.html",
-            "order": 11,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-chemistry\/atp\/index.html",
+            "order": -173,
             "parent": "c71d5ff0-04fa-11e3-8862-0050569d0017",
             "title": "ATP",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463175,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c73191e6-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/index.html",
+            "order": -171,
             "parent": "c5466852-04fa-11e3-8862-0050569d0017",
             "title": "Basic Cell Biology",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463176,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c86a0d18-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/transport-of-water\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/transport-of-water\/index.html",
+            "order": -159,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Transport of Water",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463176,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8773de4-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/osmotic-pressure\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/osmotic-pressure\/index.html",
+            "order": -157,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Osmotic Pressure",
-            "description": "",
+            "description": "Cells can find themselves in 3 different situations regarding osmotic pressure.They can be in:\tA solution where there is an equal concentration of solute inside and outside the cell.\tA s",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463176,
+                "created": 1558466276332,
+                "updated": 1558466392,
                 "uid": "1",
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/sites\/micrb106v2\/files\/scale-50\/hypotonic.gif",
-                        "fullUrl": "\/sites\/micrb106v2\/files\/scale-50\/hypotonic.gif",
-                        "url": "files\/scale-50\/hypotonic.gif",
-                        "type": "image\/gif",
-                        "name": "hypotonic.gif",
-                        "size": 3192926
-                    }
-                ]
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 3,
+                    "schema": [],
+                    "tags": {
+                        "p": 3,
+                        "ol": 1
+                    },
+                    "elements": 4
+                }
             }
         },
         {
             "id": "c87dda0a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/types-of-cells\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/types-of-cells\/index.html",
+            "order": -169,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Types of cells",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463176,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c886890c-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/cellular-organelles\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/cellular-organelles\/index.html",
+            "order": -155,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Cellular Organelles",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463176,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c899bbd0-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/chromosomes\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/chromosomes\/index.html",
+            "order": -153,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Chromosomes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463177,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8ac004c-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/genes\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/genes\/index.html",
+            "order": -151,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Genes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463177,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8c6adde-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/chromosome-number\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/chromosome-number\/index.html",
+            "order": -149,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Chromosome Number",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463177,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca773f4a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/plasma-membrane\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/plasma-membrane\/index.html",
+            "order": -167,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Plasma Membrane",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463177,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca85c3e4-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/diffusion\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/diffusion\/index.html",
+            "order": -165,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Diffusion",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463177,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca92e4f2-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/membrane-transport-systems\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/membrane-transport-systems\/index.html",
+            "order": -163,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Membrane Transport Systems",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463178,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca9cf032-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/bulk-membrane-transport\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/chemistry-and-cell-biology\/basic-cell-biology\/bulk-membrane-transport\/index.html",
+            "order": -161,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Bulk Membrane Transport",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463178,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c548bfe4-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/index.html",
+            "order": -83,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Genetics",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463178,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c588857a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/index.html",
+            "order": -81,
             "parent": "c548bfe4-04fa-11e3-8862-0050569d0017",
             "title": "Molecular Genetics",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463178,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c88d9724-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/transcription-translation-in-prokaryotes\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/transcription-translation-in-prokaryotes\/index.html",
+            "order": -59,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Transcription \/ Translation in Prokaryotes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463178,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c893628a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/structure-of-dna\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/structure-of-dna\/index.html",
+            "order": -77,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Structure of DNA",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463178,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8a07722-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/genetic-material\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/genetic-material\/index.html",
+            "order": -79,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Genetic Material",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463179,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8a51af2-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/central-dogma\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/central-dogma\/index.html",
+            "order": -75,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Central Dogma",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463179,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8b0a8cc-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/gene-splicing\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/gene-splicing\/index.html",
+            "order": -67,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Gene Splicing",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463179,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8c028a6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/dna-replication\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/dna-replication\/index.html",
+            "order": -73,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "DNA Replication",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463179,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8d2a472-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/transcription\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/transcription\/index.html",
+            "order": -69,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Transcription",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463179,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8e0255c-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/translation-code-of-life\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/translation-code-of-life\/index.html",
+            "order": -63,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Translation: Code of Life",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463180,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8e67fb0-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/translation-codons\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/translation-codons\/index.html",
+            "order": -65,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Translation: Codons",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463180,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca2a388a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/translation-process\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/translation-process\/index.html",
+            "order": -61,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Translation Process",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463180,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca68fca0-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/molecular-genetics\/replication-prokaryotes\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/molecular-genetics\/replication-prokaryotes\/index.html",
+            "order": -71,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Replication: Prokaryotes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463180,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5b6383a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/bacterial-genetics\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/bacterial-genetics\/index.html",
+            "order": -43,
             "parent": "c548bfe4-04fa-11e3-8862-0050569d0017",
             "title": "Bacterial Genetics",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463180,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca236384-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/bacterial-genetics\/transformation\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/bacterial-genetics\/transformation\/index.html",
+            "order": -41,
             "parent": "c5b6383a-04fa-11e3-8862-0050569d0017",
             "title": "Transformation",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463181,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca35297a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/bacterial-genetics\/generalized-transduction\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/bacterial-genetics\/generalized-transduction\/index.html",
+            "order": -39,
             "parent": "c5b6383a-04fa-11e3-8862-0050569d0017",
             "title": "Generalized Transduction",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463181,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca4637f6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/bacterial-genetics\/conjugation-f-plasmids\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/bacterial-genetics\/conjugation-f-plasmids\/index.html",
+            "order": -35,
             "parent": "c5b6383a-04fa-11e3-8862-0050569d0017",
             "title": "Conjugation: F Plasmids",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463181,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca5199fc-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/bacterial-genetics\/conjugation-hfr-transfer\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/bacterial-genetics\/conjugation-hfr-transfer\/index.html",
+            "order": -33,
             "parent": "c5b6383a-04fa-11e3-8862-0050569d0017",
             "title": "Conjugation: Hfr Transfer",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463181,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca970302-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/bacterial-genetics\/specialized-transduction\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/bacterial-genetics\/specialized-transduction\/index.html",
+            "order": -37,
             "parent": "c5b6383a-04fa-11e3-8862-0050569d0017",
             "title": "Specialized Transduction",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463182,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "caa2d466-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/bacterial-genetics\/transposons\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/bacterial-genetics\/transposons\/index.html",
+            "order": -31,
             "parent": "c5b6383a-04fa-11e3-8862-0050569d0017",
             "title": "Transposons",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463182,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c73f106e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/mutations\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/mutations\/index.html",
+            "order": -57,
             "parent": "c548bfe4-04fa-11e3-8862-0050569d0017",
             "title": "Mutations",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463182,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c870a984-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/mutations\/repair-mechanisms\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/mutations\/repair-mechanisms\/index.html",
+            "order": -45,
             "parent": "c73f106e-04fa-11e3-8862-0050569d0017",
             "title": "Repair Mechanisms",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463182,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8cb4966-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/mutations\/causes-of-mutations\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/mutations\/causes-of-mutations\/index.html",
+            "order": -55,
             "parent": "c73f106e-04fa-11e3-8862-0050569d0017",
             "title": "Causes of Mutations",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463182,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8de074a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/mutations\/ames-test\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/mutations\/ames-test\/index.html",
+            "order": -47,
             "parent": "c73f106e-04fa-11e3-8862-0050569d0017",
             "title": "Ames Test",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463183,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca3d56d6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/mutations\/point-mutations\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/mutations\/point-mutations\/index.html",
+            "order": -53,
             "parent": "c73f106e-04fa-11e3-8862-0050569d0017",
             "title": "Point Mutations",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463183,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca4d225a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/mutations\/base-analogs\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/mutations\/base-analogs\/index.html",
+            "order": -51,
             "parent": "c73f106e-04fa-11e3-8862-0050569d0017",
             "title": "Base Analogs",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463183,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca59869e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/genetics\/mutations\/frameshift-mutations\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/genetics\/mutations\/frameshift-mutations\/index.html",
+            "order": -49,
             "parent": "c73f106e-04fa-11e3-8862-0050569d0017",
             "title": "Frameshift Mutations",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463183,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c54b061e-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/index.html",
+            "order": -229,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Introduction to Microbes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463183,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c571b566-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/early-scientists\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/early-scientists\/index.html",
+            "order": -211,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Early Scientists",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463183,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c58069a8-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/spontaneous-generation-microbes\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/spontaneous-generation-microbes\/index.html",
+            "order": -207,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Spontaneous Generation: Microbes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463184,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c58ac20e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/history-of-microbiology\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/history-of-microbiology\/index.html",
+            "order": -221,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "History of Microbiology",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463184,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c58f1066-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/pasteur-and-wine-production\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/pasteur-and-wine-production\/index.html",
+            "order": -205,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Pasteur and Wine production",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463184,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c59a1a74-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/types-of-microorganisms\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/types-of-microorganisms\/index.html",
+            "order": -227,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Types of Microorganisms",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463184,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5aa8a58-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/microbes-and-the-planet\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/microbes-and-the-planet\/index.html",
+            "order": -225,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Microbes and the Planet",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463184,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6fea5d8-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/early-civilization\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/early-civilization\/index.html",
+            "order": -219,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Early Civilization",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463184,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c711b452-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/disease-the-ancient-world\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/disease-the-ancient-world\/index.html",
+            "order": -217,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Disease & the Ancient World",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463185,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c727f992-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/disease-religion\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/disease-religion\/index.html",
+            "order": -215,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Disease & Religion",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463185,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c7381ee4-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/microbes-and-humans\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/microbes-and-humans\/index.html",
+            "order": -223,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Microbes and Humans",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463185,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c7413600-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/rise-of-scientific-thought\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/rise-of-scientific-thought\/index.html",
+            "order": -213,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Rise of Scientific Thought",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463185,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c74b28e0-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/spontaneous-generation\/index.html",
-            "order": 11,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/spontaneous-generation\/index.html",
+            "order": -209,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Spontaneous Generation",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463185,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c75a601c-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/germ-theory-of-disease\/index.html",
-            "order": 12,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/germ-theory-of-disease\/index.html",
+            "order": -203,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Germ Theory of Disease",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463185,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c847ca1e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/introduction-to-microbes\/modern-technologies\/index.html",
-            "order": 13,
+            "indent": 0,
+            "location": "pages\/lessons\/introduction-to-microbes\/modern-technologies\/index.html",
+            "order": -201,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Modern Technologies",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463186,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c552d8ee-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/index.html",
+            "order": -119,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Growth and Metabolism",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463186,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6f78e6a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/index.html",
+            "order": -117,
             "parent": "c552d8ee-04fa-11e3-8862-0050569d0017",
             "title": "Bacterial Growth and Nutrition",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463186,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c86c498e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/bacterial-growth-patterns\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/bacterial-growth-patterns\/index.html",
+            "order": -107,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Bacterial Growth Patterns",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463186,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c87bd390-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/bacterial-growth-curve\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/bacterial-growth-curve\/index.html",
+            "order": -103,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Bacterial Growth Curve",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463186,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c88b4e88-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/counting-bacteria\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/counting-bacteria\/index.html",
+            "order": -101,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Counting Bacteria",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463187,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8b93596-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/reproduction-rates\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/reproduction-rates\/index.html",
+            "order": -105,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Reproduction Rates",
-            "description": "The power of exponential growth\u00a0There is an old Chinese proverb that explains the power of exponential growth. There was once a rich and powerful man who was riding a large horse near the lake shore",
+            "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558465753,
-                "uid": "1",
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/sites\/micrb106v2\/files\/reproduction-rates1.csv",
-                        "fullUrl": "\/sites\/micrb106v2\/files\/reproduction-rates1.csv",
-                        "url": "files\/reproduction-rates1.csv",
-                        "type": "text\/plain",
-                        "name": "reproduction-rates1.csv",
-                        "size": 605
-                    }
-                ],
-                "readtime": 3,
-                "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 10,
-                    "schema": [
-                        {
-                            "resource": "#69e467e3-6e77-162d-9ba8",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "h3": 1,
-                        "p": 10,
-                        "lrn-table": 1
-                    },
-                    "elements": 12
-                }
+                "created": 1558466276332,
+                "updated": 1558466276332,
+                "uid": "1"
             }
         },
         {
             "id": "ca7babca-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/energy-and-carbon-sources\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/energy-and-carbon-sources\/index.html",
+            "order": -115,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Energy and Carbon Sources",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463187,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca87ad8a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/temperature-and-growth\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/temperature-and-growth\/index.html",
+            "order": -113,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Temperature and Growth",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463187,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca950854-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/oxygen-and-growth\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/oxygen-and-growth\/index.html",
+            "order": -111,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Oxygen and growth",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463187,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca9eda3c-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/other-growth-parameters\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/bacterial-growth-and-nutrition\/other-growth-parameters\/index.html",
+            "order": -109,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Other Growth Parameters",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463187,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c70ac318-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/index.html",
+            "order": -99,
             "parent": "c552d8ee-04fa-11e3-8862-0050569d0017",
             "title": "Metabolism",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463188,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c89e34e4-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/metabolism-overview\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/metabolism-overview\/index.html",
+            "order": -97,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Metabolism Overview",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463188,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8ae096e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/energy-pathways\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/energy-pathways\/index.html",
+            "order": -95,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Energy Pathways",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463188,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8c8d9a6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/respiration-vs-fermentation\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/respiration-vs-fermentation\/index.html",
+            "order": -93,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Respiration vs Fermentation",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463188,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8dc0012-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/glycolysis\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/glycolysis\/index.html",
+            "order": -91,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Glycolysis",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463188,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8e25f8e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/anabolism\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/anabolism\/index.html",
+            "order": -85,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Anabolism",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463188,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca211d54-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/krebs-cycle\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/krebs-cycle\/index.html",
+            "order": -89,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Krebs Cycle",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463189,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca32d850-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/growth-and-metabolism\/metabolism\/electron-transport-chain\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/growth-and-metabolism\/metabolism\/electron-transport-chain\/index.html",
+            "order": -87,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Electron Transport Chain",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463189,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c556df48-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/index.html",
+            "order": -3,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Biotechnology",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463189,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c56af1c2-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/index.html",
+            "order": 21,
             "parent": "c556df48-04fa-11e3-8862-0050569d0017",
             "title": "Genetically Modified Organisms",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463189,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c872ba4e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/why-the-interest\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/why-the-interest\/index.html",
+            "order": 23,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "Why the Interest?",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463189,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8823302-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/making-a-gmo\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/making-a-gmo\/index.html",
+            "order": 25,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "Making a GMO",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463189,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c89585d8-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/how-bt-works\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/how-bt-works\/index.html",
+            "order": 27,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "How Bt Works",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463190,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8a76104-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/problems-with-bt\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/problems-with-bt\/index.html",
+            "order": 29,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "Problems with Bt",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463190,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8c291b8-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/frankenfoods\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/frankenfoods\/index.html",
+            "order": 31,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "Frankenfoods",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463190,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8d73c9e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/in-the-beginning-early-gmos\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/in-the-beginning-early-gmos\/index.html",
+            "order": 33,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "In the Beginning: Early GMO's",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463190,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca1c6e94-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/the-trouble-with-gmos\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/the-trouble-with-gmos\/index.html",
+            "order": 35,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "The Trouble with GMO's",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463190,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca2e549c-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetically-modified-organisms\/gene-doping\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetically-modified-organisms\/gene-doping\/index.html",
+            "order": 37,
             "parent": "c56af1c2-04fa-11e3-8862-0050569d0017",
             "title": "Gene Doping",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463191,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5b04ee8-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/biotechnology-tools\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/biotechnology-tools\/index.html",
+            "order": -1,
             "parent": "c556df48-04fa-11e3-8862-0050569d0017",
             "title": "Biotechnology Tools",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463191,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8d4f5e2-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/biotechnology-tools\/history-of-gene-manipulation\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/biotechnology-tools\/history-of-gene-manipulation\/index.html",
+            "order": 1,
             "parent": "c5b04ee8-04fa-11e3-8862-0050569d0017",
             "title": "History of Gene Manipulation",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463191,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8e8cdf6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/biotechnology-tools\/polymerase-chain-reaction\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/biotechnology-tools\/polymerase-chain-reaction\/index.html",
+            "order": 3,
             "parent": "c5b04ee8-04fa-11e3-8862-0050569d0017",
             "title": "Polymerase Chain Reaction",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463191,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca2c4850-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/biotechnology-tools\/electrophoresis\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/biotechnology-tools\/electrophoresis\/index.html",
+            "order": 5,
             "parent": "c5b04ee8-04fa-11e3-8862-0050569d0017",
             "title": "Electrophoresis",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463192,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca415af6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/biotechnology-tools\/restriction-enzymes\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/biotechnology-tools\/restriction-enzymes\/index.html",
+            "order": 7,
             "parent": "c5b04ee8-04fa-11e3-8862-0050569d0017",
             "title": "Restriction Enzymes",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463192,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca4f7b2c-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/biotechnology-tools\/dna-fingerprinting\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/biotechnology-tools\/dna-fingerprinting\/index.html",
+            "order": 9,
             "parent": "c5b04ee8-04fa-11e3-8862-0050569d0017",
             "title": "DNA Fingerprinting",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463192,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c72f38b0-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetic-engineering\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetic-engineering\/index.html",
+            "order": 11,
             "parent": "c556df48-04fa-11e3-8862-0050569d0017",
             "title": "Genetic Engineering",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463192,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca731d70-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetic-engineering\/engineering-bacteria\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetic-engineering\/engineering-bacteria\/index.html",
+            "order": 13,
             "parent": "c72f38b0-04fa-11e3-8862-0050569d0017",
             "title": "Engineering Bacteria",
             "description": "",
             "metadata": {
-                "created": 1558463153768,
-                "updated": 1558463192,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca81bae2-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetic-engineering\/plasmid-vector\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetic-engineering\/plasmid-vector\/index.html",
+            "order": 15,
             "parent": "c72f38b0-04fa-11e3-8862-0050569d0017",
             "title": "Plasmid \/Vector",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463193,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca8dc440-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetic-engineering\/plant-engineering\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetic-engineering\/plant-engineering\/index.html",
+            "order": 17,
             "parent": "c72f38b0-04fa-11e3-8862-0050569d0017",
             "title": "Plant Engineering",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463193,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca990c2e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/biotechnology\/genetic-engineering\/human-engineering\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/biotechnology\/genetic-engineering\/human-engineering\/index.html",
+            "order": 19,
             "parent": "c72f38b0-04fa-11e3-8862-0050569d0017",
             "title": "Human Engineering",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463193,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c55bdbb0-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/index.html",
+            "order": -147,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Prokaryotes and Eukaryotes",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463193,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5a6b180-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/external-structures\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/external-structures\/index.html",
+            "order": -143,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "External Structures",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463193,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5b25bac-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/cell-wall-structure\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/cell-wall-structure\/index.html",
+            "order": -141,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Cell Wall Structure",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463194,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6e17d28-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/internal-structures\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/internal-structures\/index.html",
+            "order": -135,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Internal Structures",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463194,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6ea77ca-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/resolution\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/resolution\/index.html",
+            "order": -127,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Resolution",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463194,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6ef241e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/endospores\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/endospores\/index.html",
+            "order": -133,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Endospores",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463194,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6f9dca6-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/microscope-basics\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/microscope-basics\/index.html",
+            "order": -129,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Microscope Basics",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463194,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c7010e90-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/gram-stain\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/gram-stain\/index.html",
+            "order": -137,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Gram Stain",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463195,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c70d0920-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/staining-basics\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/staining-basics\/index.html",
+            "order": -125,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Staining Basics",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463195,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c713f37a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/gram-positive-negative\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/gram-positive-negative\/index.html",
+            "order": -139,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Gram Positive\/Negative",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463195,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c722add4-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/types-of-microscopy\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/types-of-microscopy\/index.html",
+            "order": -121,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Types of Microscopy",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463195,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c733d06e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/advanced-staining\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/advanced-staining\/index.html",
+            "order": -123,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Advanced Staining",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463195,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c751365e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/microbial-cell-structures\/index.html",
-            "order": 11,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/microbial-cell-structures\/index.html",
+            "order": -145,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Microbial Cell Structures",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463195,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c760b7a0-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/prokaryotes-and-eukaryotes\/other-types-of-cells\/index.html",
-            "order": 12,
+            "indent": 0,
+            "location": "pages\/lessons\/prokaryotes-and-eukaryotes\/other-types-of-cells\/index.html",
+            "order": -131,
             "parent": "c55bdbb0-04fa-11e3-8862-0050569d0017",
             "title": "Other Types of Cells",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463196,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c55e5c32-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/index.html",
+            "order": 39,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Control of Microbes",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463196,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c56f7db4-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/radiation\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/radiation\/index.html",
+            "order": 47,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Radiation",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463196,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c57e5474-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/filtration\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/filtration\/index.html",
+            "order": 49,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Filtration",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463196,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c58cd24c-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/osmotic-pressure\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/osmotic-pressure\/index.html",
+            "order": 51,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Osmotic Pressure",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463196,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c59c5f46-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/resistance-mechanisms\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/resistance-mechanisms\/index.html",
+            "order": 69,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Resistance Mechanisms",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463196,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c59ea13e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/antibiotic-mechanisms-ii\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/antibiotic-mechanisms-ii\/index.html",
+            "order": 65,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Antibiotic Mechanisms II",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463196,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5ac757a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/types-of-chemical-agents\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/types-of-chemical-agents\/index.html",
+            "order": 57,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Types of Chemical Agents",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463197,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6da00f2-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/characteristics-of-antibiotics\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/characteristics-of-antibiotics\/index.html",
+            "order": 61,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Characteristics of Antibiotics",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463197,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6e61482-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/antibiotic-mechanisms\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/antibiotic-mechanisms\/index.html",
+            "order": 63,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Antibiotic Mechanisms",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463197,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6ecaa90-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/antibiotic-resistance\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/antibiotic-resistance\/index.html",
+            "order": 67,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Antibiotic Resistance",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463197,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c72a67ea-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/microbial-resistance\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/microbial-resistance\/index.html",
+            "order": 43,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Microbial resistance",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463197,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c7455b86-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/physical-methods-heat\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/physical-methods-heat\/index.html",
+            "order": 45,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Physical Methods: Heat",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463197,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c753d968-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/chemical-agents\/index.html",
-            "order": 11,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/chemical-agents\/index.html",
+            "order": 53,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Chemical Agents",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463198,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c7581b40-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/control-overview\/index.html",
-            "order": 12,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/control-overview\/index.html",
+            "order": 41,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Control overview",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463198,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c7631bda-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/discovery-of-antibiotics\/index.html",
-            "order": 13,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/discovery-of-antibiotics\/index.html",
+            "order": 59,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Discovery of Antibiotics",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463198,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8450694-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/control-of-microbes\/phenol-coefficient\/index.html",
-            "order": 14,
+            "indent": 0,
+            "location": "pages\/lessons\/control-of-microbes\/phenol-coefficient\/index.html",
+            "order": 55,
             "parent": "c55e5c32-04fa-11e3-8862-0050569d0017",
             "title": "Phenol Coefficient",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463198,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5607bb6-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology-ii\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology-ii\/index.html",
+            "order": 177,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Medical Microbiology II",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463198,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c575fb62-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology-ii\/neisseriae\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology-ii\/neisseriae\/index.html",
+            "order": 179,
             "parent": "c5607bb6-04fa-11e3-8862-0050569d0017",
             "title": "Neisseriae",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463198,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c58475a2-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology-ii\/spirochetes\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology-ii\/spirochetes\/index.html",
+            "order": 181,
             "parent": "c5607bb6-04fa-11e3-8862-0050569d0017",
             "title": "Spirochetes",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463199,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c593f810-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology-ii\/bordetella\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology-ii\/bordetella\/index.html",
+            "order": 185,
             "parent": "c5607bb6-04fa-11e3-8862-0050569d0017",
             "title": "Bordetella",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463199,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5a2d33a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology-ii\/yersinia\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology-ii\/yersinia\/index.html",
+            "order": 183,
             "parent": "c5607bb6-04fa-11e3-8862-0050569d0017",
             "title": "Yersinia",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463199,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c73a61d6-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology-ii\/vibrio\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology-ii\/vibrio\/index.html",
+            "order": 187,
             "parent": "c5607bb6-04fa-11e3-8862-0050569d0017",
             "title": "Vibrio",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463199,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c743564c-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-microbiology-ii\/legionella\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-microbiology-ii\/legionella\/index.html",
+            "order": 189,
             "parent": "c5607bb6-04fa-11e3-8862-0050569d0017",
             "title": "Legionella",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463199,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5627b28-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/index.html",
+            "order": 71,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Immunology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463200,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c708707c-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/index.html",
+            "order": 73,
             "parent": "c5627b28-04fa-11e3-8862-0050569d0017",
             "title": "Immune System",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463200,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c867c134-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/key-principles\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/key-principles\/index.html",
+            "order": 85,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Key Principles",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463200,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c874e756-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/nonspecific-barriers\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/nonspecific-barriers\/index.html",
+            "order": 87,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Nonspecific Barriers",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463200,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c884583a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/nonspecific-defenses\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/nonspecific-defenses\/index.html",
+            "order": 89,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Nonspecific Defenses",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463201,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c89798fa-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/specific-responses\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/specific-responses\/index.html",
+            "order": 91,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Specific Responses",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463201,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8a9b206-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/cell-mediated\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/cell-mediated\/index.html",
+            "order": 93,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Cell Mediated",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463201,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8c4b10a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/antibody-mediated\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/antibody-mediated\/index.html",
+            "order": 95,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Antibody Mediated",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463201,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8d98e7c-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/immunoglobulins\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/immunoglobulins\/index.html",
+            "order": 97,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Immunoglobulins",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463201,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca1f10a4-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/antibody-function\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/antibody-function\/index.html",
+            "order": 99,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Antibody Function",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463201,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca3086e0-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/categories-of-specific-immunity\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/categories-of-specific-immunity\/index.html",
+            "order": 101,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Categories of Specific Immunity",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463202,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca43d65a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/allergins\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/allergins\/index.html",
+            "order": 103,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Allergins",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463202,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca600cbc-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/capillaries\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/capillaries\/index.html",
+            "order": 77,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Capillaries",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463202,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca75451e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/fluids\/index.html",
-            "order": 11,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/fluids\/index.html",
+            "order": 79,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Fluids",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463202,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca83baea-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/lymphatic-system\/index.html",
-            "order": 12,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/lymphatic-system\/index.html",
+            "order": 75,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Lymphatic System",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463202,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca90aaf2-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/lymphatic-organs\/index.html",
-            "order": 13,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/lymphatic-organs\/index.html",
+            "order": 81,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Lymphatic Organs",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463202,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca9b07d6-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/immune-system\/immune-system\/index.html",
-            "order": 14,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/immune-system\/immune-system\/index.html",
+            "order": 83,
             "parent": "c708707c-04fa-11e3-8862-0050569d0017",
             "title": "Immune System",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463203,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c71621ea-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/influenza\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/influenza\/index.html",
+            "order": 121,
             "parent": "c5627b28-04fa-11e3-8862-0050569d0017",
             "title": "Influenza ",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463203,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8bb7324-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/influenza\/avian-flu\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/influenza\/avian-flu\/index.html",
+            "order": 129,
             "parent": "c71621ea-04fa-11e3-8862-0050569d0017",
             "title": "Avian Flu",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463203,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca559142-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/influenza\/biology-of-influenza\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/influenza\/biology-of-influenza\/index.html",
+            "order": 123,
             "parent": "c71621ea-04fa-11e3-8862-0050569d0017",
             "title": "Biology of Influenza",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463203,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca6f47b8-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/influenza\/influenza-the-disease\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/influenza\/influenza-the-disease\/index.html",
+            "order": 125,
             "parent": "c71621ea-04fa-11e3-8862-0050569d0017",
             "title": "Influenza: the Disease",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463203,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca7f9870-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/influenza\/epidemiology-of-influenza\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/influenza\/epidemiology-of-influenza\/index.html",
+            "order": 127,
             "parent": "c71621ea-04fa-11e3-8862-0050569d0017",
             "title": "Epidemiology of Influenza",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463203,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c71b012e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/index.html",
+            "order": 105,
             "parent": "c5627b28-04fa-11e3-8862-0050569d0017",
             "title": "Applied Immunology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463204,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca25997e-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/vaccines-historically\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/vaccines-historically\/index.html",
+            "order": 107,
             "parent": "c71b012e-04fa-11e3-8862-0050569d0017",
             "title": "Vaccines historically",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463204,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca3851ae-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/whole-cell-vaccines\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/whole-cell-vaccines\/index.html",
+            "order": 109,
             "parent": "c71b012e-04fa-11e3-8862-0050569d0017",
             "title": "Whole Cell Vaccines",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463204,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca48ff90-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/other-vaccine-types\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/other-vaccine-types\/index.html",
+            "order": 111,
             "parent": "c71b012e-04fa-11e3-8862-0050569d0017",
             "title": "Other Vaccine Types",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463204,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca53913a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/vaccine-controversy\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/vaccine-controversy\/index.html",
+            "order": 113,
             "parent": "c71b012e-04fa-11e3-8862-0050569d0017",
             "title": "Vaccine Controversy",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463204,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca6cc5d8-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/using-antibodies\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/using-antibodies\/index.html",
+            "order": 115,
             "parent": "c71b012e-04fa-11e3-8862-0050569d0017",
             "title": "Using Antibodies",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463205,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca7d8c92-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/elisa-direct-method\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/elisa-direct-method\/index.html",
+            "order": 117,
             "parent": "c71b012e-04fa-11e3-8862-0050569d0017",
             "title": "ELISA Direct Method",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463205,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "ca8a0db4-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/immunology\/applied-immunology\/elisa-indirect\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/immunology\/applied-immunology\/elisa-indirect\/index.html",
+            "order": 119,
             "parent": "c71b012e-04fa-11e3-8862-0050569d0017",
             "title": "ELISA Indirect",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463205,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5649f3e-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-virology\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-virology\/index.html",
+            "order": 209,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Medical Virology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463205,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c55964b6-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-virology\/future-lessons\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-virology\/future-lessons\/index.html",
+            "order": 211,
             "parent": "c5649f3e-04fa-11e3-8862-0050569d0017",
             "title": "Future Lessons",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463205,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c59811c0-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-virology\/future-lessons\/survey-of-microbial-world\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-virology\/future-lessons\/survey-of-microbial-world\/index.html",
+            "order": 213,
             "parent": "c55964b6-04fa-11e3-8862-0050569d0017",
             "title": "Survey of Microbial World",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463205,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5a4dc52-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-virology\/future-lessons\/bioterrorism\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-virology\/future-lessons\/bioterrorism\/index.html",
+            "order": 215,
             "parent": "c55964b6-04fa-11e3-8862-0050569d0017",
             "title": "Bioterrorism",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463205,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c864e126-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/medical-virology\/influenza\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/medical-virology\/influenza\/index.html",
+            "order": 217,
             "parent": "c5649f3e-04fa-11e3-8862-0050569d0017",
             "title": "Influenza",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463206,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c566be22-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/index.html",
-            "order": 11,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/index.html",
+            "order": 131,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Infections and Epidemiology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463206,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c573dce2-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/establishment-and-spread\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/establishment-and-spread\/index.html",
+            "order": 141,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Establishment and Spread",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463206,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c582583a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/damage\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/damage\/index.html",
+            "order": 143,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Damage",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463206,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c591e7fa-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/exotoxins-and-endotoxins\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/exotoxins-and-endotoxins\/index.html",
+            "order": 145,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Exotoxins and Endotoxins",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463206,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5a0e516-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/portals-of-exit\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/portals-of-exit\/index.html",
+            "order": 147,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Portals of Exit",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463206,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c5ae5b42-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/epidemiology\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/epidemiology\/index.html",
+            "order": 151,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Epidemiology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463206,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6dd2f0c-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/reserviors\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/reserviors\/index.html",
+            "order": 149,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Reserviors",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463207,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6e83c94-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/epidemiology-future-topic\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/epidemiology-future-topic\/index.html",
+            "order": 157,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Epidemiology Future Topic",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463207,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6f17926-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/epidemiological-rates\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/epidemiological-rates\/index.html",
+            "order": 155,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Epidemiological Rates",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463207,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c6f535ac-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/pattern-of-infection\/index.html",
-            "order": 8,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/pattern-of-infection\/index.html",
+            "order": 135,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Pattern of Infection",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463207,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c7038ec2-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/descriptive-epidemiology\/index.html",
-            "order": 9,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/descriptive-epidemiology\/index.html",
+            "order": 153,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Descriptive Epidemiology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463207,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c74d0b42-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/human-host\/index.html",
-            "order": 10,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/human-host\/index.html",
+            "order": 133,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Human Host",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463208,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c75ca304-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/encounter-portal-of-entry\/index.html",
-            "order": 11,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/encounter-portal-of-entry\/index.html",
+            "order": 137,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Encounter: Portal of Entry",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463208,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c8603734-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/infections-and-epidemiology\/attachment-and-entry\/index.html",
-            "order": 12,
+            "indent": 0,
+            "location": "pages\/lessons\/infections-and-epidemiology\/attachment-and-entry\/index.html",
+            "order": 139,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Attachment and Entry",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463208,
+                "created": 1558466276332,
+                "updated": 1558466276332,
                 "uid": "1"
             }
         },
         {
             "id": "c568ea58-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/index.html",
-            "order": 12,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/index.html",
+            "order": -29,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Virology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463208,
+                "created": 1558466276332,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "ca661102-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/biology-of-viruses\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/biology-of-viruses\/index.html",
+            "order": -27,
             "parent": "c568ea58-04fa-11e3-8862-0050569d0017",
             "title": "Biology of Viruses",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463208,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "caab7a80-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/biology-of-viruses\/what-is-a-virus\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/biology-of-viruses\/what-is-a-virus\/index.html",
+            "order": -25,
             "parent": "ca661102-04fa-11e3-8862-0050569d0017",
             "title": "What is a virus?",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463208,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "cb9a3c92-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/biology-of-viruses\/viral-structure\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/biology-of-viruses\/viral-structure\/index.html",
+            "order": -23,
             "parent": "ca661102-04fa-11e3-8862-0050569d0017",
             "title": "Viral Structure",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463209,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "cb9ea0f2-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/biology-of-viruses\/viral-genetic-information\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/biology-of-viruses\/viral-genetic-information\/index.html",
+            "order": -21,
             "parent": "ca661102-04fa-11e3-8862-0050569d0017",
             "title": "Viral Genetic Information",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463209,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "cba1e2bc-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/biology-of-viruses\/replication-lytic-cycle\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/biology-of-viruses\/replication-lytic-cycle\/index.html",
+            "order": -19,
             "parent": "ca661102-04fa-11e3-8862-0050569d0017",
             "title": "Replication: Lytic cycle",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463209,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "cba54ace-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/biology-of-viruses\/bacteriophage-and-lysogeny\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/biology-of-viruses\/bacteriophage-and-lysogeny\/index.html",
+            "order": -17,
             "parent": "ca661102-04fa-11e3-8862-0050569d0017",
             "title": "Bacteriophage and Lysogeny",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463209,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "cba7e2ac-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/biology-of-viruses\/growing-viruses\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/biology-of-viruses\/growing-viruses\/index.html",
+            "order": -15,
             "parent": "ca661102-04fa-11e3-8862-0050569d0017",
             "title": "Growing Viruses",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463209,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "ca79799a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/viral-diseases\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/viral-diseases\/index.html",
+            "order": -13,
             "parent": "c568ea58-04fa-11e3-8862-0050569d0017",
             "title": "Viral Diseases",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463209,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "caa4dfcc-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/viral-diseases\/diseases-2\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/viral-diseases\/diseases-2\/index.html",
+            "order": -9,
             "parent": "ca79799a-04fa-11e3-8862-0050569d0017",
             "title": "Diseases 2",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463210,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "caa76c42-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/viral-diseases\/diseases-3\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/viral-diseases\/diseases-3\/index.html",
+            "order": -7,
             "parent": "ca79799a-04fa-11e3-8862-0050569d0017",
             "title": "Diseases 3",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463210,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "caa98554-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/viral-diseases\/diseases-4\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/viral-diseases\/diseases-4\/index.html",
+            "order": -5,
             "parent": "ca79799a-04fa-11e3-8862-0050569d0017",
             "title": "Diseases 4",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463210,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "cbac6a2a-04fa-11e3-8862-0050569d0017",
-            "indent": 4,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/virology\/viral-diseases\/diseases-1\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/virology\/viral-diseases\/diseases-1\/index.html",
+            "order": -11,
             "parent": "ca79799a-04fa-11e3-8862-0050569d0017",
             "title": "Diseases 1",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463210,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "c57a2c82-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/index.html",
-            "order": 13,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/index.html",
+            "order": 191,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Environmental and Applied",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463210,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "c879ab06-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/food-microbiology\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/food-microbiology\/index.html",
+            "order": 203,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "Food Microbiology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463211,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "c889002e-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/applied-microbiology\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/applied-microbiology\/index.html",
+            "order": 207,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "Applied Microbiology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463211,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "c89bf44a-04fa-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/environmental-microbiology-bioremediation\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/environmental-microbiology-bioremediation\/index.html",
+            "order": 197,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "Environmental Microbiology--Bioremediation",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463211,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "3a6a44f0-5e33-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/more-food-microbiology\/index.html",
-            "order": 3,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/more-food-microbiology\/index.html",
+            "order": 205,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "More Food Microbiology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463211,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "a1b788a2-5e33-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/microbes-and-the-water-supply\/index.html",
-            "order": 4,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/microbes-and-the-water-supply\/index.html",
+            "order": 201,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "Microbes and the Water Supply",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463211,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "44d5e4be-5ee5-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/microbes-in-the-environment\/index.html",
-            "order": 5,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/microbes-in-the-environment\/index.html",
+            "order": 193,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "Microbes in the Environment",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463211,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "5ac56e8c-5f5a-11e3-8862-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/microbes-nitrogen-fixation\/index.html",
-            "order": 6,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/microbes-nitrogen-fixation\/index.html",
+            "order": 195,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "Microbes: Nitrogen Fixation",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463212,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "7b8e56d2-7c42-11e4-bac4-0050569d0017",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/lessons\/environmental-and-applied\/aquatic-microbial-ecology\/index.html",
-            "order": 7,
+            "indent": 0,
+            "location": "pages\/lessons\/environmental-and-applied\/aquatic-microbial-ecology\/index.html",
+            "order": 199,
             "parent": "c57a2c82-04fa-11e3-8862-0050569d0017",
             "title": "Aquatic Microbial Ecology",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463212,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "c53dbae0-04fa-11e3-8862-0050569d0017",
-            "indent": 1,
-            "location": "pages\/outline-micrb106-spring-2016\/resources\/index.html",
-            "order": 1,
-            "parent": "bfb335e4-7347-46d0-aeb5-eaedee86282b",
+            "indent": 0,
+            "location": "pages\/resources\/index.html",
+            "order": 219,
+            "parent": null,
             "title": "Resources",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463212,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "c5780920-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/resources\/mycobacteria\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/resources\/mycobacteria\/index.html",
+            "order": 223,
             "parent": "c53dbae0-04fa-11e3-8862-0050569d0017",
             "title": "Mycobacteria",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463212,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "5f78c8c1-3b9b-433e-afc6-7687be2af8c2",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/resources\/mycobacteria\/mycobacterium-tuberculosis\/index.html",
-            "order": 0,
+            "indent": 0,
+            "location": "pages\/resources\/mycobacteria\/mycobacterium-tuberculosis\/index.html",
+            "order": 227,
             "parent": "c5780920-04fa-11e3-8862-0050569d0017",
             "title": "Mycobacterium: Tuberculosis",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463212,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "1d001335-71c9-41a6-af56-f5e49c2a3fa2",
-            "indent": 3,
-            "location": "pages\/outline-micrb106-spring-2016\/resources\/mycobacteria\/mycobacterium-leprosy\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/resources\/mycobacteria\/mycobacterium-leprosy\/index.html",
+            "order": 225,
             "parent": "c5780920-04fa-11e3-8862-0050569d0017",
             "title": "Mycobacterium: Leprosy",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463213,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "c58677da-04fa-11e3-8862-0050569d0017",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/resources\/clostridium\/index.html",
-            "order": 1,
+            "indent": 0,
+            "location": "pages\/resources\/clostridium\/index.html",
+            "order": 221,
             "parent": "c53dbae0-04fa-11e3-8862-0050569d0017",
             "title": "Clostridium",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463213,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         },
         {
             "id": "df4a82fa-8da4-425c-9994-49c9905789c8",
-            "indent": 2,
-            "location": "pages\/outline-micrb106-spring-2016\/resources\/angel\/index.html",
-            "order": 2,
+            "indent": 0,
+            "location": "pages\/resources\/angel\/index.html",
+            "order": 229,
             "parent": "c53dbae0-04fa-11e3-8862-0050569d0017",
             "title": "ANGEL",
             "description": "",
             "metadata": {
-                "created": 1558463153769,
-                "updated": 1558463213,
+                "created": 1558466276333,
+                "updated": 1558466276333,
                 "uid": "1"
             }
         }
