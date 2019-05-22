@@ -4,3 +4,4 @@
 // utilize bare imports like import "@things/stuff/stuff.js"; and ensure you reference the js file directly
 
 import './components/custom-gif.js'
+import '@lrnwebcomponents/chartist-render/chartist-render.js'

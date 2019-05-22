@@ -1,4 +1,4 @@
-import{LitElement as t,css as e,html as s}from"../../build/es6/node_modules/lit-element/lit-element.js";customElements.define("custom-gif",class extends t{constructor(){super()}static get styles(){return e`
+import{LitElement as t,css as e,html as s}from"../../build/es6/node_modules/lit-element/lit-element.js";import"../../build/es6/node_modules/@lrnwebcomponents/chartist-render/chartist-render.js";customElements.define("custom-gif",class extends t{constructor(){super()}static get styles(){return e`
       :host {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
