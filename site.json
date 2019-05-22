@@ -671,7 +671,7 @@
             "description": "All living cells perform several basic functions. Two of these are reproduction and carrying out basic cellular functions. From a genetics perspective, all cells are able to reproduce by making an exa",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558535982,
+                "updated": 1558536002,
                 "uid": "1",
                 "files": [
                     {
@@ -687,10 +687,15 @@
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 3,
-                    "schema": [],
+                    "schema": [
+                        {
+                            "resource": "#d0c66b74-da48-ca93-13c5",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
                         "p": 3,
-                        "img": 1
+                        "media-image": 1
                     },
                     "elements": 4
                 }
