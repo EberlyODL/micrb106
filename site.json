@@ -124,10 +124,10 @@
             "order": 167,
             "parent": "c5443be0-04fa-11e3-8862-0050569d0017",
             "title": "Pneumococcus",
-            "description": "Streptococcus pnuemoniae, affectionately known as Pnuemoccus, is a major cause of bacterial pneumonia. It is the second leading cause of meningitis behind Nieseria and causes other types of infectio",
+            "description": "Streptococcus pnuemoniae, affectionately known as Pnuemoccus, is a major cause of bacterial pneumonia. It is the second leading cause of meningitis behind Nieseria and causes other types of infecti",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558532529,
+                "updated": 1558532626,
                 "uid": "1",
                 "files": [
                     {
@@ -143,9 +143,14 @@
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 4,
-                    "schema": [],
+                    "schema": [
+                        {
+                            "resource": "#1884c808-f0a3-a0e4-da5a",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
-                        "img": 1,
+                        "media-image": 1,
                         "p": 4
                     },
                     "elements": 5
