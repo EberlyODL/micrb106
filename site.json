@@ -668,10 +668,10 @@
             "order": -75,
             "parent": "c588857a-04fa-11e3-8862-0050569d0017",
             "title": "Central Dogma",
-            "description": "",
+            "description": "All living cells perform several basic functions. Two of these are reproduction and carrying out basic cellular functions. From a genetics perspective, all cells are able to reproduce by making an exa",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
+                "updated": 1558535982,
                 "uid": "1",
                 "files": [
                     {
@@ -682,7 +682,18 @@
                         "name": "Central Dogma-1.jpg",
                         "size": 56677
                     }
-                ]
+                ],
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 3,
+                    "schema": [],
+                    "tags": {
+                        "p": 3,
+                        "img": 1
+                    },
+                    "elements": 4
+                }
             }
         },
         {
