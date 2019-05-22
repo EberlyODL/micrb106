@@ -26,4 +26,4 @@ import{LitElement as t,css as e,html as s}from"../../build/es6/node_modules/lit-
       <div id="info">
         <slot name="info"></slot>
       </div>
-    `}});
+    `}});let i=document.documentElement,o=document.body;i.style.setProperty("--haxcms-base-styles-list-padding-bottom","none"),i.style.setProperty("--haxcms-base-styles-list-max-width","900px"),o.style.setProperty("line-height","1.75");
