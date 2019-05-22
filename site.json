@@ -97,7 +97,17 @@
                         "ul": 1
                     },
                     "elements": 7
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/micrb106v2\/files\/scale-50\/Central Dogma-1.jpg",
+                        "fullUrl": "\/sites\/micrb106v2\/files\/scale-50\/Central Dogma-1.jpg",
+                        "url": "files\/scale-50\/Central Dogma-1.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Central Dogma-1.jpg",
+                        "size": 56677
+                    }
+                ]
             }
         },
         {
