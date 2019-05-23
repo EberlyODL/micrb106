@@ -82,10 +82,10 @@
             "order": 159,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Medical Microbiology",
-            "description": "Upon completing this lesson, you should be able to:\tDescribe the features and characteristics of the Streptococci\tDescribe the features and characteristics of the Staphyolococci\tDescribe the f",
+            "description": "Upon completing this lesson, you should be able to:\tDescribe the features and characteristics of the Streptococci\tDescribe the features and characteristics of the Staphyolococci\tDescribe the",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558640809,
+                "updated": 1558640845,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -93,7 +93,7 @@
                     "paragraphs": 5,
                     "schema": [
                         {
-                            "resource": "#1b61def0-70ab-e1b7-8df7",
+                            "resource": "#f1a12eba-2665-0355-6987",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         }
                     ],
