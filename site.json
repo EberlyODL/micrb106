@@ -1057,10 +1057,10 @@
             "order": -207,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Spontaneous Generation: Microbes",
-            "description": "With the discovery of microbes, the fight was on once more, this time regarding the origins of these tiny \"animalcules\" noted by Leuwenhoek and others. Perhaps spontaneous generation did not work on l",
+            "description": "With the discovery of microbes, the fight was on once more, this time regarding the origins of these tiny \"animalcules\" noted by Leuwenhoek and others. Perhaps spontaneous generation did not work on ",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558624283,
+                "updated": 1558624297,
                 "uid": "1",
                 "files": [
                     {
@@ -1083,8 +1083,8 @@
                         }
                     ],
                     "tags": {
-                        "p": 7,
-                        "media-image": 1
+                        "media-image": 1,
+                        "p": 7
                     },
                     "elements": 8
                 }
