@@ -154,7 +154,7 @@
             "description": "    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558701832,
+                "updated": 1558704431,
                 "uid": "1",
                 "files": [
                     {
@@ -186,10 +186,9 @@
                     ],
                     "tags": {
                         "media-image": 1,
-                        "p": 2,
-                        "person-testimonial": 1
+                        "p": 2
                     },
-                    "elements": 4
+                    "elements": 3
                 }
             }
         },
