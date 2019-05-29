@@ -15,6 +15,14 @@
     {
       "pattern": "src=\"http:",
       "replacement": "src=\"https:"
+    },
+    {
+      "pattern": "<img ([\\s\\S][^>]*)>",
+      "replacement": "<media-image $1></media-image>"
+    },
+    {
+      "pattern": "(<media-image[^>]*)src([^>]*)",
+      "replacement": "$1source$2"
     }
   ]
 }
