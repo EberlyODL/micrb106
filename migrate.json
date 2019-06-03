@@ -23,6 +23,10 @@
     {
       "pattern": "(<media-image[^>]*)src([^>]*)",
       "replacement": "$1source$2"
+    },
+    {
+      "pattern": "(<media-image[^>]* )style([^>]*)",
+      "replacement": "$1data-style$2"
     }
   ]
 }
