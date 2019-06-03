@@ -1651,7 +1651,7 @@
             "description": "Frankenfoods . . . coming to a store near you!Do a search on the web using the term Frankenfoods. How many hits do you get? Genetically modified foods were among the first organisms to be modified fo",
             "metadata": {
                 "created": 1558467861001,
-                "updated": 1559584720,
+                "updated": 1559584785,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -1659,7 +1659,7 @@
                     "paragraphs": 9,
                     "schema": [
                         {
-                            "resource": "#09af5a7d-82af-d132-dfeb",
+                            "resource": "#c1ba37a1-26a8-64d0-109e",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         }
                     ],
