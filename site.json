@@ -1365,11 +1365,22 @@
             "order": -105,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Reproduction Rates",
-            "description": "",
+            "description": "The power of exponential growth\u00a0There is an old Chinese proverb that explains the power of exponential growth. There was once a rich and powerful man who was riding a large horse near the lake shor",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559583321,
+                "uid": "1",
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 10,
+                    "schema": [],
+                    "tags": {
+                        "h3": 1,
+                        "p": 10
+                    },
+                    "elements": 11
+                }
             }
         },
         {
