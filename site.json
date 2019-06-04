@@ -1529,11 +1529,31 @@
             "order": -107,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Bacterial Growth Patterns",
-            "description": "",
+            "description": "Bacteria reproduce through the process of binary fission. One cell duplicates it's DNA and simply splits into two cells. The new cell is identical to the original cell.When a cell is placed on a sol",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559678935,
+                "uid": "1",
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [
+                        {
+                            "resource": "#d22737a9-20f3-da46-14c6",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#6d659557-6716-ac03-b121",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "media-image": 2,
+                        "p": 5
+                    },
+                    "elements": 7
+                }
             }
         },
         {
