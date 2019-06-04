@@ -1292,7 +1292,7 @@
             "description": "Looking back in the past to the time before people were able to record history, it's instructive to think about how early humans must have lived. These were tribal based groups living in small communi",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559677397,
+                "updated": 1559677415,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -1304,7 +1304,7 @@
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         },
                         {
-                            "resource": "#e3c74a4b-51bc-08bd-d190",
+                            "resource": "#6b7f2169-33c2-bf6b-765b",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         }
                     ],
