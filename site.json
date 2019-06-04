@@ -1563,15 +1563,15 @@
             "order": -103,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Bacterial Growth Curve",
-            "description": "Different bacteria reproduce at different rates. The time it takes the population to double is called the generation time. Generation time varies, it could be every 10 minutes it could be twice a d",
+            "description": "Different bacteria reproduce at different rates. The time it takes the population to double is called the generation time. Generation time varies, it could be every 10 minutes it could be twice a day",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559674516,
+                "updated": 1559679159,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 8,
+                    "paragraphs": 9,
                     "schema": [
                         {
                             "resource": "#acd389b5-1073-ea49-a4bc",
@@ -1579,10 +1579,10 @@
                         }
                     ],
                     "tags": {
-                        "p": 8,
+                        "p": 9,
                         "media-image": 1
                     },
-                    "elements": 9
+                    "elements": 10
                 }
             }
         },
