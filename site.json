@@ -1323,11 +1323,21 @@
             "order": -217,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Disease & the Ancient World",
-            "description": "",
+            "description": "Concepts of life and death have always fascinated humans. Diseases are a major part of human mortality and people have been interested in curing diseases for thousands of years. History is full of exa",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559677432,
+                "uid": "1",
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 6,
+                    "schema": [],
+                    "tags": {
+                        "p": 6
+                    },
+                    "elements": 6
+                }
             }
         },
         {
