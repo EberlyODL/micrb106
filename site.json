@@ -1347,20 +1347,30 @@
             "order": -215,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Disease & Religion",
-            "description": "The intersection of religion and an understanding of disease has an interesting and lingering effect on how we think about diseases even today. People in ancient times had no good understanding of the",
+            "description": "The intersection of religion and an understanding of disease has an interesting and lingering effect on how we think about diseases even today. People in ancient times had no good understanding of th",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559678133,
+                "updated": 1559678356,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 6,
-                    "schema": [],
+                    "schema": [
+                        {
+                            "resource": "#426936f6-91a4-4376-6fda",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#43692957-efa2-203f-1542",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
+                        "media-image": 2,
                         "p": 6
                     },
-                    "elements": 6
+                    "elements": 8
                 }
             }
         },
