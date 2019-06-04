@@ -1304,11 +1304,21 @@
             "order": -203,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Germ Theory of Disease",
-            "description": "",
+            "description": "\u00a0The crowning achievement of Pasteur's career was his contribution to the development of germ theory of disease and the use of vaccines to prevent these diseases. Pasteur's studies on contamination ",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559673857,
+                "uid": "1",
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 6,
+                    "schema": [],
+                    "tags": {
+                        "p": 6
+                    },
+                    "elements": 6
+                }
             }
         },
         {
