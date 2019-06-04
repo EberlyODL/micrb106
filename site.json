@@ -1467,11 +1467,31 @@
             "order": -201,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Modern Technologies",
-            "description": "",
+            "description": "Since the time of Pasteur we have made great advances in our understanding of microbes. Once those early pioneers were able to identify the causes of infectious disease, others have turned to finding ",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559678478,
+                "uid": "1",
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [
+                        {
+                            "resource": "#2623dfa6-6648-9834-bb9b",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#ce4c66ad-aa4b-7a3d-9004",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 5,
+                        "media-image": 2
+                    },
+                    "elements": 7
+                }
             }
         },
         {
