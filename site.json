@@ -1117,7 +1117,7 @@
             "description": "With the discovery of microbes, the fight was on once more, this time regarding the origins of these tiny \"animalcules\" noted by Leuwenhoek and others. Perhaps spontaneous generation did not work on l",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558627734,
+                "updated": 1559673636,
                 "uid": "1",
                 "files": [
                     {
@@ -1132,12 +1132,12 @@
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 7,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "p": 7
+                        "p": 6
                     },
-                    "elements": 7
+                    "elements": 6
                 }
             }
         },
