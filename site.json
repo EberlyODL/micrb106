@@ -628,11 +628,27 @@
             "order": -149,
             "parent": "c73191e6-04fa-11e3-8862-0050569d0017",
             "title": "Chromosome Number",
-            "description": "",
+            "description": "The total number of chromosomes a cell has varies by the species of the organism. Some species have more chromosomes than another. That does not mean an organism with more chromosomes has more genes h",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559677148,
+                "uid": "1",
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 7,
+                    "schema": [
+                        {
+                            "resource": "#66fd93b8-8811-0c9d-2432",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 7,
+                        "media-image": 1
+                    },
+                    "elements": 8
+                }
             }
         },
         {
