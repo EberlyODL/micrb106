@@ -1289,11 +1289,31 @@
             "order": -219,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Early Civilization",
-            "description": "",
+            "description": "Looking back in the past to the time before people were able to record history, it's instructive to think about how early humans must have lived. These were tribal based groups living in small communi",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559677397,
+                "uid": "1",
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [
+                        {
+                            "resource": "#b53561f1-ed0a-2917-6141",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#e3c74a4b-51bc-08bd-d190",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 5,
+                        "media-image": 2
+                    },
+                    "elements": 7
+                }
             }
         },
         {
