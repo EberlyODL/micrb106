@@ -1414,10 +1414,10 @@
             "order": -101,
             "parent": "c6f78e6a-04fa-11e3-8862-0050569d0017",
             "title": "Counting Bacteria",
-            "description": "Counting BacteriaIn order to talk about populations of bacteria, it's necessary to count them. There are a number of ways to count microorganisms. One of the most direct, (and tedious) ways to coun",
+            "description": "Counting BacteriaIn order to talk about populations of bacteria, it's necessary to count them. There are a number of ways to count microorganisms. One of the most direct, (and tedious) ways to cou",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559674688,
+                "updated": 1559674795,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -1425,7 +1425,7 @@
                     "paragraphs": 6,
                     "schema": [
                         {
-                            "resource": "#4d08756f-14de-2da7-169e",
+                            "resource": "#34f4ba53-7494-6580-7891",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         },
                         {
