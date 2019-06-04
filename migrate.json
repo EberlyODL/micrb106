@@ -27,6 +27,18 @@
     {
       "pattern": "(<media-image[^>]* )style([^>]*)",
       "replacement": "$1data-style$2"
+    },
+    {
+      "pattern": "<p>(<media-image.*?<\/media-image>)<\/p>",
+      "replacement": "$1"
+    },
+    {
+      "pattern": "<p><a.*?(<media-image.*?<\/media-image>)</a><\/p>",
+      "replacement": "$1"
+    },
+    {
+      "pattern": "<p><strong>(.*?)<\/strong><\/p>",
+      "replacement": "<h3>$1</h3>"
     }
   ]
 }
