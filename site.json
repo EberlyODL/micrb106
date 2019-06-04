@@ -1470,7 +1470,7 @@
             "description": "Since the time of Pasteur we have made great advances in our understanding of microbes. Once those early pioneers were able to identify the causes of infectious disease, others have turned to finding",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559678578,
+                "updated": 1559678673,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -1478,7 +1478,7 @@
                     "paragraphs": 5,
                     "schema": [
                         {
-                            "resource": "#2623dfa6-6648-9834-bb9b",
+                            "resource": "#13489e3a-0d73-1705-f048",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         },
                         {
