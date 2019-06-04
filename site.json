@@ -1745,11 +1745,27 @@
             "order": -97,
             "parent": "c70ac318-04fa-11e3-8862-0050569d0017",
             "title": "Metabolism Overview",
-            "description": "",
+            "description": "The chemistry of living cells can be broken down into two tasks. First, cells need to acquire energy to carry out basic life processes. If a cell isn't doing photosynthesis (which we won't cover) it n",
             "metadata": {
                 "created": 1558467861001,
-                "updated": 1558467861001,
-                "uid": "1"
+                "updated": 1559679236,
+                "uid": "1",
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 4,
+                    "schema": [
+                        {
+                            "resource": "#245ba285-29aa-cf9b-0c0e",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 4,
+                        "media-image": 1
+                    },
+                    "elements": 5
+                }
             }
         },
         {
