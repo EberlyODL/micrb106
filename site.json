@@ -1675,12 +1675,12 @@
             "description": "Temperature has a dramatic effect on the growth of living organisms. At lower temperatures metabolism slows down, eventually becoming too low to sustain life. At higher temperatures, metabolism will i",
             "metadata": {
                 "created": 1558467861001,
-                "updated": 1559679191,
+                "updated": 1559679204,
                 "uid": "1",
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 7,
+                    "paragraphs": 8,
                     "schema": [
                         {
                             "resource": "#86b482d5-51a4-09dc-3aa0",
@@ -1688,11 +1688,11 @@
                         }
                     ],
                     "tags": {
-                        "p": 7,
+                        "p": 8,
                         "ul": 1,
                         "media-image": 1
                     },
-                    "elements": 9
+                    "elements": 10
                 }
             }
         },
