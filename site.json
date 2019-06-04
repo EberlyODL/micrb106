@@ -1419,11 +1419,21 @@
             "order": -209,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Spontaneous Generation",
-            "description": "",
+            "description": "The discovery of the new technology of microscopes came at a time of great controversy in the scientific community. A debate had been raging over the origins of living organisms. Now that science had ",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559678455,
+                "uid": "1",
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [],
+                    "tags": {
+                        "p": 5
+                    },
+                    "elements": 5
+                }
             }
         },
         {
