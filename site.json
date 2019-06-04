@@ -1532,12 +1532,12 @@
             "description": "Bacteria reproduce through the process of binary fission. One cell duplicates it's DNA and simply splits into two cells. The new cell is identical to the original cell.When a cell is placed on a sol",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559679001,
+                "updated": 1559679008,
                 "uid": "1",
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 5,
+                    "paragraphs": 6,
                     "schema": [
                         {
                             "resource": "#d22737a9-20f3-da46-14c6",
@@ -1550,9 +1550,9 @@
                     ],
                     "tags": {
                         "media-image": 2,
-                        "p": 5
+                        "p": 6
                     },
-                    "elements": 7
+                    "elements": 8
                 }
             }
         },
