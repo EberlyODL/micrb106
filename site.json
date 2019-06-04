@@ -1395,11 +1395,21 @@
             "order": -213,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Rise of Scientific Thought",
-            "description": "",
+            "description": "As we have seen, the ancient Egyptians, Greeks and later Romans all made contributions to science in their day, but many of their beliefs were still rooted in the supernatural world. All of those cult",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559678401,
+                "uid": "1",
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 9,
+                    "schema": [],
+                    "tags": {
+                        "p": 9
+                    },
+                    "elements": 9
+                }
             }
         },
         {
