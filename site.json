@@ -1467,10 +1467,10 @@
             "order": -201,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Modern Technologies",
-            "description": "Since the time of Pasteur we have made great advances in our understanding of microbes. Once those early pioneers were able to identify the causes of infectious disease, others have turned to finding ",
+            "description": "Since the time of Pasteur we have made great advances in our understanding of microbes. Once those early pioneers were able to identify the causes of infectious disease, others have turned to finding",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559678478,
+                "updated": 1559678501,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -1487,8 +1487,8 @@
                         }
                     ],
                     "tags": {
-                        "p": 5,
-                        "media-image": 2
+                        "media-image": 2,
+                        "p": 5
                     },
                     "elements": 7
                 }
