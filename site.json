@@ -1350,7 +1350,7 @@
             "description": "The intersection of religion and an understanding of disease has an interesting and lingering effect on how we think about diseases even today. People in ancient times had no good understanding of the",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1559678088,
+                "updated": 1559678105,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -1358,7 +1358,7 @@
                     "paragraphs": 6,
                     "schema": [
                         {
-                            "resource": "#974dfc72-84b5-4e19-ca6d",
+                            "resource": "#43692957-efa2-203f-1542",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         }
                     ],
