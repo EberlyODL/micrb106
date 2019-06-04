@@ -1259,11 +1259,27 @@
             "order": -225,
             "parent": "c54b061e-04fa-11e3-8862-0050569d0017",
             "title": "Microbes and the Planet",
-            "description": "",
+            "description": "The history of the earth is really the history of microbes. While the earth is approximately 4.5 Billion years old, single celled organisms have been around for 3.5 Billion years. In contrast, multice",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1559677290,
+                "uid": "1",
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 4,
+                    "schema": [
+                        {
+                            "resource": "#ae24a97e-5772-edf3-9d05",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 4,
+                        "media-image": 1
+                    },
+                    "elements": 5
+                }
             }
         },
         {
