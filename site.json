@@ -1978,7 +1978,7 @@
             "description": "The Flavr SavrThe first genetically modified food was the tomato. The FDA approved the Flavr Savr tomato in 1994 but the company that produced it was not able to make it work financially. The idea w",
             "metadata": {
                 "created": 1558467861001,
-                "updated": 1559691803,
+                "updated": 1559740862,
                 "uid": "1",
                 "readtime": 2,
                 "contentDetails": {
@@ -1986,7 +1986,7 @@
                     "paragraphs": 5,
                     "schema": [
                         {
-                            "resource": "#6f94da1e-8e87-e7c6-2604",
+                            "resource": "#70c73354-1035-5148-9baf",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         },
                         {
