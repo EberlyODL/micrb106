@@ -12,15 +12,49 @@
  * inside of that block and it'll apply downstream. Two examples are given below
  */
 
-
- @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
  :root {
    --haxcms-base-styles-list-padding-bottom: none;
    --haxcms-base-styles-list-max-width: none;
-   --haxcms-base-styles-p-font-size: 14px;
-   --learn-two-theme-font-family: 'Roboto Mono';
-   --hax-body-font-family: 'Roboto Mono';
-   font-family: 'Roboto Mono';
-   line-height: 2;
+   --haxcms-base-styles-p-font-size: 16px;
+   --learn-two-theme-font-family: 'Lato';
+   --hax-body-font-family: 'Lato';
  }
+ :root map-menu-header {
+   display: none;
+ }
+ body {
+   font-size: 14px;
+   font-family: 'Lato', sans-serif;
+   line-height: 2 !important;
+ }
+ @media screen and (min-width: 500px) {
+  body {
+    font-size: 16px;
+  }
+ }
+ @media screen and (min-width: 700px) {
+  body {
+    font-size: 18px;
+  }
+ }
+ @media screen and (min-width: 900px) {
+  body {
+    font-size: 20px;
+  }
+ }
+ @media screen and (min-width: 1000px) {
+  body {
+    font-size: 22px;
+  }
+ }
+/* maintain readable line length with floats around it */
+p:before {
+  content: "";
+  width: 20em;
+  display: block;
+  overflow: hidden;
+  /* For Demonstration */
+  /* border: 1px solid green; */
+}

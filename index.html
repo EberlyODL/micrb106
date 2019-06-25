@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>My site</title>
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     // attempt to correctly set the base without knowing where we're installed fully...
     if (document.location.pathname.indexOf('/_sites/') != -1) {
       document.write("<base href='" + document.location.pathname.substring(0, document.location.pathname.indexOf('/', document.location.pathname.indexOf('/_sites/') + 8)) + "/' />");
@@ -11,7 +11,10 @@
     else if (document.location.pathname.indexOf('/sites/') != -1) {
       document.write("<base href='" + document.location.pathname.substring(0, document.location.pathname.indexOf('/', document.location.pathname.indexOf('/sites/') + 7)) + "/' />");
     }
-  </script>
+    else {
+      document.write("<base href='/' />")
+    }
+  </script> -->
   <link rel="preconnect" crossorigin href="https://fonts.googleapis.com">
   <link rel="preconnect" crossorigin href="https://cdnjs.cloudflare.com">
   <link rel="preconnect" crossorigin href="https://i.creativecommons.org">
@@ -68,25 +71,6 @@
     }
     body[no-js] haxcms-site-builder{
       display: none !important;
-    }
-    @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
-    :root {
-      --haxcms-base-styles-list-padding-bottom: none;
-      --haxcms-base-styles-list-max-width: none;
-      --haxcms-base-styles-p-font-size: 14px;
-      --learn-two-theme-font-family: 'Roboto Mono';
-      --hax-body-font-family: 'Roboto Mono';
-      font-family: 'Roboto Mono';
-      line-height: 2;
-    }
-    /* maintain readable line length with floats around it */
-    p:before {
-      content: "";
-      width: 20em;
-      display: block;
-      overflow: hidden;
-      /* For Demonstration */
-      /* border: 1px solid green; */
     }
   </style>
 </head>

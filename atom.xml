@@ -3,7 +3,7 @@
   <title>micrb106v2</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
-  <updated>2019-05-21T12:26:53-06:00</updated>
+  <updated>2019-05-21T18:26:53+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>Lessons</title>
     <id>/lessons</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons"/>
     
@@ -23,20 +23,20 @@
   <entry>
     <title>Medical Microbiology</title>
     <id>/lessons/medical-microbiology</id>
-    <updated>2019-06-03T11:10:57-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
-    <summary>Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Describe t</summary>
+    <updated>2019-06-14T19:59:47+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
+    <summary>Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Descri</summary>
     <link href="/lessons/medical-microbiology"/>
     
     <content type="html">
-      <![CDATA[ Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Describe t ]]>
+      <![CDATA[ Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Descri ]]>
     </content>
   </entry>
   <entry>
     <title>Parade of Diseases</title>
     <id>/lessons/medical-microbiology/parade-of-diseases</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology/parade-of-diseases"/>
     
@@ -47,8 +47,8 @@
   <entry>
     <title>Staphylococcal Diseases</title>
     <id>/lessons/medical-microbiology/staphylococcal-diseases</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology/staphylococcal-diseases"/>
     
@@ -59,8 +59,8 @@
   <entry>
     <title>Pneumococcus</title>
     <id>/lessons/medical-microbiology/pneumococcus</id>
-    <updated>2019-06-03T11:12:44-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-03T17:12:44+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Streptococcus pnuemoniae, affectionately known as Pnuemoccus, is a major cause of bacterial pneumonia. It is the second leading cause of meningitis behind Nieseria and causes other types </summary>
     <link href="/lessons/medical-microbiology/pneumococcus"/>
     
@@ -71,8 +71,8 @@
   <entry>
     <title>Bacillus anthracis</title>
     <id>/lessons/medical-microbiology/bacillus-anthracis</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology/bacillus-anthracis"/>
     
@@ -83,8 +83,8 @@
   <entry>
     <title>Streptococcal Diseases</title>
     <id>/lessons/medical-microbiology/streptococcal-diseases</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology/streptococcal-diseases"/>
     
@@ -95,8 +95,8 @@
   <entry>
     <title>Streptococci</title>
     <id>/lessons/medical-microbiology/streptococci</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology/streptococci"/>
     
@@ -107,8 +107,8 @@
   <entry>
     <title>Staphylococci</title>
     <id>/lessons/medical-microbiology/staphylococci</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology/staphylococci"/>
     
@@ -119,8 +119,8 @@
   <entry>
     <title>Enteric Bacilli</title>
     <id>/lessons/medical-microbiology/enteric-bacilli</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology/enteric-bacilli"/>
     
@@ -131,8 +131,8 @@
   <entry>
     <title>Chemistry and Cell Biology</title>
     <id>/lessons/chemistry-and-cell-biology</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology"/>
     
@@ -143,8 +143,8 @@
   <entry>
     <title>Basic Chemistry</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry"/>
     
@@ -155,8 +155,8 @@
   <entry>
     <title>Chemical Bonding</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/chemical-bonding</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/chemical-bonding"/>
     
@@ -167,8 +167,8 @@
   <entry>
     <title>Atoms and Ions</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/atoms-and-ions</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/atoms-and-ions"/>
     
@@ -179,8 +179,8 @@
   <entry>
     <title>Properties of Water</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/properties-of-water</id>
-    <updated>2019-06-04T13:14:01-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:14:01+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Covalent bonds form when atoms share electrons. Sometimes this sharing is not equal and leads to the formation of partial charges on molecules.Consider water. The electron associated with the h</summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/properties-of-water"/>
     
@@ -191,8 +191,8 @@
   <entry>
     <title>pH: Acids and Bases</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/ph-acids-and-bases</id>
-    <updated>2019-06-04T13:21:37-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:21:37+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>The pH of a solution is determined by measuring the relative number of Hydrogen Ions (H+) present. The more Hydrogen Ions (H+) there are the more acidic a solution is.WaterWhere do Hydrogen Ions (</summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/ph-acids-and-bases"/>
     
@@ -203,8 +203,8 @@
   <entry>
     <title>Conjugated Enzymes</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/conjugated-enzymes</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/conjugated-enzymes"/>
     
@@ -215,8 +215,8 @@
   <entry>
     <title>Organic Compounds</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/organic-compounds</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/organic-compounds"/>
     
@@ -227,8 +227,8 @@
   <entry>
     <title>Carbohydrates</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/carbohydrates</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/carbohydrates"/>
     
@@ -239,8 +239,8 @@
   <entry>
     <title>Lipids</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/lipids</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/lipids"/>
     
@@ -251,8 +251,8 @@
   <entry>
     <title>Proteins</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/proteins</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/proteins"/>
     
@@ -263,8 +263,8 @@
   <entry>
     <title>Enzymes</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/enzymes</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/enzymes"/>
     
@@ -275,8 +275,8 @@
   <entry>
     <title>Nucleic Acids</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/nucleic-acids</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/nucleic-acids"/>
     
@@ -287,8 +287,8 @@
   <entry>
     <title>ATP</title>
     <id>/lessons/chemistry-and-cell-biology/basic-chemistry/atp</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-chemistry/atp"/>
     
@@ -299,8 +299,8 @@
   <entry>
     <title>Basic Cell Biology</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology"/>
     
@@ -311,8 +311,8 @@
   <entry>
     <title>Transport of Water</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/transport-of-water</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/transport-of-water"/>
     
@@ -323,8 +323,8 @@
   <entry>
     <title>Osmotic Pressure</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/osmotic-pressure</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/osmotic-pressure"/>
     
@@ -335,8 +335,8 @@
   <entry>
     <title>Types of cells</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/types-of-cells</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/types-of-cells"/>
     
@@ -347,8 +347,8 @@
   <entry>
     <title>Cellular Organelles</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/cellular-organelles</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/cellular-organelles"/>
     
@@ -359,8 +359,8 @@
   <entry>
     <title>Chromosomes</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosomes</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosomes"/>
     
@@ -371,8 +371,8 @@
   <entry>
     <title>Genes</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/genes</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/genes"/>
     
@@ -383,8 +383,8 @@
   <entry>
     <title>Chromosome Number</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosome-number</id>
-    <updated>2019-06-04T13:39:08-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:39:08+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>The total number of chromosomes a cell has varies by the species of the organism. Some species have more chromosomes than another. That does not mean an organism with more chromosomes has more genes h</summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/chromosome-number"/>
     
@@ -395,8 +395,8 @@
   <entry>
     <title>Plasma Membrane</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/plasma-membrane</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/plasma-membrane"/>
     
@@ -407,8 +407,8 @@
   <entry>
     <title>Diffusion</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/diffusion</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/diffusion"/>
     
@@ -419,8 +419,8 @@
   <entry>
     <title>Membrane Transport Systems</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/membrane-transport-systems</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/membrane-transport-systems"/>
     
@@ -431,8 +431,8 @@
   <entry>
     <title>Bulk Membrane Transport</title>
     <id>/lessons/chemistry-and-cell-biology/basic-cell-biology/bulk-membrane-transport</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/chemistry-and-cell-biology/basic-cell-biology/bulk-membrane-transport"/>
     
@@ -443,8 +443,8 @@
   <entry>
     <title>Genetics</title>
     <id>/lessons/genetics</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics"/>
     
@@ -455,8 +455,8 @@
   <entry>
     <title>Molecular Genetics</title>
     <id>/lessons/genetics/molecular-genetics</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics"/>
     
@@ -467,8 +467,8 @@
   <entry>
     <title>Transcription / Translation in Prokaryotes</title>
     <id>/lessons/genetics/molecular-genetics/transcription-translation-in-prokaryotes</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/transcription-translation-in-prokaryotes"/>
     
@@ -479,8 +479,8 @@
   <entry>
     <title>Structure of DNA</title>
     <id>/lessons/genetics/molecular-genetics/structure-of-dna</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/structure-of-dna"/>
     
@@ -491,8 +491,8 @@
   <entry>
     <title>Genetic Material</title>
     <id>/lessons/genetics/molecular-genetics/genetic-material</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/genetic-material"/>
     
@@ -503,8 +503,8 @@
   <entry>
     <title>Central Dogma</title>
     <id>/lessons/genetics/molecular-genetics/central-dogma</id>
-    <updated>2019-05-22T08:40:02-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-05-22T14:40:02+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>All living cells perform several basic functions. Two of these are reproduction and carrying out basic cellular functions. From a genetics perspective, all cells are able to reproduce by making an exa</summary>
     <link href="/lessons/genetics/molecular-genetics/central-dogma"/>
     
@@ -515,8 +515,8 @@
   <entry>
     <title>Gene Splicing</title>
     <id>/lessons/genetics/molecular-genetics/gene-splicing</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/gene-splicing"/>
     
@@ -527,8 +527,8 @@
   <entry>
     <title>DNA Replication</title>
     <id>/lessons/genetics/molecular-genetics/dna-replication</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/dna-replication"/>
     
@@ -539,8 +539,8 @@
   <entry>
     <title>Transcription</title>
     <id>/lessons/genetics/molecular-genetics/transcription</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/transcription"/>
     
@@ -551,8 +551,8 @@
   <entry>
     <title>Translation: Code of Life</title>
     <id>/lessons/genetics/molecular-genetics/translation-code-of-life</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/translation-code-of-life"/>
     
@@ -563,8 +563,8 @@
   <entry>
     <title>Translation: Codons</title>
     <id>/lessons/genetics/molecular-genetics/translation-codons</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/translation-codons"/>
     
@@ -575,8 +575,8 @@
   <entry>
     <title>Translation Process</title>
     <id>/lessons/genetics/molecular-genetics/translation-process</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/translation-process"/>
     
@@ -587,8 +587,8 @@
   <entry>
     <title>Replication: Prokaryotes</title>
     <id>/lessons/genetics/molecular-genetics/replication-prokaryotes</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/molecular-genetics/replication-prokaryotes"/>
     
@@ -599,8 +599,8 @@
   <entry>
     <title>Bacterial Genetics</title>
     <id>/lessons/genetics/bacterial-genetics</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/bacterial-genetics"/>
     
@@ -611,8 +611,8 @@
   <entry>
     <title>Transformation</title>
     <id>/lessons/genetics/bacterial-genetics/transformation</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/bacterial-genetics/transformation"/>
     
@@ -623,8 +623,8 @@
   <entry>
     <title>Generalized Transduction</title>
     <id>/lessons/genetics/bacterial-genetics/generalized-transduction</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/bacterial-genetics/generalized-transduction"/>
     
@@ -635,8 +635,8 @@
   <entry>
     <title>Conjugation: F Plasmids</title>
     <id>/lessons/genetics/bacterial-genetics/conjugation-f-plasmids</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/bacterial-genetics/conjugation-f-plasmids"/>
     
@@ -647,8 +647,8 @@
   <entry>
     <title>Conjugation: Hfr Transfer</title>
     <id>/lessons/genetics/bacterial-genetics/conjugation-hfr-transfer</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/bacterial-genetics/conjugation-hfr-transfer"/>
     
@@ -659,8 +659,8 @@
   <entry>
     <title>Specialized Transduction</title>
     <id>/lessons/genetics/bacterial-genetics/specialized-transduction</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/bacterial-genetics/specialized-transduction"/>
     
@@ -671,8 +671,8 @@
   <entry>
     <title>Transposons</title>
     <id>/lessons/genetics/bacterial-genetics/transposons</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/bacterial-genetics/transposons"/>
     
@@ -683,8 +683,8 @@
   <entry>
     <title>Mutations</title>
     <id>/lessons/genetics/mutations</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/mutations"/>
     
@@ -695,8 +695,8 @@
   <entry>
     <title>Repair Mechanisms</title>
     <id>/lessons/genetics/mutations/repair-mechanisms</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/mutations/repair-mechanisms"/>
     
@@ -707,8 +707,8 @@
   <entry>
     <title>Causes of Mutations</title>
     <id>/lessons/genetics/mutations/causes-of-mutations</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/mutations/causes-of-mutations"/>
     
@@ -719,8 +719,8 @@
   <entry>
     <title>Ames Test</title>
     <id>/lessons/genetics/mutations/ames-test</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/mutations/ames-test"/>
     
@@ -731,8 +731,8 @@
   <entry>
     <title>Point Mutations</title>
     <id>/lessons/genetics/mutations/point-mutations</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/mutations/point-mutations"/>
     
@@ -743,8 +743,8 @@
   <entry>
     <title>Base Analogs</title>
     <id>/lessons/genetics/mutations/base-analogs</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/mutations/base-analogs"/>
     
@@ -755,8 +755,8 @@
   <entry>
     <title>Frameshift Mutations</title>
     <id>/lessons/genetics/mutations/frameshift-mutations</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/genetics/mutations/frameshift-mutations"/>
     
@@ -767,8 +767,8 @@
   <entry>
     <title>Introduction to Microbes</title>
     <id>/lessons/introduction-to-microbes</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/introduction-to-microbes"/>
     
@@ -779,8 +779,8 @@
   <entry>
     <title>Early Scientists</title>
     <id>/lessons/introduction-to-microbes/early-scientists</id>
-    <updated>2019-06-04T12:40:01-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T18:40:01+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Nicolaus Copernicus By the time of Copernicus, the study of astronomy had been going on for thousands of years. At the time he lived, an understanding of mathematics had developed to the point w</summary>
     <link href="/lessons/introduction-to-microbes/early-scientists"/>
     
@@ -791,8 +791,8 @@
   <entry>
     <title>Spontaneous Generation: Microbes</title>
     <id>/lessons/introduction-to-microbes/spontaneous-generation-microbes</id>
-    <updated>2019-06-04T12:40:36-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T18:40:36+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>With the discovery of microbes, the fight was on once more, this time regarding the origins of these tiny "animalcules" noted by Leuwenhoek and others. Perhaps spontaneous generation did not work on l</summary>
     <link href="/lessons/introduction-to-microbes/spontaneous-generation-microbes"/>
     
@@ -803,8 +803,8 @@
   <entry>
     <title>History of Microbiology</title>
     <id>/lessons/introduction-to-microbes/history-of-microbiology</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/introduction-to-microbes/history-of-microbiology"/>
     
@@ -815,8 +815,8 @@
   <entry>
     <title>Pasteur and Wine production</title>
     <id>/lessons/introduction-to-microbes/pasteur-and-wine-production</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/introduction-to-microbes/pasteur-and-wine-production"/>
     
@@ -827,8 +827,8 @@
   <entry>
     <title>Types of Microorganisms</title>
     <id>/lessons/introduction-to-microbes/types-of-microorganisms</id>
-    <updated>2019-06-04T12:42:59-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T18:42:59+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Microorganisms or Microbes are tiny living organisms that generally cannot be seen with the naked eye. These can be single celled organisms like bacteria, or they may be multicellular, like f</summary>
     <link href="/lessons/introduction-to-microbes/types-of-microorganisms"/>
     
@@ -839,8 +839,8 @@
   <entry>
     <title>Microbes and the Planet</title>
     <id>/lessons/introduction-to-microbes/microbes-and-the-planet</id>
-    <updated>2019-06-04T13:42:37-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:42:37+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>The history of the earth is really the history of microbes. While the earth is approximately 4.5 Billion years old, single celled organisms have been around for 3.5 Billion years. In contrast, multice</summary>
     <link href="/lessons/introduction-to-microbes/microbes-and-the-planet"/>
     
@@ -851,8 +851,8 @@
   <entry>
     <title>Early Civilization</title>
     <id>/lessons/introduction-to-microbes/early-civilization</id>
-    <updated>2019-06-04T13:43:35-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:43:35+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Looking back in the past to the time before people were able to record history, it's instructive to think about how early humans must have lived. These were tribal based groups living in small communi</summary>
     <link href="/lessons/introduction-to-microbes/early-civilization"/>
     
@@ -863,8 +863,8 @@
   <entry>
     <title>Disease & the Ancient World</title>
     <id>/lessons/introduction-to-microbes/disease-the-ancient-world</id>
-    <updated>2019-06-04T13:45:02-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:45:02+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Concepts of life and death have always fascinated humans. Diseases are a major part of human mortality and people have been interested in curing diseases for thousands of years. History is full of exa</summary>
     <link href="/lessons/introduction-to-microbes/disease-the-ancient-world"/>
     
@@ -875,8 +875,8 @@
   <entry>
     <title>Disease & Religion</title>
     <id>/lessons/introduction-to-microbes/disease-religion</id>
-    <updated>2019-06-04T13:59:29-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:59:29+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>The intersection of religion and an understanding of disease has an interesting and lingering effect on how we think about diseases even today. People in ancient times had no good understanding of th</summary>
     <link href="/lessons/introduction-to-microbes/disease-religion"/>
     
@@ -887,8 +887,8 @@
   <entry>
     <title>Microbes and Humans</title>
     <id>/lessons/introduction-to-microbes/microbes-and-humans</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/introduction-to-microbes/microbes-and-humans"/>
     
@@ -899,8 +899,8 @@
   <entry>
     <title>Rise of Scientific Thought</title>
     <id>/lessons/introduction-to-microbes/rise-of-scientific-thought</id>
-    <updated>2019-06-04T14:00:33-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T20:00:33+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>As we have seen, the ancient Egyptians, Greeks and later Romans all made contributions to science in their day, but many of their beliefs were still rooted in the supernatural world. All of those cult</summary>
     <link href="/lessons/introduction-to-microbes/rise-of-scientific-thought"/>
     
@@ -911,8 +911,8 @@
   <entry>
     <title>Spontaneous Generation</title>
     <id>/lessons/introduction-to-microbes/spontaneous-generation</id>
-    <updated>2019-06-04T14:00:55-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T20:00:55+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>The discovery of the new technology of microscopes came at a time of great controversy in the scientific community. A debate had been raging over the origins of living organisms. Now that science had </summary>
     <link href="/lessons/introduction-to-microbes/spontaneous-generation"/>
     
@@ -923,8 +923,8 @@
   <entry>
     <title>Germ Theory of Disease</title>
     <id>/lessons/introduction-to-microbes/germ-theory-of-disease</id>
-    <updated>2019-06-04T12:44:17-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T18:44:17+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary> The crowning achievement of Pasteur's career was his contribution to the development of germ theory of disease and the use of vaccines to prevent these diseases. Pasteur's studies on contamination </summary>
     <link href="/lessons/introduction-to-microbes/germ-theory-of-disease"/>
     
@@ -935,8 +935,8 @@
   <entry>
     <title>Modern Technologies</title>
     <id>/lessons/introduction-to-microbes/modern-technologies</id>
-    <updated>2019-06-04T14:04:33-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T20:04:33+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Since the time of Pasteur we have made great advances in our understanding of microbes. Once those early pioneers were able to identify the causes of infectious disease, others have turned to finding</summary>
     <link href="/lessons/introduction-to-microbes/modern-technologies"/>
     
@@ -947,8 +947,8 @@
   <entry>
     <title>Growth and Metabolism</title>
     <id>/lessons/growth-and-metabolism</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism"/>
     
@@ -959,8 +959,8 @@
   <entry>
     <title>Bacterial Growth and Nutrition</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition"/>
     
@@ -971,8 +971,8 @@
   <entry>
     <title>Bacterial Growth Patterns</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-patterns</id>
-    <updated>2019-06-04T14:10:08-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T20:10:08+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Bacteria reproduce through the process of binary fission. One cell duplicates it's DNA and simply splits into two cells. The new cell is identical to the original cell.When a cell is placed on a sol</summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-patterns"/>
     
@@ -983,8 +983,8 @@
   <entry>
     <title>Bacterial Growth Curve</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-curve</id>
-    <updated>2019-06-04T14:12:39-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T20:12:39+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Different bacteria reproduce at different rates. The time it takes the population to double is called the generation time. Generation time varies, it could be every 10 minutes it could be twice a day</summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/bacterial-growth-curve"/>
     
@@ -995,8 +995,8 @@
   <entry>
     <title>Counting Bacteria</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/counting-bacteria</id>
-    <updated>2019-06-04T13:00:18-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-04T19:00:18+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>Counting BacteriaIn order to talk about populations of bacteria, it's necessary to count them. There are a number of ways to count microorganisms. One of the most direct, (and tedious) ways to co</summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/counting-bacteria"/>
     
@@ -1007,8 +1007,8 @@
   <entry>
     <title>Reproduction Rates</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/reproduction-rates</id>
-    <updated>2019-06-03T11:45:52-06:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>2019-06-03T17:45:52+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary>The power of exponential growthThere is an old Chinese proverb that explains the power of exponential growth. There was once a rich and powerful man who was riding a large horse near the lake shore.</summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/reproduction-rates"/>
     
@@ -1019,8 +1019,8 @@
   <entry>
     <title>Energy and Carbon Sources</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/energy-and-carbon-sources</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
-    <published>51355-11-18T04:10:00-07:00</published>
+    <updated>51355-11-18T11:10:00+00:00</updated>
+    <published>51355-11-18T11:10:00+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/energy-and-carbon-sources"/>
     
@@ -1031,8 +1031,8 @@
   <entry>
     <title>Temperature and Growth</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/temperature-and-growth</id>
-    <updated>2019-06-04T14:13:24-06:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>2019-06-04T20:13:24+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary>Temperature has a dramatic effect on the growth of living organisms. At lower temperatures metabolism slows down, eventually becoming too low to sustain life. At higher temperatures, metabolism will i</summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/temperature-and-growth"/>
     
@@ -1043,8 +1043,8 @@
   <entry>
     <title>Oxygen and growth</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/oxygen-and-growth</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/oxygen-and-growth"/>
     
@@ -1055,8 +1055,8 @@
   <entry>
     <title>Other Growth Parameters</title>
     <id>/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/other-growth-parameters</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/bacterial-growth-and-nutrition/other-growth-parameters"/>
     
@@ -1067,8 +1067,8 @@
   <entry>
     <title>Metabolism</title>
     <id>/lessons/growth-and-metabolism/metabolism</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/metabolism"/>
     
@@ -1079,8 +1079,8 @@
   <entry>
     <title>Metabolism Overview</title>
     <id>/lessons/growth-and-metabolism/metabolism/metabolism-overview</id>
-    <updated>2019-06-04T14:13:56-06:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>2019-06-04T20:13:56+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary>The chemistry of living cells can be broken down into two tasks. First, cells need to acquire energy to carry out basic life processes. If a cell isn't doing photosynthesis (which we won't cover) it n</summary>
     <link href="/lessons/growth-and-metabolism/metabolism/metabolism-overview"/>
     
@@ -1091,8 +1091,8 @@
   <entry>
     <title>Energy Pathways</title>
     <id>/lessons/growth-and-metabolism/metabolism/energy-pathways</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/metabolism/energy-pathways"/>
     
@@ -1103,8 +1103,8 @@
   <entry>
     <title>Respiration vs Fermentation</title>
     <id>/lessons/growth-and-metabolism/metabolism/respiration-vs-fermentation</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/metabolism/respiration-vs-fermentation"/>
     
@@ -1115,8 +1115,8 @@
   <entry>
     <title>Glycolysis</title>
     <id>/lessons/growth-and-metabolism/metabolism/glycolysis</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/metabolism/glycolysis"/>
     
@@ -1127,8 +1127,8 @@
   <entry>
     <title>Anabolism</title>
     <id>/lessons/growth-and-metabolism/metabolism/anabolism</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/metabolism/anabolism"/>
     
@@ -1139,8 +1139,8 @@
   <entry>
     <title>Krebs Cycle</title>
     <id>/lessons/growth-and-metabolism/metabolism/krebs-cycle</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/metabolism/krebs-cycle"/>
     
@@ -1151,8 +1151,8 @@
   <entry>
     <title>Electron Transport Chain</title>
     <id>/lessons/growth-and-metabolism/metabolism/electron-transport-chain</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/growth-and-metabolism/metabolism/electron-transport-chain"/>
     
@@ -1163,8 +1163,8 @@
   <entry>
     <title>Biotechnology</title>
     <id>/lessons/biotechnology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology"/>
     
@@ -1175,8 +1175,8 @@
   <entry>
     <title>Genetically Modified Organisms</title>
     <id>/lessons/biotechnology/genetically-modified-organisms</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms"/>
     
@@ -1187,8 +1187,8 @@
   <entry>
     <title>Why the Interest?</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/why-the-interest</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/why-the-interest"/>
     
@@ -1199,8 +1199,8 @@
   <entry>
     <title>Making a GMO</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/making-a-gmo</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/making-a-gmo"/>
     
@@ -1211,8 +1211,8 @@
   <entry>
     <title>How Bt Works</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/how-bt-works</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/how-bt-works"/>
     
@@ -1223,8 +1223,8 @@
   <entry>
     <title>Problems with Bt</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/problems-with-bt</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/problems-with-bt"/>
     
@@ -1235,8 +1235,8 @@
   <entry>
     <title>Frankenfoods</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/frankenfoods</id>
-    <updated>2019-06-03T12:05:28-06:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>2019-06-03T18:05:28+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary>Frankenfoods . . . coming to a store near you!Do a search on the web using the term Frankenfoods. How many hits do you get?  Genetically modified foods were among the first organisms to be modified </summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/frankenfoods"/>
     
@@ -1247,8 +1247,8 @@
   <entry>
     <title>In the Beginning: Early GMO's</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/in-the-beginning-early-gmos</id>
-    <updated>2019-06-05T07:22:44-06:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>2019-06-05T13:22:44+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary>The Flavr SavrThe first genetically modified food was the tomato. The FDA approved the Flavr Savr tomato in 1994 but the company that produced it was not able to make it work financially. The idea w</summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/in-the-beginning-early-gmos"/>
     
@@ -1259,8 +1259,8 @@
   <entry>
     <title>The Trouble with GMO's</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/the-trouble-with-gmos</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/the-trouble-with-gmos"/>
     
@@ -1271,8 +1271,8 @@
   <entry>
     <title>Gene Doping</title>
     <id>/lessons/biotechnology/genetically-modified-organisms/gene-doping</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetically-modified-organisms/gene-doping"/>
     
@@ -1283,8 +1283,8 @@
   <entry>
     <title>Biotechnology Tools</title>
     <id>/lessons/biotechnology/biotechnology-tools</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/biotechnology-tools"/>
     
@@ -1295,8 +1295,8 @@
   <entry>
     <title>History of Gene Manipulation</title>
     <id>/lessons/biotechnology/biotechnology-tools/history-of-gene-manipulation</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/biotechnology-tools/history-of-gene-manipulation"/>
     
@@ -1307,8 +1307,8 @@
   <entry>
     <title>Polymerase Chain Reaction</title>
     <id>/lessons/biotechnology/biotechnology-tools/polymerase-chain-reaction</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/biotechnology-tools/polymerase-chain-reaction"/>
     
@@ -1319,8 +1319,8 @@
   <entry>
     <title>Electrophoresis</title>
     <id>/lessons/biotechnology/biotechnology-tools/electrophoresis</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/biotechnology-tools/electrophoresis"/>
     
@@ -1331,8 +1331,8 @@
   <entry>
     <title>Restriction Enzymes</title>
     <id>/lessons/biotechnology/biotechnology-tools/restriction-enzymes</id>
-    <updated>2019-06-05T07:24:32-06:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>2019-06-05T13:24:32+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary>Restriction Enzymes and Recombinant DNAOne of the first tools necessary for the manipulation of genes in living organisms involves a set of enzymes that cut DNA. Restriction enzymes, or restriction</summary>
     <link href="/lessons/biotechnology/biotechnology-tools/restriction-enzymes"/>
     
@@ -1343,8 +1343,8 @@
   <entry>
     <title>DNA Fingerprinting</title>
     <id>/lessons/biotechnology/biotechnology-tools/dna-fingerprinting</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/biotechnology-tools/dna-fingerprinting"/>
     
@@ -1355,8 +1355,8 @@
   <entry>
     <title>Genetic Engineering</title>
     <id>/lessons/biotechnology/genetic-engineering</id>
-    <updated>2019-06-05T07:28:53-06:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>2019-06-05T13:28:53+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary>Biotechnology - Genetic EngineeringThis lesson focuses on using the tools of biotechnology to manipulate the genes of living organisms. Using recombinant DNA technology it is possible to create tran</summary>
     <link href="/lessons/biotechnology/genetic-engineering"/>
     
@@ -1367,8 +1367,8 @@
   <entry>
     <title>Engineering Bacteria</title>
     <id>/lessons/biotechnology/genetic-engineering/engineering-bacteria</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetic-engineering/engineering-bacteria"/>
     
@@ -1379,8 +1379,8 @@
   <entry>
     <title>Plasmid /Vector</title>
     <id>/lessons/biotechnology/genetic-engineering/plasmid-vector</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetic-engineering/plasmid-vector"/>
     
@@ -1391,8 +1391,8 @@
   <entry>
     <title>Plant Engineering</title>
     <id>/lessons/biotechnology/genetic-engineering/plant-engineering</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetic-engineering/plant-engineering"/>
     
@@ -1403,8 +1403,8 @@
   <entry>
     <title>Human Engineering</title>
     <id>/lessons/biotechnology/genetic-engineering/human-engineering</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/biotechnology/genetic-engineering/human-engineering"/>
     
@@ -1415,8 +1415,8 @@
   <entry>
     <title>Prokaryotes and Eukaryotes</title>
     <id>/lessons/prokaryotes-and-eukaryotes</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes"/>
     
@@ -1427,8 +1427,8 @@
   <entry>
     <title>External Structures</title>
     <id>/lessons/prokaryotes-and-eukaryotes/external-structures</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/external-structures"/>
     
@@ -1439,8 +1439,8 @@
   <entry>
     <title>Cell Wall Structure</title>
     <id>/lessons/prokaryotes-and-eukaryotes/cell-wall-structure</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/cell-wall-structure"/>
     
@@ -1451,8 +1451,8 @@
   <entry>
     <title>Internal Structures</title>
     <id>/lessons/prokaryotes-and-eukaryotes/internal-structures</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/internal-structures"/>
     
@@ -1463,8 +1463,8 @@
   <entry>
     <title>Resolution</title>
     <id>/lessons/prokaryotes-and-eukaryotes/resolution</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/resolution"/>
     
@@ -1475,8 +1475,8 @@
   <entry>
     <title>Endospores</title>
     <id>/lessons/prokaryotes-and-eukaryotes/endospores</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/endospores"/>
     
@@ -1487,8 +1487,8 @@
   <entry>
     <title>Microscope Basics</title>
     <id>/lessons/prokaryotes-and-eukaryotes/microscope-basics</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/microscope-basics"/>
     
@@ -1499,8 +1499,8 @@
   <entry>
     <title>Gram Stain</title>
     <id>/lessons/prokaryotes-and-eukaryotes/gram-stain</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/gram-stain"/>
     
@@ -1511,8 +1511,8 @@
   <entry>
     <title>Staining Basics</title>
     <id>/lessons/prokaryotes-and-eukaryotes/staining-basics</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/staining-basics"/>
     
@@ -1523,8 +1523,8 @@
   <entry>
     <title>Gram Positive/Negative</title>
     <id>/lessons/prokaryotes-and-eukaryotes/gram-positive-negative</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/gram-positive-negative"/>
     
@@ -1535,8 +1535,8 @@
   <entry>
     <title>Types of Microscopy</title>
     <id>/lessons/prokaryotes-and-eukaryotes/types-of-microscopy</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/types-of-microscopy"/>
     
@@ -1547,8 +1547,8 @@
   <entry>
     <title>Advanced Staining</title>
     <id>/lessons/prokaryotes-and-eukaryotes/advanced-staining</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/advanced-staining"/>
     
@@ -1559,8 +1559,8 @@
   <entry>
     <title>Microbial Cell Structures</title>
     <id>/lessons/prokaryotes-and-eukaryotes/microbial-cell-structures</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/microbial-cell-structures"/>
     
@@ -1571,8 +1571,8 @@
   <entry>
     <title>Other Types of Cells</title>
     <id>/lessons/prokaryotes-and-eukaryotes/other-types-of-cells</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/prokaryotes-and-eukaryotes/other-types-of-cells"/>
     
@@ -1583,8 +1583,8 @@
   <entry>
     <title>Control of Microbes</title>
     <id>/lessons/control-of-microbes</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes"/>
     
@@ -1595,8 +1595,8 @@
   <entry>
     <title>Radiation</title>
     <id>/lessons/control-of-microbes/radiation</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/radiation"/>
     
@@ -1607,8 +1607,8 @@
   <entry>
     <title>Filtration</title>
     <id>/lessons/control-of-microbes/filtration</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/filtration"/>
     
@@ -1619,8 +1619,8 @@
   <entry>
     <title>Osmotic Pressure</title>
     <id>/lessons/control-of-microbes/osmotic-pressure</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/osmotic-pressure"/>
     
@@ -1631,8 +1631,8 @@
   <entry>
     <title>Resistance Mechanisms</title>
     <id>/lessons/control-of-microbes/resistance-mechanisms</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/resistance-mechanisms"/>
     
@@ -1643,8 +1643,8 @@
   <entry>
     <title>Antibiotic Mechanisms II</title>
     <id>/lessons/control-of-microbes/antibiotic-mechanisms-ii</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/antibiotic-mechanisms-ii"/>
     
@@ -1655,8 +1655,8 @@
   <entry>
     <title>Types of Chemical Agents</title>
     <id>/lessons/control-of-microbes/types-of-chemical-agents</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/types-of-chemical-agents"/>
     
@@ -1667,8 +1667,8 @@
   <entry>
     <title>Characteristics of Antibiotics</title>
     <id>/lessons/control-of-microbes/characteristics-of-antibiotics</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/characteristics-of-antibiotics"/>
     
@@ -1679,8 +1679,8 @@
   <entry>
     <title>Antibiotic Mechanisms</title>
     <id>/lessons/control-of-microbes/antibiotic-mechanisms</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/antibiotic-mechanisms"/>
     
@@ -1691,8 +1691,8 @@
   <entry>
     <title>Antibiotic Resistance</title>
     <id>/lessons/control-of-microbes/antibiotic-resistance</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/antibiotic-resistance"/>
     
@@ -1703,8 +1703,8 @@
   <entry>
     <title>Microbial resistance</title>
     <id>/lessons/control-of-microbes/microbial-resistance</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/microbial-resistance"/>
     
@@ -1715,8 +1715,8 @@
   <entry>
     <title>Physical Methods: Heat</title>
     <id>/lessons/control-of-microbes/physical-methods-heat</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/physical-methods-heat"/>
     
@@ -1727,8 +1727,8 @@
   <entry>
     <title>Chemical Agents</title>
     <id>/lessons/control-of-microbes/chemical-agents</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/chemical-agents"/>
     
@@ -1739,8 +1739,8 @@
   <entry>
     <title>Control overview</title>
     <id>/lessons/control-of-microbes/control-overview</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/control-overview"/>
     
@@ -1751,8 +1751,8 @@
   <entry>
     <title>Discovery of Antibiotics</title>
     <id>/lessons/control-of-microbes/discovery-of-antibiotics</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/discovery-of-antibiotics"/>
     
@@ -1763,8 +1763,8 @@
   <entry>
     <title>Phenol Coefficient</title>
     <id>/lessons/control-of-microbes/phenol-coefficient</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/control-of-microbes/phenol-coefficient"/>
     
@@ -1775,8 +1775,8 @@
   <entry>
     <title>Medical Microbiology II</title>
     <id>/lessons/medical-microbiology-ii</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology-ii"/>
     
@@ -1787,8 +1787,8 @@
   <entry>
     <title>Neisseriae</title>
     <id>/lessons/medical-microbiology-ii/neisseriae</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology-ii/neisseriae"/>
     
@@ -1799,8 +1799,8 @@
   <entry>
     <title>Spirochetes</title>
     <id>/lessons/medical-microbiology-ii/spirochetes</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology-ii/spirochetes"/>
     
@@ -1811,8 +1811,8 @@
   <entry>
     <title>Bordetella</title>
     <id>/lessons/medical-microbiology-ii/bordetella</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology-ii/bordetella"/>
     
@@ -1823,8 +1823,8 @@
   <entry>
     <title>Yersinia</title>
     <id>/lessons/medical-microbiology-ii/yersinia</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology-ii/yersinia"/>
     
@@ -1835,8 +1835,8 @@
   <entry>
     <title>Vibrio</title>
     <id>/lessons/medical-microbiology-ii/vibrio</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology-ii/vibrio"/>
     
@@ -1847,8 +1847,8 @@
   <entry>
     <title>Legionella</title>
     <id>/lessons/medical-microbiology-ii/legionella</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-microbiology-ii/legionella"/>
     
@@ -1859,8 +1859,8 @@
   <entry>
     <title>Immunology</title>
     <id>/lessons/immunology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology"/>
     
@@ -1871,8 +1871,8 @@
   <entry>
     <title>Immune System</title>
     <id>/lessons/immunology/immune-system</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system"/>
     
@@ -1883,8 +1883,8 @@
   <entry>
     <title>Key Principles</title>
     <id>/lessons/immunology/immune-system/key-principles</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/key-principles"/>
     
@@ -1895,8 +1895,8 @@
   <entry>
     <title>Nonspecific Barriers</title>
     <id>/lessons/immunology/immune-system/nonspecific-barriers</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/nonspecific-barriers"/>
     
@@ -1907,8 +1907,8 @@
   <entry>
     <title>Nonspecific Defenses</title>
     <id>/lessons/immunology/immune-system/nonspecific-defenses</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/nonspecific-defenses"/>
     
@@ -1919,8 +1919,8 @@
   <entry>
     <title>Specific Responses</title>
     <id>/lessons/immunology/immune-system/specific-responses</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/specific-responses"/>
     
@@ -1931,8 +1931,8 @@
   <entry>
     <title>Cell Mediated</title>
     <id>/lessons/immunology/immune-system/cell-mediated</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/cell-mediated"/>
     
@@ -1943,8 +1943,8 @@
   <entry>
     <title>Antibody Mediated</title>
     <id>/lessons/immunology/immune-system/antibody-mediated</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/antibody-mediated"/>
     
@@ -1955,8 +1955,8 @@
   <entry>
     <title>Immunoglobulins</title>
     <id>/lessons/immunology/immune-system/immunoglobulins</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/immunoglobulins"/>
     
@@ -1967,8 +1967,8 @@
   <entry>
     <title>Antibody Function</title>
     <id>/lessons/immunology/immune-system/antibody-function</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/antibody-function"/>
     
@@ -1979,8 +1979,8 @@
   <entry>
     <title>Categories of Specific Immunity</title>
     <id>/lessons/immunology/immune-system/categories-of-specific-immunity</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/categories-of-specific-immunity"/>
     
@@ -1991,8 +1991,8 @@
   <entry>
     <title>Allergins</title>
     <id>/lessons/immunology/immune-system/allergins</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/allergins"/>
     
@@ -2003,8 +2003,8 @@
   <entry>
     <title>Capillaries</title>
     <id>/lessons/immunology/immune-system/capillaries</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/capillaries"/>
     
@@ -2015,8 +2015,8 @@
   <entry>
     <title>Fluids</title>
     <id>/lessons/immunology/immune-system/fluids</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/fluids"/>
     
@@ -2027,8 +2027,8 @@
   <entry>
     <title>Lymphatic System</title>
     <id>/lessons/immunology/immune-system/lymphatic-system</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/lymphatic-system"/>
     
@@ -2039,8 +2039,8 @@
   <entry>
     <title>Lymphatic Organs</title>
     <id>/lessons/immunology/immune-system/lymphatic-organs</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/lymphatic-organs"/>
     
@@ -2051,8 +2051,8 @@
   <entry>
     <title>Immune System</title>
     <id>/lessons/immunology/immune-system/immune-system</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/immune-system/immune-system"/>
     
@@ -2063,8 +2063,8 @@
   <entry>
     <title>Influenza </title>
     <id>/lessons/immunology/influenza</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/influenza"/>
     
@@ -2075,8 +2075,8 @@
   <entry>
     <title>Avian Flu</title>
     <id>/lessons/immunology/influenza/avian-flu</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/influenza/avian-flu"/>
     
@@ -2087,8 +2087,8 @@
   <entry>
     <title>Biology of Influenza</title>
     <id>/lessons/immunology/influenza/biology-of-influenza</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/influenza/biology-of-influenza"/>
     
@@ -2099,8 +2099,8 @@
   <entry>
     <title>Influenza: the Disease</title>
     <id>/lessons/immunology/influenza/influenza-the-disease</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/influenza/influenza-the-disease"/>
     
@@ -2111,8 +2111,8 @@
   <entry>
     <title>Epidemiology of Influenza</title>
     <id>/lessons/immunology/influenza/epidemiology-of-influenza</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/influenza/epidemiology-of-influenza"/>
     
@@ -2123,8 +2123,8 @@
   <entry>
     <title>Applied Immunology</title>
     <id>/lessons/immunology/applied-immunology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology"/>
     
@@ -2135,8 +2135,8 @@
   <entry>
     <title>Vaccines historically</title>
     <id>/lessons/immunology/applied-immunology/vaccines-historically</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology/vaccines-historically"/>
     
@@ -2147,8 +2147,8 @@
   <entry>
     <title>Whole Cell Vaccines</title>
     <id>/lessons/immunology/applied-immunology/whole-cell-vaccines</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology/whole-cell-vaccines"/>
     
@@ -2159,8 +2159,8 @@
   <entry>
     <title>Other Vaccine Types</title>
     <id>/lessons/immunology/applied-immunology/other-vaccine-types</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology/other-vaccine-types"/>
     
@@ -2171,8 +2171,8 @@
   <entry>
     <title>Vaccine Controversy</title>
     <id>/lessons/immunology/applied-immunology/vaccine-controversy</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology/vaccine-controversy"/>
     
@@ -2183,8 +2183,8 @@
   <entry>
     <title>Using Antibodies</title>
     <id>/lessons/immunology/applied-immunology/using-antibodies</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology/using-antibodies"/>
     
@@ -2195,8 +2195,8 @@
   <entry>
     <title>ELISA Direct Method</title>
     <id>/lessons/immunology/applied-immunology/elisa-direct-method</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology/elisa-direct-method"/>
     
@@ -2207,8 +2207,8 @@
   <entry>
     <title>ELISA Indirect</title>
     <id>/lessons/immunology/applied-immunology/elisa-indirect</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/immunology/applied-immunology/elisa-indirect"/>
     
@@ -2219,8 +2219,8 @@
   <entry>
     <title>Medical Virology</title>
     <id>/lessons/medical-virology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-virology"/>
     
@@ -2231,8 +2231,8 @@
   <entry>
     <title>Future Lessons</title>
     <id>/lessons/medical-virology/future-lessons</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-virology/future-lessons"/>
     
@@ -2243,8 +2243,8 @@
   <entry>
     <title>Survey of Microbial World</title>
     <id>/lessons/medical-virology/future-lessons/survey-of-microbial-world</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-virology/future-lessons/survey-of-microbial-world"/>
     
@@ -2255,8 +2255,8 @@
   <entry>
     <title>Bioterrorism</title>
     <id>/lessons/medical-virology/future-lessons/bioterrorism</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-virology/future-lessons/bioterrorism"/>
     
@@ -2267,8 +2267,8 @@
   <entry>
     <title>Influenza</title>
     <id>/lessons/medical-virology/influenza</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/medical-virology/influenza"/>
     
@@ -2279,8 +2279,8 @@
   <entry>
     <title>Infections and Epidemiology</title>
     <id>/lessons/infections-and-epidemiology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology"/>
     
@@ -2291,8 +2291,8 @@
   <entry>
     <title>Establishment and Spread</title>
     <id>/lessons/infections-and-epidemiology/establishment-and-spread</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/establishment-and-spread"/>
     
@@ -2303,8 +2303,8 @@
   <entry>
     <title>Damage</title>
     <id>/lessons/infections-and-epidemiology/damage</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/damage"/>
     
@@ -2315,8 +2315,8 @@
   <entry>
     <title>Exotoxins and Endotoxins</title>
     <id>/lessons/infections-and-epidemiology/exotoxins-and-endotoxins</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/exotoxins-and-endotoxins"/>
     
@@ -2327,8 +2327,8 @@
   <entry>
     <title>Portals of Exit</title>
     <id>/lessons/infections-and-epidemiology/portals-of-exit</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/portals-of-exit"/>
     
@@ -2339,8 +2339,8 @@
   <entry>
     <title>Epidemiology</title>
     <id>/lessons/infections-and-epidemiology/epidemiology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/epidemiology"/>
     
@@ -2351,8 +2351,8 @@
   <entry>
     <title>Reserviors</title>
     <id>/lessons/infections-and-epidemiology/reserviors</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/reserviors"/>
     
@@ -2363,8 +2363,8 @@
   <entry>
     <title>Epidemiology Future Topic</title>
     <id>/lessons/infections-and-epidemiology/epidemiology-future-topic</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/epidemiology-future-topic"/>
     
@@ -2375,8 +2375,8 @@
   <entry>
     <title>Epidemiological Rates</title>
     <id>/lessons/infections-and-epidemiology/epidemiological-rates</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/epidemiological-rates"/>
     
@@ -2387,8 +2387,8 @@
   <entry>
     <title>Pattern of Infection</title>
     <id>/lessons/infections-and-epidemiology/pattern-of-infection</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/pattern-of-infection"/>
     
@@ -2399,8 +2399,8 @@
   <entry>
     <title>Descriptive Epidemiology</title>
     <id>/lessons/infections-and-epidemiology/descriptive-epidemiology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/descriptive-epidemiology"/>
     
@@ -2411,8 +2411,8 @@
   <entry>
     <title>Human Host</title>
     <id>/lessons/infections-and-epidemiology/human-host</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/human-host"/>
     
@@ -2423,8 +2423,8 @@
   <entry>
     <title>Encounter: Portal of Entry</title>
     <id>/lessons/infections-and-epidemiology/encounter-portal-of-entry</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/encounter-portal-of-entry"/>
     
@@ -2435,8 +2435,8 @@
   <entry>
     <title>Attachment and Entry</title>
     <id>/lessons/infections-and-epidemiology/attachment-and-entry</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/infections-and-epidemiology/attachment-and-entry"/>
     
@@ -2447,8 +2447,8 @@
   <entry>
     <title>Virology</title>
     <id>/lessons/virology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology"/>
     
@@ -2459,8 +2459,8 @@
   <entry>
     <title>Biology of Viruses</title>
     <id>/lessons/virology/biology-of-viruses</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/biology-of-viruses"/>
     
@@ -2471,8 +2471,8 @@
   <entry>
     <title>What is a virus?</title>
     <id>/lessons/virology/biology-of-viruses/what-is-a-virus</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/biology-of-viruses/what-is-a-virus"/>
     
@@ -2483,8 +2483,8 @@
   <entry>
     <title>Viral Structure</title>
     <id>/lessons/virology/biology-of-viruses/viral-structure</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/biology-of-viruses/viral-structure"/>
     
@@ -2495,8 +2495,8 @@
   <entry>
     <title>Viral Genetic Information</title>
     <id>/lessons/virology/biology-of-viruses/viral-genetic-information</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/biology-of-viruses/viral-genetic-information"/>
     
@@ -2507,8 +2507,8 @@
   <entry>
     <title>Replication: Lytic cycle</title>
     <id>/lessons/virology/biology-of-viruses/replication-lytic-cycle</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/biology-of-viruses/replication-lytic-cycle"/>
     
@@ -2519,8 +2519,8 @@
   <entry>
     <title>Bacteriophage and Lysogeny</title>
     <id>/lessons/virology/biology-of-viruses/bacteriophage-and-lysogeny</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/biology-of-viruses/bacteriophage-and-lysogeny"/>
     
@@ -2531,8 +2531,8 @@
   <entry>
     <title>Growing Viruses</title>
     <id>/lessons/virology/biology-of-viruses/growing-viruses</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/biology-of-viruses/growing-viruses"/>
     
@@ -2543,8 +2543,8 @@
   <entry>
     <title>Viral Diseases</title>
     <id>/lessons/virology/viral-diseases</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/viral-diseases"/>
     
@@ -2555,8 +2555,8 @@
   <entry>
     <title>Diseases 2</title>
     <id>/lessons/virology/viral-diseases/diseases-2</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/viral-diseases/diseases-2"/>
     
@@ -2567,8 +2567,8 @@
   <entry>
     <title>Diseases 3</title>
     <id>/lessons/virology/viral-diseases/diseases-3</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/viral-diseases/diseases-3"/>
     
@@ -2579,8 +2579,8 @@
   <entry>
     <title>Diseases 4</title>
     <id>/lessons/virology/viral-diseases/diseases-4</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/viral-diseases/diseases-4"/>
     
@@ -2591,8 +2591,8 @@
   <entry>
     <title>Diseases 1</title>
     <id>/lessons/virology/viral-diseases/diseases-1</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/virology/viral-diseases/diseases-1"/>
     
@@ -2603,8 +2603,8 @@
   <entry>
     <title>Environmental and Applied</title>
     <id>/lessons/environmental-and-applied</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied"/>
     
@@ -2615,8 +2615,8 @@
   <entry>
     <title>Food Microbiology</title>
     <id>/lessons/environmental-and-applied/food-microbiology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/food-microbiology"/>
     
@@ -2627,8 +2627,8 @@
   <entry>
     <title>Applied Microbiology</title>
     <id>/lessons/environmental-and-applied/applied-microbiology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/applied-microbiology"/>
     
@@ -2639,8 +2639,8 @@
   <entry>
     <title>Environmental Microbiology--Bioremediation</title>
     <id>/lessons/environmental-and-applied/environmental-microbiology-bioremediation</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/environmental-microbiology-bioremediation"/>
     
@@ -2651,8 +2651,8 @@
   <entry>
     <title>More Food Microbiology</title>
     <id>/lessons/environmental-and-applied/more-food-microbiology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/more-food-microbiology"/>
     
@@ -2663,8 +2663,8 @@
   <entry>
     <title>Microbes and the Water Supply</title>
     <id>/lessons/environmental-and-applied/microbes-and-the-water-supply</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/microbes-and-the-water-supply"/>
     
@@ -2675,8 +2675,8 @@
   <entry>
     <title>Microbes in the Environment</title>
     <id>/lessons/environmental-and-applied/microbes-in-the-environment</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/microbes-in-the-environment"/>
     
@@ -2687,8 +2687,8 @@
   <entry>
     <title>Microbes: Nitrogen Fixation</title>
     <id>/lessons/environmental-and-applied/microbes-nitrogen-fixation</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/microbes-nitrogen-fixation"/>
     
@@ -2699,8 +2699,8 @@
   <entry>
     <title>Aquatic Microbial Ecology</title>
     <id>/lessons/environmental-and-applied/aquatic-microbial-ecology</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/lessons/environmental-and-applied/aquatic-microbial-ecology"/>
     
@@ -2711,8 +2711,8 @@
   <entry>
     <title>Resources</title>
     <id>/resources</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/resources"/>
     
@@ -2723,8 +2723,8 @@
   <entry>
     <title>Mycobacteria</title>
     <id>/resources/mycobacteria</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/resources/mycobacteria"/>
     
@@ -2735,8 +2735,8 @@
   <entry>
     <title>Mycobacterium: Tuberculosis</title>
     <id>/resources/mycobacteria/mycobacterium-tuberculosis</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/resources/mycobacteria/mycobacterium-tuberculosis"/>
     
@@ -2747,8 +2747,8 @@
   <entry>
     <title>Mycobacterium: Leprosy</title>
     <id>/resources/mycobacteria/mycobacterium-leprosy</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/resources/mycobacteria/mycobacterium-leprosy"/>
     
@@ -2759,8 +2759,8 @@
   <entry>
     <title>Clostridium</title>
     <id>/resources/clostridium</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/resources/clostridium"/>
     
@@ -2771,8 +2771,8 @@
   <entry>
     <title>ANGEL</title>
     <id>/resources/angel</id>
-    <updated>51355-11-18T04:10:01-07:00</updated>
-    <published>51355-11-18T04:10:01-07:00</published>
+    <updated>51355-11-18T11:10:01+00:00</updated>
+    <published>51355-11-18T11:10:01+00:00</published>
     <summary></summary>
     <link href="/resources/angel"/>
     

@@ -1,0 +1,19 @@
+version: '2'
+services:
+  # proxy:
+  #   build:
+  #     context: ./services/proxy
+  #   ports:
+  #     - '80:80'
+  haxcms:
+    build:
+      context: ./services/haxcms
+    volumes:
+      - /usr/local/apache2/htdocs/dist
+      - /usr/local/apache2/htdocs/build
+      - .:/usr/local/apache2/htdocs/
+    ports:
+      - '80:80'
+  r-service:
+    build:
+      context: ./services/r-service
