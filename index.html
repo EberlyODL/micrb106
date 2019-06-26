@@ -131,12 +131,13 @@
       }
       old=true;
     }
-    var link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = cdn + 'build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/base.css';
-    link.type = 'text/css';
     var def = document.getElementsByTagName('link')[0];
-    def.parentNode.insertBefore(link, def);
+    // Don't include the base.css
+    // var link = document.createElement('link');
+    // link.rel = 'stylesheet';
+    // link.href = cdn + 'build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/base.css';
+    // link.type = 'text/css';
+    // def.parentNode.insertBefore(link, def);
     var link2 = document.createElement('link');
     link2.rel = 'stylesheet';
     link2.href = './theme/theme.css';

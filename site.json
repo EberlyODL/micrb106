@@ -2727,11 +2727,27 @@
             "order": 183,
             "parent": "c5607bb6-04fa-11e3-8862-0050569d0017",
             "title": "Yersinia",
-            "description": "",
+            "description": "When people hear about plague it conjurs up the history of medieval Europe when half of the population became sick or died. There is some speculation about what disease or group of diseases are truly ",
             "metadata": {
                 "created": 1558467861001,
-                "updated": 1558467861001,
-                "uid": "1"
+                "updated": 1561572108,
+                "uid": "1",
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [
+                        {
+                            "resource": "#9dedde00-03bd-1d55-8541",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 5,
+                        "media-image": 1
+                    },
+                    "elements": 6
+                }
             }
         },
         {
