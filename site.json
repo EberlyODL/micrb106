@@ -3393,11 +3393,27 @@
             "order": 133,
             "parent": "c566be22-04fa-11e3-8862-0050569d0017",
             "title": "Human Host",
-            "description": "",
+            "description": "We live our entire lives quite literally, bathed in a sea of microorganisms. Every surface we touch, every external part of our body, even the air we breathe and the food and drink we swallow is dippe",
             "metadata": {
                 "created": 1558467861001,
-                "updated": 1558467861001,
-                "uid": "1"
+                "updated": 1561568115,
+                "uid": "1",
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 8,
+                    "schema": [
+                        {
+                            "resource": "#30e2d97d-7f33-959c-ade2",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 8,
+                        "media-image": 1
+                    },
+                    "elements": 9
+                }
             }
         },
         {
