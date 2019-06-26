@@ -1,8 +1,8 @@
 FROM elmsln/haxcms:latest as haxcms
 
-FROM httpd:2.4
+FROM nginx
 
-COPY --from=haxcms /var/www/html/build /usr/local/apache2/htdocs/build
-COPY --from=haxcms /var/www/html/dist /usr/local/apache2/htdocs/dist
+COPY --from=haxcms /var/www/html/build /usr/share/nginx/html/build
+COPY --from=haxcms /var/www/html/dist /usr/share/nginx/html/dist
 
-COPY nginx.conf /etc/nginx/nginx.conf
+# COPY httpd.conf /usr/local/apache2/conf/httpd.conf

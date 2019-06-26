@@ -24,6 +24,9 @@
  :root map-menu-header {
    display: none;
  }
+ map-menu-item {
+   font-size: 12px;
+ }
  body {
    font-size: 14px;
    font-family: 'Lato', sans-serif;
