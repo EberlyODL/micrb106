@@ -22,6 +22,9 @@ services:
     labels:
       - "traefik.enable=true" # Enable reverse-proxy for this service
       - "traefik.frontend.rule=Host:micrb106.${HOST}"
-  # r-service:
-  #   build:
-  #     context: ${MICRB106_PATH}/services/r-service
+  r-service:
+    build:
+      context: ${MICRB106_PATH}/services/r-service
+    labels:
+      - "traefik.enable=true" # Enable reverse-proxy for this service
+      - "traefik.frontend.rule=Host:micrb106.${HOST}; PathPrefix: /service/r-service"

@@ -57,7 +57,8 @@
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
             "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
-            "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js"
+            "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js",
+            "r-server": "@lrnwebcomponents\/r-coder\/r-coder.js"
         }
     },
     "items": [

@@ -12,3 +12,4 @@
 
 import './components/custom-gif.js'
 // import '@lrnwebcomponents/chartist-render/chartist-render.js'
+import "@lrnwebcomponents/r-coder/r-coder.js"
