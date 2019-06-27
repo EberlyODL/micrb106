@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>micrb106v2</title>
+    <title>micrb106</title>
     <link>/rss.xml</link>
     <description></description>
     <copyright>Copyright (C) 2019 </copyright>
@@ -12,7 +12,7 @@
       <title>Lessons</title>
       <link>/lessons</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ a  ]]>
       </description>
       <category></category>
       <guid>/lessons</guid>
@@ -22,7 +22,7 @@
       <title>Medical Microbiology</title>
       <link>/lessons/medical-microbiology</link>
       <description>
-          <![CDATA[ Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Descri ]]>
+          <![CDATA[ Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Desc ]]>
       </description>
       <category></category>
       <guid>/lessons/medical-microbiology</guid>

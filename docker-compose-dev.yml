@@ -1,0 +1,11 @@
+version: '2'
+services:
+  edit:
+    image: eberlyodl/haxcms:latest
+    volumes:
+      # - ${MICRB106_PATH}/../../dist:/usr/share/nginx/html/dist
+      # - ${MICRB106_PATH}/../../build:/usr/share/nginx/html/build
+      - ${MICRB106_PATH}:/var/www/html/_sites/site/
+    labels:
+      - "traefik.enable=true" # Enable reverse-proxy for this service
+      - "traefik.frontend.rule=Host:edit.micrb106.${HOST};"

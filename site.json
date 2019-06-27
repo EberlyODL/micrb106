@@ -58,7 +58,8 @@
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
             "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
             "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js",
-            "r-server": "@lrnwebcomponents\/r-coder\/r-coder.js"
+            "r-coder": "@lrnwebcomponents\/r-coder\/r-coder.js",
+            "glossary-term": "@lrnwebcomponents\/glossary-term\/glossary-term.js"
         }
     },
     "items": [
@@ -69,11 +70,21 @@
             "order": -231,
             "parent": null,
             "title": "Lessons",
-            "description": "",
+            "description": "a ",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1558467861000,
-                "uid": "1"
+                "updated": 1561653372,
+                "uid": "1",
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 0,
+                    "schema": [],
+                    "tags": {
+                        "r-coder": 1
+                    },
+                    "elements": 1
+                }
             }
         },
         {
@@ -83,10 +94,10 @@
             "order": 159,
             "parent": "c53b5ba6-04fa-11e3-8862-0050569d0017",
             "title": "Medical Microbiology",
-            "description": "Upon completing this lesson, you should be able to:\tDescribe the features and characteristics of the Streptococci\tDescribe the features and characteristics of the Staphyolococci\tDescri",
+            "description": "Upon completing this lesson, you should be able to:\tDescribe the features and characteristics of the Streptococci\tDescribe the features and characteristics of the Staphyolococci\tDesc",
             "metadata": {
                 "created": 1558467861000,
-                "updated": 1560542387,
+                "updated": 1561665124,
                 "uid": "1",
                 "readtime": 1,
                 "contentDetails": {

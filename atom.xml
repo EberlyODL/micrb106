@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>micrb106v2</title>
+  <title>micrb106</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
   <updated>2019-05-21T12:26:53-06:00</updated>
@@ -11,25 +11,25 @@
   <entry>
     <title>Lessons</title>
     <id>/lessons</id>
-    <updated>51355-11-18T04:10:00-07:00</updated>
+    <updated>2019-06-27T10:36:12-06:00</updated>
     <published>51355-11-18T04:10:00-07:00</published>
-    <summary></summary>
+    <summary>a </summary>
     <link href="/lessons"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ a  ]]>
     </content>
   </entry>
   <entry>
     <title>Medical Microbiology</title>
     <id>/lessons/medical-microbiology</id>
-    <updated>2019-06-14T13:59:47-06:00</updated>
+    <updated>2019-06-27T13:52:04-06:00</updated>
     <published>51355-11-18T04:10:00-07:00</published>
-    <summary>Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Descri</summary>
+    <summary>Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Desc</summary>
     <link href="/lessons/medical-microbiology"/>
     
     <content type="html">
-      <![CDATA[ Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Descri ]]>
+      <![CDATA[ Upon completing this lesson, you should be able to:	Describe the features and characteristics of the Streptococci	Describe the features and characteristics of the Staphyolococci	Desc ]]>
     </content>
   </entry>
   <entry>
