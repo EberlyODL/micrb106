@@ -2,16 +2,21 @@ version: '2'
 services:
   proxy:
     build:
-      context: ./services/proxy
+      context: ${MICRB106_PATH}/services/proxy
     ports:
-      - '80:80'
+      - 80
+    labels:
+      - "traefik.enable=true" # Enable reverse-proxy for this service
+      - "traefik.frontend.rule=Host:micrb106.${HOST}"
   haxcms:
     build:
-      context: ./services/haxcms
+      context: ${MICRB106_PATH}/services/haxcms
     volumes:
       - /usr/share/nginx/html/dist
       - /usr/share/nginx/html/build
-      - .:/usr/share/nginx/html/
+      # - ${MICRB106_PATH}/../../dist:/usr/share/nginx/html/dist
+      # - ${MICRB106_PATH}/../../build:/usr/share/nginx/html/build
+      - ${MICRB106_PATH}:/usr/share/nginx/html/
   r-service:
     build:
-      context: ./services/r-service
+      context: ${MICRB106_PATH}/services/r-service

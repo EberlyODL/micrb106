@@ -1,4 +1,4 @@
-FROM elmsln/haxcms:latest as haxcms
+FROM eberlyodl/haxcms:latest as haxcms
 
 FROM nginx
 
