@@ -1,5 +1,12 @@
 version: '2'
 services:
+  # proxy:
+  #   build:
+  #     context: ${MICRB106_PATH}/services/proxy
+  #   labels:
+  #     - "traefik.enable=true" # Enable reverse-proxy for this service
+  #     - "traefik.frontend.rule=Host:micrb106.${HOST}"
+
   haxcms:
     build:
       context: ${MICRB106_PATH}/services/haxcms
@@ -16,7 +23,7 @@ services:
       context: ${MICRB106_PATH}/services/r-service
     labels:
       - "traefik.enable=true" # Enable reverse-proxy for this service
-      - "traefik.frontend.rule=Host:r-service.micrb106.${HOST}"
+      - "traefik.frontend.rule=Host:micrb106.${HOST}; Path:/service/r-service"
 
   glossary-service:
     build:
