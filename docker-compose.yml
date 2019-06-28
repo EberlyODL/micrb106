@@ -28,6 +28,8 @@ services:
   glossary-service:
     build:
       context: ${MICRB106_PATH}/services/glossary-service
+    volumes:
+      - ${MICRB106_PATH}/services/glossary-service/glossary-terms.json:/usr/share/nginx/html/glossary-terms/glossary-terms.json
     labels:
       - "traefik.enable=true" # Enable reverse-proxy for this service
-      - "traefik.frontend.rule=Host:glossary-service.micrb106.${HOST}"
+      - "traefik.frontend.rule=Host:micrb106.${HOST}; Path:/glossary-terms/{*};"
