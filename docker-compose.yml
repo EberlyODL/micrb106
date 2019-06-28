@@ -4,9 +4,11 @@ services:
     build:
       context: ${MICRB106_PATH}/services/haxcms
     volumes:
-      - /usr/share/nginx/html/dist
-      - /usr/share/nginx/html/build
-      - ${MICRB106_PATH}:/usr/share/nginx/html/
+      - /var/www/html/dist
+      - /var/www/html/build
+      - ${MICRB106_PATH}:/var/www/html/
+    ports:
+      - 80:80
     labels:
       - "traefik.enable=true" # Enable reverse-proxy for this service
       - "traefik.frontend.rule=Host:micrb106.${HOST}"
