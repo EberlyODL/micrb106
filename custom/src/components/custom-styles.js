@@ -9,7 +9,13 @@ class CustomStyles extends LitElement {
           --haxcms-base-styles-list-padding-bottom: 0;
           --haxcms-base-styles-list-max-width: none;
         }
+        site-active-title {
+          --site-active-title-heading: {
+            display: none;
+          }
+        }
       </style>
+      <slot></slot>
     `
   }
 }

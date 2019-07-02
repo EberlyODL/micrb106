@@ -20,17 +20,17 @@
    --haxcms-base-styles-p-font-size: 16px;
    --learn-two-theme-font-family: 'Lato';
    --hax-body-font-family: 'Lato';
+   --learn-two-theme-default-background: white;
+
+   --simple-modal-max-width: 800px;
  }
- :root map-menu-header {
-   display: none;
+ #scrollable {
+   font-size: 2em;
  }
- map-menu-item {
-   font-size: 12px;
- }
- body {
-   font-size: 18px;
-   font-family: 'Lato', sans-serif;
-   line-height: 2 !important;
+ html,body {
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+  line-height: 2 !important;
  }
  @media screen and (min-width: 900px) {
   body {

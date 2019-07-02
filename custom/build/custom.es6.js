@@ -26,4 +26,18 @@ import{LitElement as e,css as t,html as s}from"../../build/es6/node_modules/lit-
       <div id="info">
         <slot name="info"></slot>
       </div>
+    `}});customElements.define("custom-styles",class extends e{render(){return s`
+      <style is="custom-style">
+        :root {
+          line-height: 1.75;
+          --haxcms-base-styles-list-padding-bottom: 0;
+          --haxcms-base-styles-list-max-width: none;
+        }
+        site-active-title {
+          --site-active-title-heading: {
+            display: none;
+          }
+        }
+      </style>
+      <slot></slot>
     `}});
