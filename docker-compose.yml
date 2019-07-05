@@ -6,7 +6,7 @@ services:
       context: ${MICRB106_PATH}/services/haxcms
     volumes:
       - /var/www/html/dist
-      - ${MICRB106_PATH}/../../build:/var/www/html/build
+      - /var/www/html/build
       - ${MICRB106_PATH}:/var/www/html/
     labels:
       - "traefik.enable=true" # Enable reverse-proxy for this service
